@@ -1,4 +1,8 @@
-# Cosine Is Not Enough: detecting undisclosed copying between LLM agents (Swarm Alignment Hackathon 2026, Track 4)
+# The Illusion of Independent Evidence: Evaluating Source-Based Oversight in Multi-Agent AI Systems
+
+*(Earlier working title: "Cosine Is Not Enough: Detecting Undisclosed Copying Between LLM Agents in a Pre-Registered Test Bed".)*
+
+Swarm Alignment Hackathon 2026, Track 4.
 
 Controlled test bed and **pre-registered re-test** of monitors that try to detect an LLM agent copying another agent's report while claiming independent evidence. Code, data, results, reports and videos for the Apart Research Swarm Alignment Hackathon (6 to 8 November 2026).
 

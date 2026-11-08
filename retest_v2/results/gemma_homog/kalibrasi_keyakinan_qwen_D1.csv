@@ -1,0 +1,16 @@
+bin_keyakinan_dari,bin_keyakinan_sampai,n,rata_rata_keyakinan_dinyatakan,laju_salinan_sebenarnya
+0,0.2,170,0.0565,0.0353
+0.2,0.4,0,,
+0.4,0.6,0,,
+0.6,0.8,2,0.65,0.0
+0.8,1.0,1048,0.9399,0.7004
+
+ukuran,nilai
+n_penilaian,1220
+brier,0.2332
+brier_tebakan_50_50,0.25
+brier_tebakan_konstan_prevalensi,0.2386
+porsi_sangat_yakin_(<=0.1_atau_>=0.9),0.9
+porsi_ragu_(0.3-0.7),0.0016
+sangat_yakin_tapi_salah,271
+sangat_yakin_total,1098

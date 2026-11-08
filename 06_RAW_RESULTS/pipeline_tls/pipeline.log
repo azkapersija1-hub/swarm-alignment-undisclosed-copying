@@ -1,0 +1,9 @@
+[15:23:04] start 1_score_monitors
+[15:58:17] done  1_score_monitors
+[15:58:17] start 2_evaluate
+[16:03:16] done  2_evaluate
+[16:03:16] start 3_tracks_t1_t3
+[16:08:59] done  3_tracks_t1_t3
+[16:08:59] start 4_track2_networks
+[16:08:59] FAILED 4_track2_networks (see 06_RAW_RESULTS/pipeline_tls/4_track2_networks.log)
+[16:09:00] PIPELINE FINISHED

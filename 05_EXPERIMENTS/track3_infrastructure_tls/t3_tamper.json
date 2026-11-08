@@ -1,0 +1,12 @@
+{
+ "test": "T3.6 controlled log alteration (sandbox copies of ledgers)",
+ "n_ledgers": 148,
+ "detection_rate": {
+  "edit_data": 1.0,
+  "delete_middle": 1.0,
+  "swap_order": 1.0,
+  "truncate_tail": 0.0,
+  "truncate_tail_with_anchored_head": 1.0
+ },
+ "note": "hash chain alone cannot detect tail truncation; an externally anchored head hash can. No signatures => integrity, not authentication."
+}

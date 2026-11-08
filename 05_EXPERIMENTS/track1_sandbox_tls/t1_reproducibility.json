@@ -1,0 +1,14 @@
+{
+ "formula_pipeline_exact_agreement": 1.0,
+ "llm_temp0": {
+  "n": 10,
+  "exact_output_agreement": 0.3,
+  "semantic_agreement_cos_gt_0.99": 1.0
+ },
+ "llm_temp0.7_fixed_seed": {
+  "n": 10,
+  "exact_output_agreement": 0.0,
+  "semantic_agreement_cos_gt_0.99": 1.0
+ },
+ "seconds": 233.9
+}

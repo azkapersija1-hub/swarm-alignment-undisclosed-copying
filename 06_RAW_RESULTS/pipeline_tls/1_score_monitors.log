@@ -1,0 +1,16 @@
+rep0_gemma4_31b-cloud.jsonl 164 records; 2352 new embeddings; t=205s
+content+ledger done; t=264s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs_tls\rep0_gemma4_31b-cloud_scores.jsonl t=491s
+rep1_gemma4_31b-cloud.jsonl 164 records; 1544 new embeddings; t=621s
+content+ledger done; t=680s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs_tls\rep1_gemma4_31b-cloud_scores.jsonl t=904s
+rep2_gemma4_31b-cloud.jsonl 164 records; 1475 new embeddings; t=1028s
+content+ledger done; t=1087s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs_tls\rep2_gemma4_31b-cloud_scores.jsonl t=1310s
+rep3_gemma4_31b-cloud.jsonl 164 records; 1396 new embeddings; t=1427s
+content+ledger done; t=1486s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs_tls\rep3_gemma4_31b-cloud_scores.jsonl t=1709s
+rep4_gemma4_31b-cloud.jsonl 164 records; 1335 new embeddings; t=1821s
+content+ledger done; t=1881s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs_tls\rep4_gemma4_31b-cloud_scores.jsonl t=2112s
+GPU max temp 60.0 samples 416

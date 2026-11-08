@@ -1,0 +1,8 @@
+{
+ "test": "T3.1/T3.2 stable agent identity under renaming/collision",
+ "events": 984,
+ "distinct_agents": 328,
+ "resolution_accuracy_by_internal_id": 1.0,
+ "resolution_accuracy_by_display_name": 0.0,
+ "note": "internal ids are controller-issued hashes; no cryptographic authentication of agents is claimed"
+}

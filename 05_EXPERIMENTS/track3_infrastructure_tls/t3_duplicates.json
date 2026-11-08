@@ -1,0 +1,17 @@
+{
+ "test": "T3.3 duplicate source identity (92 sources, all pairs)",
+ "exact_twin_by_body_hash": {
+  "tp": 44,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0
+ },
+ "family_by_3gram_containment>=0.6": {
+  "tp": 66,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0
+ }
+}

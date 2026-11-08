@@ -1,0 +1,46 @@
+{
+ "audit_date": "2026-11-07",
+ "models": [
+  {
+   "id": "gemma4:31b-cloud",
+   "provider": "Ollama cloud (remote hardware; NOT the local GPU)",
+   "status": "USED (agents, LLM monitors, corpus generation for preliminary set)"
+  },
+  {
+   "id": "embeddinggemma-2:740m",
+   "provider": "Ollama local (local GPU)",
+   "status": "USED (embeddings)",
+   "note": "digest f4981a15b99858ad1f2e0729416e526be7b4f428291b40082b9e4f7b27b5f62f; may differ from the model in arXiv:2509.20354"
+  },
+  {
+   "id": "qwen3.5:397b-cloud",
+   "provider": "Ollama cloud",
+   "status": "BLOCKED: HTTP 410 Gone"
+  },
+  {
+   "id": "deepseek-v4-flash:cloud",
+   "provider": "Ollama cloud",
+   "status": "BLOCKED: HTTP 410 Gone"
+  },
+  {
+   "id": "minimax-m3:cloud / kimi-k2.7-code:cloud",
+   "provider": "Ollama cloud",
+   "status": "BLOCKED: HTTP 402 Payment Required"
+  },
+  {
+   "id": "qwen-max / qwen3.8-flash / qwen-plus (DashScope API)",
+   "provider": "Alibaba DashScope",
+   "status": "BLOCKED: HTTP 401 (configured key rejected)"
+  },
+  {
+   "id": "Claude Haiku (API)",
+   "provider": "Anthropic",
+   "status": "NOT TESTED: no API key in environment; Haiku was used only as literature-search helper agents, not as experimental agent"
+  },
+  {
+   "id": "local generative model on GPU",
+   "provider": "local",
+   "status": "NOT TESTED: none installed; download requires researcher permission; GPU has 4 GB VRAM"
+  }
+ ]
+}

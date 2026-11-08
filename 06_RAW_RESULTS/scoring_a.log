@@ -1,0 +1,4 @@
+rep0_gemma4_31b-cloud.jsonl 148 records; 1368 new embeddings; t=115s
+content+ledger done; t=168s
+wrote D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\06_RAW_RESULTS\formula_runs\rep0_gemma4_31b-cloud_scores.jsonl t=389s
+GPU max temp 59.0 samples 77

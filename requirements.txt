@@ -1,0 +1,12 @@
+# Third-party packages imported by the code (versions not pinned: the project was run on Python 3.12, Windows, with whatever was installed on 2026-11-08).
+# Standard-library modules are not listed.
+numpy
+scikit-learn
+matplotlib
+pillow
+python-docx
+# only for retest_v2/src/make_scatter3d.py
+pandas
+plotly
+kaleido
+# external programs (not pip): ffmpeg (videos), Ollama with embeddinggemma-2:740m (embeddings)

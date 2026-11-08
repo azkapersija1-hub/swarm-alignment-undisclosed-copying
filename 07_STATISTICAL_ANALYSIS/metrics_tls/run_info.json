@@ -1,0 +1,20 @@
+{
+ "n_replicates": 5,
+ "records_per_replicate": {
+  "0": 164,
+  "1": 164,
+  "2": 164,
+  "3": 164,
+  "4": 164
+ },
+ "excluded_unknown_label": {
+  "0": 47,
+  "1": 42,
+  "2": 55,
+  "3": 54,
+  "4": 47
+ },
+ "min_realized_overlap": 0.5,
+ "n_boot": 1000,
+ "boot_seed": 20261108
+}

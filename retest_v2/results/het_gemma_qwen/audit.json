@@ -1,0 +1,59 @@
+{
+ "generation_failures": {
+  "n": 0,
+  "by_type": {}
+ },
+ "rows_scored": 488,
+ "rcc_fallback_rate": 0.0,
+ "argon_f42_fallback_rate": 0.0,
+ "llm_parse_fail_rate": {
+  "tp:qwen3.8-flash": 0.0
+ },
+ "h1_abstain_rate_by_type": {
+  "IND_SAME": 0.0,
+  "IND_DIFF": 0.0,
+  "TWIN_H": 0.0,
+  "NEAR_H": 0.0,
+  "SHARED_OK": 0.0,
+  "COPY_LIT": 0.0,
+  "COPY_PARA": 0.0,
+  "COPY_TWIN": 0.0,
+  "COPY_COVER": 0.0,
+  "NOSRC_SAME": 1.0,
+  "ADAPT_SURROGATE_K3": 0.0,
+  "ADAPT_LEX_INJECT": 0.025,
+  "ADAPT_SPLIT_2": 0.0,
+  "ADAPT_OUT_OF_BAND": 0.0
+ },
+ "ic_regex_share_ic1_by_type": {
+  "IND_SAME": 0.96875,
+  "IND_DIFF": 0.9375,
+  "TWIN_H": 0.9,
+  "NEAR_H": 0.9583333333333334,
+  "SHARED_OK": 0.0,
+  "COPY_LIT": 1.0,
+  "COPY_PARA": 0.725,
+  "COPY_TWIN": 0.875,
+  "COPY_COVER": 1.0,
+  "NOSRC_SAME": 1.0,
+  "ADAPT_SURROGATE_K3": 0.925,
+  "ADAPT_LEX_INJECT": 1.0,
+  "ADAPT_SPLIT_2": 0.85,
+  "ADAPT_OUT_OF_BAND": 1.0
+ },
+ "ic_regex_design_agreement": 0.9344262295081968,
+ "surrogate_attack": {
+  "n": 40,
+  "mean_first_score": 0.95,
+  "mean_final_best_score": 0.95,
+  "mean_rounds": 3.0
+ },
+ "conditions_scored": {
+  "scenario_types": 14,
+  "granularities": 3,
+  "log_modes": 7,
+  "replicates": 2,
+  "cells_type_x_gran_x_mode_x_rep": 588,
+  "pair_condition_evaluations": 10248
+ }
+}

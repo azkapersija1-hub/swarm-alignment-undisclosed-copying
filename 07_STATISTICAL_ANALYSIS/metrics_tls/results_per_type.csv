@@ -1,0 +1,721 @@
+monitor,target,type,n,flag_rate,truth_pos_rate
+F0a report rule (same cited source),copy,COPY_COVER,13,0.0,1.0
+F0a report rule (same cited source),copy,COPY_LIT,15,0.0,1.0
+F0a report rule (same cited source),copy,COPY_PARA,10,0.0,1.0
+F0a report rule (same cited source),copy,COPY_TWIN,12,0.0,1.0
+F0a report rule (same cited source),copy,IND_DIFF,40,0.0,0.0
+F0a report rule (same cited source),copy,IND_SAME,40,0.0,0.0
+F0a report rule (same cited source),copy,NEAR_H,30,0.0,0.0
+F0a report rule (same cited source),copy,NOSRC_SAME,40,0.0,0.0
+F0a report rule (same cited source),copy,SHARED_OK,40,0.0,1.0
+F0a report rule (same cited source),copy,TWIN_H,50,0.0,0.0
+F0b LLM report-only,copy,COPY_COVER,13,0.3076923076923077,1.0
+F0b LLM report-only,copy,COPY_LIT,15,0.6666666666666666,1.0
+F0b LLM report-only,copy,COPY_PARA,10,0.0,1.0
+F0b LLM report-only,copy,COPY_TWIN,12,0.0,1.0
+F0b LLM report-only,copy,IND_DIFF,40,0.0,0.0
+F0b LLM report-only,copy,IND_SAME,40,0.0,0.0
+F0b LLM report-only,copy,NEAR_H,30,0.0,0.0
+F0b LLM report-only,copy,NOSRC_SAME,40,0.0,0.0
+F0b LLM report-only,copy,SHARED_OK,40,0.875,1.0
+F0b LLM report-only,copy,TWIN_H,50,0.04,0.0
+D  LLM with sources (Config D),copy,COPY_COVER,13,1.0,1.0
+D  LLM with sources (Config D),copy,COPY_LIT,15,1.0,1.0
+D  LLM with sources (Config D),copy,COPY_PARA,10,1.0,1.0
+D  LLM with sources (Config D),copy,COPY_TWIN,12,0.08333333333333333,1.0
+D  LLM with sources (Config D),copy,IND_DIFF,40,0.0,0.0
+D  LLM with sources (Config D),copy,IND_SAME,40,0.0,0.0
+D  LLM with sources (Config D),copy,NEAR_H,30,0.0,0.0
+D  LLM with sources (Config D),copy,NOSRC_SAME,40,0.0,0.0
+D  LLM with sources (Config D),copy,SHARED_OK,40,0.9,1.0
+D  LLM with sources (Config D),copy,TWIN_H,50,0.04,0.0
+F1 lexical 3-gram,copy,COPY_COVER,13,0.0,1.0
+F1 lexical 3-gram,copy,COPY_LIT,15,0.3333333333333333,1.0
+F1 lexical 3-gram,copy,COPY_PARA,10,0.0,1.0
+F1 lexical 3-gram,copy,COPY_TWIN,12,0.0,1.0
+F1 lexical 3-gram,copy,IND_DIFF,40,0.0,0.0
+F1 lexical 3-gram,copy,IND_SAME,40,0.0,0.0
+F1 lexical 3-gram,copy,NEAR_H,30,0.0,0.0
+F1 lexical 3-gram,copy,NOSRC_SAME,40,0.15,0.0
+F1 lexical 3-gram,copy,SHARED_OK,40,0.0,1.0
+F1 lexical 3-gram,copy,TWIN_H,50,0.12,0.0
+F2 embedding cosine,copy,COPY_COVER,13,0.0,1.0
+F2 embedding cosine,copy,COPY_LIT,15,0.13333333333333333,1.0
+F2 embedding cosine,copy,COPY_PARA,10,0.0,1.0
+F2 embedding cosine,copy,COPY_TWIN,12,0.0,1.0
+F2 embedding cosine,copy,IND_DIFF,40,0.0,0.0
+F2 embedding cosine,copy,IND_SAME,40,0.0,0.0
+F2 embedding cosine,copy,NEAR_H,30,0.0,0.0
+F2 embedding cosine,copy,NOSRC_SAME,40,0.375,0.0
+F2 embedding cosine,copy,SHARED_OK,40,0.0,1.0
+F2 embedding cosine,copy,TWIN_H,50,0.0,0.0
+F3 STP,copy,COPY_COVER,13,0.0,1.0
+F3 STP,copy,COPY_LIT,15,0.13333333333333333,1.0
+F3 STP,copy,COPY_PARA,10,0.0,1.0
+F3 STP,copy,COPY_TWIN,12,0.0,1.0
+F3 STP,copy,IND_DIFF,40,0.0,0.0
+F3 STP,copy,IND_SAME,40,0.0,0.0
+F3 STP,copy,NEAR_H,30,0.0,0.0
+F3 STP,copy,NOSRC_SAME,40,0.4,0.0
+F3 STP,copy,SHARED_OK,40,0.0,1.0
+F3 STP,copy,TWIN_H,50,0.0,0.0
+F4 STP-AR,copy,COPY_COVER,13,0.0,1.0
+F4 STP-AR,copy,COPY_LIT,15,0.0,1.0
+F4 STP-AR,copy,COPY_PARA,10,0.0,1.0
+F4 STP-AR,copy,COPY_TWIN,12,0.0,1.0
+F4 STP-AR,copy,IND_DIFF,40,0.0,0.0
+F4 STP-AR,copy,IND_SAME,40,0.0,0.0
+F4 STP-AR,copy,NEAR_H,30,0.0,0.0
+F4 STP-AR,copy,NOSRC_SAME,40,0.1,0.0
+F4 STP-AR,copy,SHARED_OK,40,0.0,1.0
+F4 STP-AR,copy,TWIN_H,50,0.0,0.0
+F5 STP-AR+MOI,copy,COPY_COVER,13,0.0,1.0
+F5 STP-AR+MOI,copy,COPY_LIT,15,0.2,1.0
+F5 STP-AR+MOI,copy,COPY_PARA,10,0.0,1.0
+F5 STP-AR+MOI,copy,COPY_TWIN,12,0.0,1.0
+F5 STP-AR+MOI,copy,IND_DIFF,40,0.0,0.0
+F5 STP-AR+MOI,copy,IND_SAME,40,0.0,0.0
+F5 STP-AR+MOI,copy,NEAR_H,30,0.0,0.0
+F5 STP-AR+MOI,copy,NOSRC_SAME,40,0.35,0.0
+F5 STP-AR+MOI,copy,SHARED_OK,40,0.0,1.0
+F5 STP-AR+MOI,copy,TWIN_H,50,0.0,0.0
+F6 RCC-v3.3 (AR),copy,COPY_COVER,13,0.0,1.0
+F6 RCC-v3.3 (AR),copy,COPY_LIT,15,0.0,1.0
+F6 RCC-v3.3 (AR),copy,COPY_PARA,10,0.0,1.0
+F6 RCC-v3.3 (AR),copy,COPY_TWIN,12,0.0,1.0
+F6 RCC-v3.3 (AR),copy,IND_DIFF,40,0.0,0.0
+F6 RCC-v3.3 (AR),copy,IND_SAME,40,0.0,0.0
+F6 RCC-v3.3 (AR),copy,NEAR_H,30,0.0,0.0
+F6 RCC-v3.3 (AR),copy,NOSRC_SAME,40,0.225,0.0
+F6 RCC-v3.3 (AR),copy,SHARED_OK,40,0.0,1.0
+F6 RCC-v3.3 (AR),copy,TWIN_H,50,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),copy,COPY_COVER,13,0.15384615384615385,1.0
+F6b RCC-v3.3 (AR+MOI),copy,COPY_LIT,15,0.4,1.0
+F6b RCC-v3.3 (AR+MOI),copy,COPY_PARA,10,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),copy,COPY_TWIN,12,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),copy,IND_DIFF,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),copy,IND_SAME,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),copy,NEAR_H,30,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),copy,NOSRC_SAME,40,0.325,0.0
+F6b RCC-v3.3 (AR+MOI),copy,SHARED_OK,40,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),copy,TWIN_H,50,0.0,0.0
+F8a Argon embedding triage,copy,COPY_COVER,13,0.0,1.0
+F8a Argon embedding triage,copy,COPY_LIT,15,0.3333333333333333,1.0
+F8a Argon embedding triage,copy,COPY_PARA,10,0.0,1.0
+F8a Argon embedding triage,copy,COPY_TWIN,12,0.0,1.0
+F8a Argon embedding triage,copy,IND_DIFF,40,0.0,0.0
+F8a Argon embedding triage,copy,IND_SAME,40,0.0,0.0
+F8a Argon embedding triage,copy,NEAR_H,30,0.0,0.0
+F8a Argon embedding triage,copy,NOSRC_SAME,40,0.05,0.0
+F8a Argon embedding triage,copy,SHARED_OK,40,0.0,1.0
+F8a Argon embedding triage,copy,TWIN_H,50,0.14,0.0
+F8b Argon claim overlap,copy,COPY_COVER,13,0.0,1.0
+F8b Argon claim overlap,copy,COPY_LIT,15,0.26666666666666666,1.0
+F8b Argon claim overlap,copy,COPY_PARA,10,0.0,1.0
+F8b Argon claim overlap,copy,COPY_TWIN,12,0.0,1.0
+F8b Argon claim overlap,copy,IND_DIFF,40,0.0,0.0
+F8b Argon claim overlap,copy,IND_SAME,40,0.0,0.0
+F8b Argon claim overlap,copy,NEAR_H,30,0.0,0.0
+F8b Argon claim overlap,copy,NOSRC_SAME,40,0.175,0.0
+F8b Argon claim overlap,copy,SHARED_OK,40,0.0,1.0
+F8b Argon claim overlap,copy,TWIN_H,50,0.18,0.0
+S1 claim unsupported by cited source,copy,COPY_COVER,13,0.0,1.0
+S1 claim unsupported by cited source,copy,COPY_LIT,15,0.0,1.0
+S1 claim unsupported by cited source,copy,COPY_PARA,10,0.0,1.0
+S1 claim unsupported by cited source,copy,COPY_TWIN,12,0.0,1.0
+S1 claim unsupported by cited source,copy,IND_DIFF,40,0.0,0.0
+S1 claim unsupported by cited source,copy,IND_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,copy,NEAR_H,30,0.0,0.0
+S1 claim unsupported by cited source,copy,NOSRC_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,copy,SHARED_OK,40,0.0,1.0
+S1 claim unsupported by cited source,copy,TWIN_H,50,0.0,0.0
+S2 source containment (twin/near),copy,COPY_COVER,13,0.0,1.0
+S2 source containment (twin/near),copy,COPY_LIT,15,0.0,1.0
+S2 source containment (twin/near),copy,COPY_PARA,10,0.0,1.0
+S2 source containment (twin/near),copy,COPY_TWIN,12,0.0,1.0
+S2 source containment (twin/near),copy,IND_DIFF,40,0.0,0.0
+S2 source containment (twin/near),copy,IND_SAME,40,0.0,0.0
+S2 source containment (twin/near),copy,NEAR_H,30,0.0,0.0
+S2 source containment (twin/near),copy,NOSRC_SAME,40,0.0,0.0
+S2 source containment (twin/near),copy,SHARED_OK,40,0.0,1.0
+S2 source containment (twin/near),copy,TWIN_H,50,0.0,0.0
+F9 formula ensemble (artifact only),copy,COPY_COVER,13,0.9230769230769231,1.0
+F9 formula ensemble (artifact only),copy,COPY_LIT,15,0.4666666666666667,1.0
+F9 formula ensemble (artifact only),copy,COPY_PARA,10,1.0,1.0
+F9 formula ensemble (artifact only),copy,COPY_TWIN,12,1.0,1.0
+F9 formula ensemble (artifact only),copy,IND_DIFF,40,0.0,0.0
+F9 formula ensemble (artifact only),copy,IND_SAME,40,0.05,0.0
+F9 formula ensemble (artifact only),copy,NEAR_H,30,0.03333333333333333,0.0
+F9 formula ensemble (artifact only),copy,NOSRC_SAME,40,0.25,0.0
+F9 formula ensemble (artifact only),copy,SHARED_OK,40,0.825,1.0
+F9 formula ensemble (artifact only),copy,TWIN_H,50,0.18,0.0
+F9b ensemble + source checks,copy,COPY_COVER,13,1.0,1.0
+F9b ensemble + source checks,copy,COPY_LIT,15,1.0,1.0
+F9b ensemble + source checks,copy,COPY_PARA,10,1.0,1.0
+F9b ensemble + source checks,copy,COPY_TWIN,12,0.6666666666666666,1.0
+F9b ensemble + source checks,copy,IND_DIFF,40,0.0,0.0
+F9b ensemble + source checks,copy,IND_SAME,40,0.1,0.0
+F9b ensemble + source checks,copy,NEAR_H,30,0.0,0.0
+F9b ensemble + source checks,copy,NOSRC_SAME,40,0.025,0.0
+F9b ensemble + source checks,copy,SHARED_OK,40,0.975,1.0
+F9b ensemble + source checks,copy,TWIN_H,50,0.02,0.0
+P  ledger only [full],copy,COPY_COVER,13,1.0,1.0
+P  ledger only [full],copy,COPY_LIT,15,1.0,1.0
+P  ledger only [full],copy,COPY_PARA,10,1.0,1.0
+P  ledger only [full],copy,COPY_TWIN,12,1.0,1.0
+P  ledger only [full],copy,IND_DIFF,40,0.0,0.0
+P  ledger only [full],copy,IND_SAME,40,0.0,0.0
+P  ledger only [full],copy,NEAR_H,30,0.0,0.0
+P  ledger only [full],copy,NOSRC_SAME,40,0.0,0.0
+P  ledger only [full],copy,SHARED_OK,40,1.0,1.0
+P  ledger only [full],copy,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [full],copy,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [full],copy,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [full],copy,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [full],copy,COPY_TWIN,12,1.0,1.0
+F10 ensemble + ledger [full],copy,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [full],copy,IND_SAME,40,0.1,0.0
+F10 ensemble + ledger [full],copy,NEAR_H,30,0.13333333333333333,0.0
+F10 ensemble + ledger [full],copy,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [full],copy,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [full],copy,TWIN_H,50,0.0,0.0
+P  ledger only [comm_hidden],copy,COPY_COVER,13,0.0,1.0
+P  ledger only [comm_hidden],copy,COPY_LIT,15,0.8,1.0
+P  ledger only [comm_hidden],copy,COPY_PARA,10,0.7,1.0
+P  ledger only [comm_hidden],copy,COPY_TWIN,12,0.8333333333333334,1.0
+P  ledger only [comm_hidden],copy,IND_DIFF,40,0.0,0.0
+P  ledger only [comm_hidden],copy,IND_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],copy,NEAR_H,30,0.0,0.0
+P  ledger only [comm_hidden],copy,NOSRC_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],copy,SHARED_OK,40,0.0,1.0
+P  ledger only [comm_hidden],copy,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [comm_hidden],copy,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [comm_hidden],copy,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [comm_hidden],copy,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [comm_hidden],copy,COPY_TWIN,12,0.8333333333333334,1.0
+F10 ensemble + ledger [comm_hidden],copy,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],copy,IND_SAME,40,0.075,0.0
+F10 ensemble + ledger [comm_hidden],copy,NEAR_H,30,0.1,0.0
+F10 ensemble + ledger [comm_hidden],copy,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],copy,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [comm_hidden],copy,TWIN_H,50,0.0,0.0
+P  ledger only [half],copy,COPY_COVER,13,0.46153846153846156,1.0
+P  ledger only [half],copy,COPY_LIT,15,0.2,1.0
+P  ledger only [half],copy,COPY_PARA,10,0.5,1.0
+P  ledger only [half],copy,COPY_TWIN,12,0.4166666666666667,1.0
+P  ledger only [half],copy,IND_DIFF,40,0.0,0.0
+P  ledger only [half],copy,IND_SAME,40,0.0,0.0
+P  ledger only [half],copy,NEAR_H,30,0.0,0.0
+P  ledger only [half],copy,NOSRC_SAME,40,0.0,0.0
+P  ledger only [half],copy,SHARED_OK,40,0.375,1.0
+P  ledger only [half],copy,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [half],copy,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [half],copy,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [half],copy,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [half],copy,COPY_TWIN,12,0.8333333333333334,1.0
+F10 ensemble + ledger [half],copy,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [half],copy,IND_SAME,40,0.075,0.0
+F10 ensemble + ledger [half],copy,NEAR_H,30,0.13333333333333333,0.0
+F10 ensemble + ledger [half],copy,NOSRC_SAME,40,0.025,0.0
+F10 ensemble + ledger [half],copy,SHARED_OK,40,0.95,1.0
+F10 ensemble + ledger [half],copy,TWIN_H,50,0.1,0.0
+P  ledger only [none],copy,COPY_COVER,13,0.0,1.0
+P  ledger only [none],copy,COPY_LIT,15,0.0,1.0
+P  ledger only [none],copy,COPY_PARA,10,0.0,1.0
+P  ledger only [none],copy,COPY_TWIN,12,0.0,1.0
+P  ledger only [none],copy,IND_DIFF,40,0.0,0.0
+P  ledger only [none],copy,IND_SAME,40,0.0,0.0
+P  ledger only [none],copy,NEAR_H,30,0.0,0.0
+P  ledger only [none],copy,NOSRC_SAME,40,0.0,0.0
+P  ledger only [none],copy,SHARED_OK,40,0.0,1.0
+P  ledger only [none],copy,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [none],copy,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [none],copy,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [none],copy,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [none],copy,COPY_TWIN,12,0.6666666666666666,1.0
+F10 ensemble + ledger [none],copy,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [none],copy,IND_SAME,40,0.1,0.0
+F10 ensemble + ledger [none],copy,NEAR_H,30,0.0,0.0
+F10 ensemble + ledger [none],copy,NOSRC_SAME,40,0.025,0.0
+F10 ensemble + ledger [none],copy,SHARED_OK,40,0.975,1.0
+F10 ensemble + ledger [none],copy,TWIN_H,50,0.02,0.0
+F0a report rule (same cited source),noninde,COPY_COVER,13,0.0,1.0
+F0a report rule (same cited source),noninde,COPY_LIT,15,0.0,1.0
+F0a report rule (same cited source),noninde,COPY_PARA,10,0.0,1.0
+F0a report rule (same cited source),noninde,COPY_TWIN,12,0.0,1.0
+F0a report rule (same cited source),noninde,IND_DIFF,40,0.0,0.0
+F0a report rule (same cited source),noninde,IND_SAME,40,0.0,0.0
+F0a report rule (same cited source),noninde,NEAR_H,30,0.0,1.0
+F0a report rule (same cited source),noninde,NOSRC_SAME,40,0.0,0.0
+F0a report rule (same cited source),noninde,SHARED_OK,40,0.0,1.0
+F0a report rule (same cited source),noninde,TWIN_H,50,0.0,1.0
+F0b LLM report-only,noninde,COPY_COVER,13,0.9230769230769231,1.0
+F0b LLM report-only,noninde,COPY_LIT,15,0.9333333333333333,1.0
+F0b LLM report-only,noninde,COPY_PARA,10,0.7,1.0
+F0b LLM report-only,noninde,COPY_TWIN,12,0.9166666666666666,1.0
+F0b LLM report-only,noninde,IND_DIFF,40,0.0,0.0
+F0b LLM report-only,noninde,IND_SAME,40,0.0,0.0
+F0b LLM report-only,noninde,NEAR_H,30,1.0,1.0
+F0b LLM report-only,noninde,NOSRC_SAME,40,0.15,0.0
+F0b LLM report-only,noninde,SHARED_OK,40,1.0,1.0
+F0b LLM report-only,noninde,TWIN_H,50,0.94,1.0
+D  LLM with sources (Config D),noninde,COPY_COVER,13,1.0,1.0
+D  LLM with sources (Config D),noninde,COPY_LIT,15,1.0,1.0
+D  LLM with sources (Config D),noninde,COPY_PARA,10,1.0,1.0
+D  LLM with sources (Config D),noninde,COPY_TWIN,12,1.0,1.0
+D  LLM with sources (Config D),noninde,IND_DIFF,40,0.0,0.0
+D  LLM with sources (Config D),noninde,IND_SAME,40,0.0,0.0
+D  LLM with sources (Config D),noninde,NEAR_H,30,1.0,1.0
+D  LLM with sources (Config D),noninde,NOSRC_SAME,40,0.075,0.0
+D  LLM with sources (Config D),noninde,SHARED_OK,40,0.975,1.0
+D  LLM with sources (Config D),noninde,TWIN_H,50,1.0,1.0
+F1 lexical 3-gram,noninde,COPY_COVER,13,0.0,1.0
+F1 lexical 3-gram,noninde,COPY_LIT,15,0.4,1.0
+F1 lexical 3-gram,noninde,COPY_PARA,10,0.0,1.0
+F1 lexical 3-gram,noninde,COPY_TWIN,12,0.0,1.0
+F1 lexical 3-gram,noninde,IND_DIFF,40,0.0,0.0
+F1 lexical 3-gram,noninde,IND_SAME,40,0.0,0.0
+F1 lexical 3-gram,noninde,NEAR_H,30,0.03333333333333333,1.0
+F1 lexical 3-gram,noninde,NOSRC_SAME,40,0.2,0.0
+F1 lexical 3-gram,noninde,SHARED_OK,40,0.0,1.0
+F1 lexical 3-gram,noninde,TWIN_H,50,0.3,1.0
+F2 embedding cosine,noninde,COPY_COVER,13,0.0,1.0
+F2 embedding cosine,noninde,COPY_LIT,15,0.13333333333333333,1.0
+F2 embedding cosine,noninde,COPY_PARA,10,0.0,1.0
+F2 embedding cosine,noninde,COPY_TWIN,12,0.0,1.0
+F2 embedding cosine,noninde,IND_DIFF,40,0.0,0.0
+F2 embedding cosine,noninde,IND_SAME,40,0.0,0.0
+F2 embedding cosine,noninde,NEAR_H,30,0.0,1.0
+F2 embedding cosine,noninde,NOSRC_SAME,40,0.2,0.0
+F2 embedding cosine,noninde,SHARED_OK,40,0.0,1.0
+F2 embedding cosine,noninde,TWIN_H,50,0.0,1.0
+F3 STP,noninde,COPY_COVER,13,0.0,1.0
+F3 STP,noninde,COPY_LIT,15,0.13333333333333333,1.0
+F3 STP,noninde,COPY_PARA,10,0.0,1.0
+F3 STP,noninde,COPY_TWIN,12,0.0,1.0
+F3 STP,noninde,IND_DIFF,40,0.0,0.0
+F3 STP,noninde,IND_SAME,40,0.0,0.0
+F3 STP,noninde,NEAR_H,30,0.0,1.0
+F3 STP,noninde,NOSRC_SAME,40,0.225,0.0
+F3 STP,noninde,SHARED_OK,40,0.0,1.0
+F3 STP,noninde,TWIN_H,50,0.0,1.0
+F4 STP-AR,noninde,COPY_COVER,13,0.0,1.0
+F4 STP-AR,noninde,COPY_LIT,15,0.0,1.0
+F4 STP-AR,noninde,COPY_PARA,10,0.0,1.0
+F4 STP-AR,noninde,COPY_TWIN,12,0.0,1.0
+F4 STP-AR,noninde,IND_DIFF,40,0.0,0.0
+F4 STP-AR,noninde,IND_SAME,40,0.0,0.0
+F4 STP-AR,noninde,NEAR_H,30,0.0,1.0
+F4 STP-AR,noninde,NOSRC_SAME,40,0.1,0.0
+F4 STP-AR,noninde,SHARED_OK,40,0.0,1.0
+F4 STP-AR,noninde,TWIN_H,50,0.0,1.0
+F5 STP-AR+MOI,noninde,COPY_COVER,13,0.0,1.0
+F5 STP-AR+MOI,noninde,COPY_LIT,15,0.13333333333333333,1.0
+F5 STP-AR+MOI,noninde,COPY_PARA,10,0.0,1.0
+F5 STP-AR+MOI,noninde,COPY_TWIN,12,0.0,1.0
+F5 STP-AR+MOI,noninde,IND_DIFF,40,0.0,0.0
+F5 STP-AR+MOI,noninde,IND_SAME,40,0.0,0.0
+F5 STP-AR+MOI,noninde,NEAR_H,30,0.0,1.0
+F5 STP-AR+MOI,noninde,NOSRC_SAME,40,0.25,0.0
+F5 STP-AR+MOI,noninde,SHARED_OK,40,0.0,1.0
+F5 STP-AR+MOI,noninde,TWIN_H,50,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,COPY_COVER,13,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,COPY_LIT,15,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,COPY_PARA,10,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,COPY_TWIN,12,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,IND_DIFF,40,0.0,0.0
+F6 RCC-v3.3 (AR),noninde,IND_SAME,40,0.0,0.0
+F6 RCC-v3.3 (AR),noninde,NEAR_H,30,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,NOSRC_SAME,40,0.175,0.0
+F6 RCC-v3.3 (AR),noninde,SHARED_OK,40,0.0,1.0
+F6 RCC-v3.3 (AR),noninde,TWIN_H,50,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,COPY_COVER,13,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,COPY_LIT,15,0.3333333333333333,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,COPY_PARA,10,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,COPY_TWIN,12,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,IND_DIFF,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),noninde,IND_SAME,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),noninde,NEAR_H,30,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,NOSRC_SAME,40,0.275,0.0
+F6b RCC-v3.3 (AR+MOI),noninde,SHARED_OK,40,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),noninde,TWIN_H,50,0.0,1.0
+F8a Argon embedding triage,noninde,COPY_COVER,13,0.0,1.0
+F8a Argon embedding triage,noninde,COPY_LIT,15,0.6,1.0
+F8a Argon embedding triage,noninde,COPY_PARA,10,0.0,1.0
+F8a Argon embedding triage,noninde,COPY_TWIN,12,0.0,1.0
+F8a Argon embedding triage,noninde,IND_DIFF,40,0.0,0.0
+F8a Argon embedding triage,noninde,IND_SAME,40,0.0,0.0
+F8a Argon embedding triage,noninde,NEAR_H,30,0.0,1.0
+F8a Argon embedding triage,noninde,NOSRC_SAME,40,0.2,0.0
+F8a Argon embedding triage,noninde,SHARED_OK,40,0.0,1.0
+F8a Argon embedding triage,noninde,TWIN_H,50,0.28,1.0
+F8b Argon claim overlap,noninde,COPY_COVER,13,0.0,1.0
+F8b Argon claim overlap,noninde,COPY_LIT,15,0.3333333333333333,1.0
+F8b Argon claim overlap,noninde,COPY_PARA,10,0.0,1.0
+F8b Argon claim overlap,noninde,COPY_TWIN,12,0.0,1.0
+F8b Argon claim overlap,noninde,IND_DIFF,40,0.0,0.0
+F8b Argon claim overlap,noninde,IND_SAME,40,0.0,0.0
+F8b Argon claim overlap,noninde,NEAR_H,30,0.0,1.0
+F8b Argon claim overlap,noninde,NOSRC_SAME,40,0.25,0.0
+F8b Argon claim overlap,noninde,SHARED_OK,40,0.0,1.0
+F8b Argon claim overlap,noninde,TWIN_H,50,0.18,1.0
+S1 claim unsupported by cited source,noninde,COPY_COVER,13,0.0,1.0
+S1 claim unsupported by cited source,noninde,COPY_LIT,15,0.0,1.0
+S1 claim unsupported by cited source,noninde,COPY_PARA,10,0.0,1.0
+S1 claim unsupported by cited source,noninde,COPY_TWIN,12,0.0,1.0
+S1 claim unsupported by cited source,noninde,IND_DIFF,40,0.0,0.0
+S1 claim unsupported by cited source,noninde,IND_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,noninde,NEAR_H,30,0.0,1.0
+S1 claim unsupported by cited source,noninde,NOSRC_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,noninde,SHARED_OK,40,0.0,1.0
+S1 claim unsupported by cited source,noninde,TWIN_H,50,0.0,1.0
+S2 source containment (twin/near),noninde,COPY_COVER,13,0.23076923076923078,1.0
+S2 source containment (twin/near),noninde,COPY_LIT,15,0.0,1.0
+S2 source containment (twin/near),noninde,COPY_PARA,10,0.1,1.0
+S2 source containment (twin/near),noninde,COPY_TWIN,12,1.0,1.0
+S2 source containment (twin/near),noninde,IND_DIFF,40,0.1,0.0
+S2 source containment (twin/near),noninde,IND_SAME,40,0.5,0.0
+S2 source containment (twin/near),noninde,NEAR_H,30,1.0,1.0
+S2 source containment (twin/near),noninde,NOSRC_SAME,40,0.0,0.0
+S2 source containment (twin/near),noninde,SHARED_OK,40,0.225,1.0
+S2 source containment (twin/near),noninde,TWIN_H,50,1.0,1.0
+F9 formula ensemble (artifact only),noninde,COPY_COVER,13,1.0,1.0
+F9 formula ensemble (artifact only),noninde,COPY_LIT,15,0.8,1.0
+F9 formula ensemble (artifact only),noninde,COPY_PARA,10,1.0,1.0
+F9 formula ensemble (artifact only),noninde,COPY_TWIN,12,1.0,1.0
+F9 formula ensemble (artifact only),noninde,IND_DIFF,40,0.0,0.0
+F9 formula ensemble (artifact only),noninde,IND_SAME,40,0.0,0.0
+F9 formula ensemble (artifact only),noninde,NEAR_H,30,0.7333333333333333,1.0
+F9 formula ensemble (artifact only),noninde,NOSRC_SAME,40,0.3,0.0
+F9 formula ensemble (artifact only),noninde,SHARED_OK,40,0.85,1.0
+F9 formula ensemble (artifact only),noninde,TWIN_H,50,0.94,1.0
+F9b ensemble + source checks,noninde,COPY_COVER,13,1.0,1.0
+F9b ensemble + source checks,noninde,COPY_LIT,15,1.0,1.0
+F9b ensemble + source checks,noninde,COPY_PARA,10,1.0,1.0
+F9b ensemble + source checks,noninde,COPY_TWIN,12,1.0,1.0
+F9b ensemble + source checks,noninde,IND_DIFF,40,0.0,0.0
+F9b ensemble + source checks,noninde,IND_SAME,40,0.075,0.0
+F9b ensemble + source checks,noninde,NEAR_H,30,1.0,1.0
+F9b ensemble + source checks,noninde,NOSRC_SAME,40,0.025,0.0
+F9b ensemble + source checks,noninde,SHARED_OK,40,1.0,1.0
+F9b ensemble + source checks,noninde,TWIN_H,50,1.0,1.0
+P  ledger only [full],noninde,COPY_COVER,13,1.0,1.0
+P  ledger only [full],noninde,COPY_LIT,15,1.0,1.0
+P  ledger only [full],noninde,COPY_PARA,10,1.0,1.0
+P  ledger only [full],noninde,COPY_TWIN,12,1.0,1.0
+P  ledger only [full],noninde,IND_DIFF,40,0.0,0.0
+P  ledger only [full],noninde,IND_SAME,40,0.0,0.0
+P  ledger only [full],noninde,NEAR_H,30,0.0,1.0
+P  ledger only [full],noninde,NOSRC_SAME,40,0.0,0.0
+P  ledger only [full],noninde,SHARED_OK,40,1.0,1.0
+P  ledger only [full],noninde,TWIN_H,50,1.0,1.0
+F10 ensemble + ledger [full],noninde,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [full],noninde,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [full],noninde,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [full],noninde,COPY_TWIN,12,1.0,1.0
+F10 ensemble + ledger [full],noninde,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [full],noninde,IND_SAME,40,0.075,0.0
+F10 ensemble + ledger [full],noninde,NEAR_H,30,1.0,1.0
+F10 ensemble + ledger [full],noninde,NOSRC_SAME,40,0.025,0.0
+F10 ensemble + ledger [full],noninde,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [full],noninde,TWIN_H,50,1.0,1.0
+P  ledger only [comm_hidden],noninde,COPY_COVER,13,0.0,1.0
+P  ledger only [comm_hidden],noninde,COPY_LIT,15,0.8,1.0
+P  ledger only [comm_hidden],noninde,COPY_PARA,10,0.7,1.0
+P  ledger only [comm_hidden],noninde,COPY_TWIN,12,0.8333333333333334,1.0
+P  ledger only [comm_hidden],noninde,IND_DIFF,40,0.0,0.0
+P  ledger only [comm_hidden],noninde,IND_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],noninde,NEAR_H,30,0.0,1.0
+P  ledger only [comm_hidden],noninde,NOSRC_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],noninde,SHARED_OK,40,0.0,1.0
+P  ledger only [comm_hidden],noninde,TWIN_H,50,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,COPY_TWIN,12,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],noninde,IND_SAME,40,0.075,0.0
+F10 ensemble + ledger [comm_hidden],noninde,NEAR_H,30,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,NOSRC_SAME,40,0.025,0.0
+F10 ensemble + ledger [comm_hidden],noninde,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [comm_hidden],noninde,TWIN_H,50,1.0,1.0
+P  ledger only [half],noninde,COPY_COVER,13,0.46153846153846156,1.0
+P  ledger only [half],noninde,COPY_LIT,15,0.2,1.0
+P  ledger only [half],noninde,COPY_PARA,10,0.5,1.0
+P  ledger only [half],noninde,COPY_TWIN,12,0.4166666666666667,1.0
+P  ledger only [half],noninde,IND_DIFF,40,0.0,0.0
+P  ledger only [half],noninde,IND_SAME,40,0.0,0.0
+P  ledger only [half],noninde,NEAR_H,30,0.0,1.0
+P  ledger only [half],noninde,NOSRC_SAME,40,0.0,0.0
+P  ledger only [half],noninde,SHARED_OK,40,0.375,1.0
+P  ledger only [half],noninde,TWIN_H,50,0.2,1.0
+F10 ensemble + ledger [half],noninde,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [half],noninde,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [half],noninde,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [half],noninde,COPY_TWIN,12,1.0,1.0
+F10 ensemble + ledger [half],noninde,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [half],noninde,IND_SAME,40,0.1,0.0
+F10 ensemble + ledger [half],noninde,NEAR_H,30,1.0,1.0
+F10 ensemble + ledger [half],noninde,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [half],noninde,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [half],noninde,TWIN_H,50,1.0,1.0
+P  ledger only [none],noninde,COPY_COVER,13,0.0,1.0
+P  ledger only [none],noninde,COPY_LIT,15,0.0,1.0
+P  ledger only [none],noninde,COPY_PARA,10,0.0,1.0
+P  ledger only [none],noninde,COPY_TWIN,12,0.0,1.0
+P  ledger only [none],noninde,IND_DIFF,40,0.0,0.0
+P  ledger only [none],noninde,IND_SAME,40,0.0,0.0
+P  ledger only [none],noninde,NEAR_H,30,0.0,1.0
+P  ledger only [none],noninde,NOSRC_SAME,40,0.0,0.0
+P  ledger only [none],noninde,SHARED_OK,40,0.0,1.0
+P  ledger only [none],noninde,TWIN_H,50,0.0,1.0
+F10 ensemble + ledger [none],noninde,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [none],noninde,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [none],noninde,COPY_PARA,10,1.0,1.0
+F10 ensemble + ledger [none],noninde,COPY_TWIN,12,1.0,1.0
+F10 ensemble + ledger [none],noninde,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [none],noninde,IND_SAME,40,0.075,0.0
+F10 ensemble + ledger [none],noninde,NEAR_H,30,1.0,1.0
+F10 ensemble + ledger [none],noninde,NOSRC_SAME,40,0.025,0.0
+F10 ensemble + ledger [none],noninde,SHARED_OK,40,1.0,1.0
+F10 ensemble + ledger [none],noninde,TWIN_H,50,1.0,1.0
+F0a report rule (same cited source),provfalse,COPY_COVER,13,0.0,1.0
+F0a report rule (same cited source),provfalse,COPY_LIT,15,0.0,1.0
+F0a report rule (same cited source),provfalse,COPY_PARA,10,0.0,1.0
+F0a report rule (same cited source),provfalse,COPY_TWIN,12,0.0,1.0
+F0a report rule (same cited source),provfalse,IND_DIFF,40,0.0,0.0
+F0a report rule (same cited source),provfalse,IND_SAME,40,0.0,0.0
+F0a report rule (same cited source),provfalse,NEAR_H,30,0.0,0.0
+F0a report rule (same cited source),provfalse,NOSRC_SAME,40,0.0,0.0
+F0a report rule (same cited source),provfalse,SHARED_OK,40,0.0,0.0
+F0a report rule (same cited source),provfalse,TWIN_H,50,0.0,0.0
+F0b LLM report-only,provfalse,COPY_COVER,13,0.8461538461538461,1.0
+F0b LLM report-only,provfalse,COPY_LIT,15,1.0,1.0
+F0b LLM report-only,provfalse,COPY_PARA,10,0.9,1.0
+F0b LLM report-only,provfalse,COPY_TWIN,12,0.5833333333333334,1.0
+F0b LLM report-only,provfalse,IND_DIFF,40,0.0,0.0
+F0b LLM report-only,provfalse,IND_SAME,40,0.0,0.0
+F0b LLM report-only,provfalse,NEAR_H,30,0.0,0.0
+F0b LLM report-only,provfalse,NOSRC_SAME,40,0.0,0.0
+F0b LLM report-only,provfalse,SHARED_OK,40,0.0,0.0
+F0b LLM report-only,provfalse,TWIN_H,50,0.3,0.0
+D  LLM with sources (Config D),provfalse,COPY_COVER,13,1.0,1.0
+D  LLM with sources (Config D),provfalse,COPY_LIT,15,1.0,1.0
+D  LLM with sources (Config D),provfalse,COPY_PARA,10,1.0,1.0
+D  LLM with sources (Config D),provfalse,COPY_TWIN,12,0.25,1.0
+D  LLM with sources (Config D),provfalse,IND_DIFF,40,0.0,0.0
+D  LLM with sources (Config D),provfalse,IND_SAME,40,0.0,0.0
+D  LLM with sources (Config D),provfalse,NEAR_H,30,0.0,0.0
+D  LLM with sources (Config D),provfalse,NOSRC_SAME,40,0.0,0.0
+D  LLM with sources (Config D),provfalse,SHARED_OK,40,0.0,0.0
+D  LLM with sources (Config D),provfalse,TWIN_H,50,0.04,0.0
+F1 lexical 3-gram,provfalse,COPY_COVER,13,0.0,1.0
+F1 lexical 3-gram,provfalse,COPY_LIT,15,0.3333333333333333,1.0
+F1 lexical 3-gram,provfalse,COPY_PARA,10,0.0,1.0
+F1 lexical 3-gram,provfalse,COPY_TWIN,12,0.0,1.0
+F1 lexical 3-gram,provfalse,IND_DIFF,40,0.0,0.0
+F1 lexical 3-gram,provfalse,IND_SAME,40,0.0,0.0
+F1 lexical 3-gram,provfalse,NEAR_H,30,0.0,0.0
+F1 lexical 3-gram,provfalse,NOSRC_SAME,40,0.15,0.0
+F1 lexical 3-gram,provfalse,SHARED_OK,40,0.0,0.0
+F1 lexical 3-gram,provfalse,TWIN_H,50,0.18,0.0
+F2 embedding cosine,provfalse,COPY_COVER,13,0.0,1.0
+F2 embedding cosine,provfalse,COPY_LIT,15,0.13333333333333333,1.0
+F2 embedding cosine,provfalse,COPY_PARA,10,0.0,1.0
+F2 embedding cosine,provfalse,COPY_TWIN,12,0.0,1.0
+F2 embedding cosine,provfalse,IND_DIFF,40,0.0,0.0
+F2 embedding cosine,provfalse,IND_SAME,40,0.0,0.0
+F2 embedding cosine,provfalse,NEAR_H,30,0.0,0.0
+F2 embedding cosine,provfalse,NOSRC_SAME,40,0.425,0.0
+F2 embedding cosine,provfalse,SHARED_OK,40,0.0,0.0
+F2 embedding cosine,provfalse,TWIN_H,50,0.0,0.0
+F3 STP,provfalse,COPY_COVER,13,0.0,1.0
+F3 STP,provfalse,COPY_LIT,15,0.13333333333333333,1.0
+F3 STP,provfalse,COPY_PARA,10,0.0,1.0
+F3 STP,provfalse,COPY_TWIN,12,0.0,1.0
+F3 STP,provfalse,IND_DIFF,40,0.0,0.0
+F3 STP,provfalse,IND_SAME,40,0.0,0.0
+F3 STP,provfalse,NEAR_H,30,0.0,0.0
+F3 STP,provfalse,NOSRC_SAME,40,0.4,0.0
+F3 STP,provfalse,SHARED_OK,40,0.0,0.0
+F3 STP,provfalse,TWIN_H,50,0.0,0.0
+F4 STP-AR,provfalse,COPY_COVER,13,0.0,1.0
+F4 STP-AR,provfalse,COPY_LIT,15,0.0,1.0
+F4 STP-AR,provfalse,COPY_PARA,10,0.0,1.0
+F4 STP-AR,provfalse,COPY_TWIN,12,0.0,1.0
+F4 STP-AR,provfalse,IND_DIFF,40,0.0,0.0
+F4 STP-AR,provfalse,IND_SAME,40,0.0,0.0
+F4 STP-AR,provfalse,NEAR_H,30,0.0,0.0
+F4 STP-AR,provfalse,NOSRC_SAME,40,0.125,0.0
+F4 STP-AR,provfalse,SHARED_OK,40,0.0,0.0
+F4 STP-AR,provfalse,TWIN_H,50,0.0,0.0
+F5 STP-AR+MOI,provfalse,COPY_COVER,13,0.07692307692307693,1.0
+F5 STP-AR+MOI,provfalse,COPY_LIT,15,0.3333333333333333,1.0
+F5 STP-AR+MOI,provfalse,COPY_PARA,10,0.0,1.0
+F5 STP-AR+MOI,provfalse,COPY_TWIN,12,0.0,1.0
+F5 STP-AR+MOI,provfalse,IND_DIFF,40,0.0,0.0
+F5 STP-AR+MOI,provfalse,IND_SAME,40,0.0,0.0
+F5 STP-AR+MOI,provfalse,NEAR_H,30,0.0,0.0
+F5 STP-AR+MOI,provfalse,NOSRC_SAME,40,0.4,0.0
+F5 STP-AR+MOI,provfalse,SHARED_OK,40,0.0,0.0
+F5 STP-AR+MOI,provfalse,TWIN_H,50,0.0,0.0
+F6 RCC-v3.3 (AR),provfalse,COPY_COVER,13,0.0,1.0
+F6 RCC-v3.3 (AR),provfalse,COPY_LIT,15,0.0,1.0
+F6 RCC-v3.3 (AR),provfalse,COPY_PARA,10,0.0,1.0
+F6 RCC-v3.3 (AR),provfalse,COPY_TWIN,12,0.0,1.0
+F6 RCC-v3.3 (AR),provfalse,IND_DIFF,40,0.0,0.0
+F6 RCC-v3.3 (AR),provfalse,IND_SAME,40,0.0,0.0
+F6 RCC-v3.3 (AR),provfalse,NEAR_H,30,0.0,0.0
+F6 RCC-v3.3 (AR),provfalse,NOSRC_SAME,40,0.325,0.0
+F6 RCC-v3.3 (AR),provfalse,SHARED_OK,40,0.0,0.0
+F6 RCC-v3.3 (AR),provfalse,TWIN_H,50,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,COPY_COVER,13,0.15384615384615385,1.0
+F6b RCC-v3.3 (AR+MOI),provfalse,COPY_LIT,15,0.5333333333333333,1.0
+F6b RCC-v3.3 (AR+MOI),provfalse,COPY_PARA,10,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),provfalse,COPY_TWIN,12,0.0,1.0
+F6b RCC-v3.3 (AR+MOI),provfalse,IND_DIFF,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,IND_SAME,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,NEAR_H,30,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,NOSRC_SAME,40,0.425,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,SHARED_OK,40,0.0,0.0
+F6b RCC-v3.3 (AR+MOI),provfalse,TWIN_H,50,0.0,0.0
+F8a Argon embedding triage,provfalse,COPY_COVER,13,0.0,1.0
+F8a Argon embedding triage,provfalse,COPY_LIT,15,0.4,1.0
+F8a Argon embedding triage,provfalse,COPY_PARA,10,0.0,1.0
+F8a Argon embedding triage,provfalse,COPY_TWIN,12,0.0,1.0
+F8a Argon embedding triage,provfalse,IND_DIFF,40,0.0,0.0
+F8a Argon embedding triage,provfalse,IND_SAME,40,0.0,0.0
+F8a Argon embedding triage,provfalse,NEAR_H,30,0.0,0.0
+F8a Argon embedding triage,provfalse,NOSRC_SAME,40,0.075,0.0
+F8a Argon embedding triage,provfalse,SHARED_OK,40,0.0,0.0
+F8a Argon embedding triage,provfalse,TWIN_H,50,0.14,0.0
+F8b Argon claim overlap,provfalse,COPY_COVER,13,0.0,1.0
+F8b Argon claim overlap,provfalse,COPY_LIT,15,0.3333333333333333,1.0
+F8b Argon claim overlap,provfalse,COPY_PARA,10,0.0,1.0
+F8b Argon claim overlap,provfalse,COPY_TWIN,12,0.0,1.0
+F8b Argon claim overlap,provfalse,IND_DIFF,40,0.0,0.0
+F8b Argon claim overlap,provfalse,IND_SAME,40,0.0,0.0
+F8b Argon claim overlap,provfalse,NEAR_H,30,0.0,0.0
+F8b Argon claim overlap,provfalse,NOSRC_SAME,40,0.2,0.0
+F8b Argon claim overlap,provfalse,SHARED_OK,40,0.0,0.0
+F8b Argon claim overlap,provfalse,TWIN_H,50,0.18,0.0
+S1 claim unsupported by cited source,provfalse,COPY_COVER,13,0.0,1.0
+S1 claim unsupported by cited source,provfalse,COPY_LIT,15,0.0,1.0
+S1 claim unsupported by cited source,provfalse,COPY_PARA,10,0.0,1.0
+S1 claim unsupported by cited source,provfalse,COPY_TWIN,12,0.0,1.0
+S1 claim unsupported by cited source,provfalse,IND_DIFF,40,0.0,0.0
+S1 claim unsupported by cited source,provfalse,IND_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,provfalse,NEAR_H,30,0.0,0.0
+S1 claim unsupported by cited source,provfalse,NOSRC_SAME,40,0.0,0.0
+S1 claim unsupported by cited source,provfalse,SHARED_OK,40,0.0,0.0
+S1 claim unsupported by cited source,provfalse,TWIN_H,50,0.0,0.0
+S2 source containment (twin/near),provfalse,COPY_COVER,13,0.0,1.0
+S2 source containment (twin/near),provfalse,COPY_LIT,15,0.0,1.0
+S2 source containment (twin/near),provfalse,COPY_PARA,10,0.0,1.0
+S2 source containment (twin/near),provfalse,COPY_TWIN,12,0.0,1.0
+S2 source containment (twin/near),provfalse,IND_DIFF,40,0.0,0.0
+S2 source containment (twin/near),provfalse,IND_SAME,40,0.0,0.0
+S2 source containment (twin/near),provfalse,NEAR_H,30,0.0,0.0
+S2 source containment (twin/near),provfalse,NOSRC_SAME,40,0.0,0.0
+S2 source containment (twin/near),provfalse,SHARED_OK,40,0.0,0.0
+S2 source containment (twin/near),provfalse,TWIN_H,50,0.0,0.0
+F9 formula ensemble (artifact only),provfalse,COPY_COVER,13,0.6153846153846154,1.0
+F9 formula ensemble (artifact only),provfalse,COPY_LIT,15,0.6,1.0
+F9 formula ensemble (artifact only),provfalse,COPY_PARA,10,0.4,1.0
+F9 formula ensemble (artifact only),provfalse,COPY_TWIN,12,0.5833333333333334,1.0
+F9 formula ensemble (artifact only),provfalse,IND_DIFF,40,0.0,0.0
+F9 formula ensemble (artifact only),provfalse,IND_SAME,40,0.0,0.0
+F9 formula ensemble (artifact only),provfalse,NEAR_H,30,0.0,0.0
+F9 formula ensemble (artifact only),provfalse,NOSRC_SAME,40,0.375,0.0
+F9 formula ensemble (artifact only),provfalse,SHARED_OK,40,0.125,0.0
+F9 formula ensemble (artifact only),provfalse,TWIN_H,50,0.04,0.0
+F9b ensemble + source checks,provfalse,COPY_COVER,13,0.9230769230769231,1.0
+F9b ensemble + source checks,provfalse,COPY_LIT,15,1.0,1.0
+F9b ensemble + source checks,provfalse,COPY_PARA,10,0.4,1.0
+F9b ensemble + source checks,provfalse,COPY_TWIN,12,0.4166666666666667,1.0
+F9b ensemble + source checks,provfalse,IND_DIFF,40,0.0,0.0
+F9b ensemble + source checks,provfalse,IND_SAME,40,0.0,0.0
+F9b ensemble + source checks,provfalse,NEAR_H,30,0.0,0.0
+F9b ensemble + source checks,provfalse,NOSRC_SAME,40,0.0,0.0
+F9b ensemble + source checks,provfalse,SHARED_OK,40,0.2,0.0
+F9b ensemble + source checks,provfalse,TWIN_H,50,0.02,0.0
+P  ledger only [full],provfalse,COPY_COVER,13,0.0,1.0
+P  ledger only [full],provfalse,COPY_LIT,15,0.8,1.0
+P  ledger only [full],provfalse,COPY_PARA,10,0.7,1.0
+P  ledger only [full],provfalse,COPY_TWIN,12,0.8333333333333334,1.0
+P  ledger only [full],provfalse,IND_DIFF,40,0.0,0.0
+P  ledger only [full],provfalse,IND_SAME,40,0.0,0.0
+P  ledger only [full],provfalse,NEAR_H,30,0.0,0.0
+P  ledger only [full],provfalse,NOSRC_SAME,40,0.0,0.0
+P  ledger only [full],provfalse,SHARED_OK,40,0.0,0.0
+P  ledger only [full],provfalse,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [full],provfalse,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [full],provfalse,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [full],provfalse,COPY_PARA,10,0.8,1.0
+F10 ensemble + ledger [full],provfalse,COPY_TWIN,12,0.8333333333333334,1.0
+F10 ensemble + ledger [full],provfalse,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [full],provfalse,IND_SAME,40,0.0,0.0
+F10 ensemble + ledger [full],provfalse,NEAR_H,30,0.0,0.0
+F10 ensemble + ledger [full],provfalse,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [full],provfalse,SHARED_OK,40,0.275,0.0
+F10 ensemble + ledger [full],provfalse,TWIN_H,50,0.0,0.0
+P  ledger only [comm_hidden],provfalse,COPY_COVER,13,0.0,1.0
+P  ledger only [comm_hidden],provfalse,COPY_LIT,15,0.8,1.0
+P  ledger only [comm_hidden],provfalse,COPY_PARA,10,0.7,1.0
+P  ledger only [comm_hidden],provfalse,COPY_TWIN,12,0.8333333333333334,1.0
+P  ledger only [comm_hidden],provfalse,IND_DIFF,40,0.0,0.0
+P  ledger only [comm_hidden],provfalse,IND_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],provfalse,NEAR_H,30,0.0,0.0
+P  ledger only [comm_hidden],provfalse,NOSRC_SAME,40,0.0,0.0
+P  ledger only [comm_hidden],provfalse,SHARED_OK,40,0.0,0.0
+P  ledger only [comm_hidden],provfalse,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,COPY_COVER,13,1.0,1.0
+F10 ensemble + ledger [comm_hidden],provfalse,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [comm_hidden],provfalse,COPY_PARA,10,0.7,1.0
+F10 ensemble + ledger [comm_hidden],provfalse,COPY_TWIN,12,0.8333333333333334,1.0
+F10 ensemble + ledger [comm_hidden],provfalse,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,IND_SAME,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,NEAR_H,30,0.06666666666666667,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,SHARED_OK,40,0.225,0.0
+F10 ensemble + ledger [comm_hidden],provfalse,TWIN_H,50,0.0,0.0
+P  ledger only [half],provfalse,COPY_COVER,13,0.3076923076923077,1.0
+P  ledger only [half],provfalse,COPY_LIT,15,0.2,1.0
+P  ledger only [half],provfalse,COPY_PARA,10,0.5,1.0
+P  ledger only [half],provfalse,COPY_TWIN,12,0.4166666666666667,1.0
+P  ledger only [half],provfalse,IND_DIFF,40,0.0,0.0
+P  ledger only [half],provfalse,IND_SAME,40,0.0,0.0
+P  ledger only [half],provfalse,NEAR_H,30,0.0,0.0
+P  ledger only [half],provfalse,NOSRC_SAME,40,0.0,0.0
+P  ledger only [half],provfalse,SHARED_OK,40,0.225,0.0
+P  ledger only [half],provfalse,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [half],provfalse,COPY_COVER,13,0.7692307692307693,1.0
+F10 ensemble + ledger [half],provfalse,COPY_LIT,15,0.8666666666666667,1.0
+F10 ensemble + ledger [half],provfalse,COPY_PARA,10,0.5,1.0
+F10 ensemble + ledger [half],provfalse,COPY_TWIN,12,0.75,1.0
+F10 ensemble + ledger [half],provfalse,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [half],provfalse,IND_SAME,40,0.0,0.0
+F10 ensemble + ledger [half],provfalse,NEAR_H,30,0.03333333333333333,0.0
+F10 ensemble + ledger [half],provfalse,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [half],provfalse,SHARED_OK,40,0.1,0.0
+F10 ensemble + ledger [half],provfalse,TWIN_H,50,0.16,0.0
+P  ledger only [none],provfalse,COPY_COVER,13,0.0,1.0
+P  ledger only [none],provfalse,COPY_LIT,15,0.0,1.0
+P  ledger only [none],provfalse,COPY_PARA,10,0.0,1.0
+P  ledger only [none],provfalse,COPY_TWIN,12,0.0,1.0
+P  ledger only [none],provfalse,IND_DIFF,40,0.0,0.0
+P  ledger only [none],provfalse,IND_SAME,40,0.0,0.0
+P  ledger only [none],provfalse,NEAR_H,30,0.0,0.0
+P  ledger only [none],provfalse,NOSRC_SAME,40,0.0,0.0
+P  ledger only [none],provfalse,SHARED_OK,40,0.0,0.0
+P  ledger only [none],provfalse,TWIN_H,50,0.0,0.0
+F10 ensemble + ledger [none],provfalse,COPY_COVER,13,0.9230769230769231,1.0
+F10 ensemble + ledger [none],provfalse,COPY_LIT,15,1.0,1.0
+F10 ensemble + ledger [none],provfalse,COPY_PARA,10,0.4,1.0
+F10 ensemble + ledger [none],provfalse,COPY_TWIN,12,0.4166666666666667,1.0
+F10 ensemble + ledger [none],provfalse,IND_DIFF,40,0.0,0.0
+F10 ensemble + ledger [none],provfalse,IND_SAME,40,0.0,0.0
+F10 ensemble + ledger [none],provfalse,NEAR_H,30,0.0,0.0
+F10 ensemble + ledger [none],provfalse,NOSRC_SAME,40,0.0,0.0
+F10 ensemble + ledger [none],provfalse,SHARED_OK,40,0.2,0.0
+F10 ensemble + ledger [none],provfalse,TWIN_H,50,0.02,0.0

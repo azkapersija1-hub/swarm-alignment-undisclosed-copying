@@ -1,0 +1,9126 @@
+{
+ "trials_per_cell": 12,
+ "seconds": 469,
+ "records": [
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 278
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 254
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 265
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 403
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 419
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 436
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 384
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 411
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 473
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 439
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 569
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 725
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 440
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 410
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 427
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 279
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 283
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 532
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 473
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 449
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 510
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 515
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 486
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 523
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 713
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 856
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 481
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 437
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 453
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 287
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 294
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 490
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 463
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 496
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 491
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 487
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 466
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 491
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 667
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 843
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 471
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 472
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 466
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 255
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 252
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 242
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 405
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 450
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 473
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 429
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 473
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 479
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 403
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 578
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 761
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 436
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 454
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 474
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 264
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 280
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 468
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 410
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 461
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 443
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 487
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 474
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 466
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 580
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 789
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 468
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 469
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 318
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 227
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 242
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 502
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 514
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 475
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 467
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 428
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 445
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 504
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 618
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 797
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 472
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 437
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 383
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 252
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 253
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 275
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 474
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 437
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 427
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 470
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 452
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 446
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 450
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 600
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 742
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 438
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 418
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 463
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 255
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 268
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 265
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 491
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 463
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 453
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 455
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 498
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 485
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 429
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 612
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 779
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 449
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 384
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 431
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 292
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 244
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 271
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 453
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 437
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 439
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 449
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 514
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 472
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 520
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 664
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 799
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 492
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 441
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 437
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 299
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 325
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 277
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 500
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 471
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 461
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 472
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 543
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 509
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 522
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 650
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 794
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 541
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 487
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 463
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 289
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 289
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 284
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 500
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 471
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 459
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 457
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 479
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 486
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 490
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 687
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 837
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 438
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 447
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 499
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 260
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 329
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 307
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 481
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 491
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 459
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 510
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 489
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 497
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 485
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 654
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 805
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 463
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 433
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 242
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 305
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 235
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 418
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 451
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 449
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 365
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 456
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 388
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 382
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 565
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 776
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 428
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 487
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 494
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 298
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 309
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 251
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 460
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 429
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 439
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 438
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 515
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 423
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 450
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 724
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 827
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 469
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 593
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 476
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 408
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 331
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 268
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 417
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 475
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 430
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 425
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 456
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 448
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 405
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 603
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 741
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 495
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 495
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 238
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 331
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 396
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 499
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 535
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 385
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 399
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 482
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 391
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 543
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 814
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 396
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 445
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 546
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 352
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 295
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 258
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 527
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 526
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 466
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 633
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 460
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 443
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 557
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 741
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 902
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 615
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 537
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 472
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 289
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 269
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 520
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 492
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 406
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 525
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 395
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 437
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 460
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 621
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 764
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 425
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 430
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 411
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 330
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 283
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 240
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 426
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 418
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 419
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 458
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 446
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 443
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 443
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 604
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 759
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 458
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 445
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 446
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 231
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 382
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 433
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 448
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 613
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 511
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 723
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 417
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 576
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 760
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 414
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 478
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 259
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 322
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 247
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 434
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 524
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 500
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 431
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 519
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 421
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 442
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 574
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 727
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 417
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 395
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 495
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 460
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 393
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 278
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 479
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 436
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 461
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 560
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 618
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 525
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 478
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 611
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 733
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 505
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 526
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 489
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 233
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 376
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 431
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 478
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 488
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 435
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 505
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 414
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 429
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 680
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 782
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 440
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 469
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 630
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 312
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 449
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 458
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 459
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 459
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 480
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 440
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 449
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 612
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 785
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "guarded",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 454
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 465
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 484
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 304
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 287
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 306
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 353
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 271
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 296
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 345
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 312
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 0,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 439
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 298
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 382
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 341
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 291
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 297
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 341
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 314
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 318
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 286
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 327
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 282
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 1,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 343
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 313
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 471
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 333
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 300
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 506
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 326
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 303
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 296
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 324
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 285
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 2,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 567
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 323
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 498
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 267
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 277
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 305
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 263
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 338
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 282
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 487
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 297
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 291
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 314
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 3,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 295
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 548
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 338
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 299
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 321
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 279
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 332
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 296
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 323
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 276
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 358
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 4,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 526
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 303
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 495
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 322
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 307
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 281
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 486
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 275
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 278
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 524
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 296
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 480
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 324
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 333
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 5,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 304
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 440
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 310
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 287
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 327
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 292
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 289
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 362
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 246
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 433
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 305
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 313
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 6,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 287
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 405
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 459
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 263
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 309
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 329
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 342
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 362
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 295
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 305
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 292
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 286
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 324
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 316
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 7,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 299
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 288
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 467
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 267
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 263
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 389
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 305
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 326
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 331
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 342
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 328
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 293
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 304
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 8,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 343
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 309
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 465
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 295
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 298
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 321
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 288
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 375
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 328
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 527
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 384
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 329
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 864
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 9,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 524
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 476
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 439
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 296
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 294
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 285
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 284
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 349
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 386
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 287
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 350
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 10,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 295
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 317
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 482
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 313
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 324
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 300
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 485
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 342
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 343
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 462
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 356
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 508
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 357
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 333
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 397
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "qwen",
+   "trial": 11,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 336
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 452
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 255
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 352
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 321
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 445
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 551
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 345
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 410
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 333
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 275
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 351
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 338
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 0,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 265
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 511
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 556
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 241
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 340
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 270
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 299
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 251
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 294
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 401
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 270
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 334
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 839
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 1,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 271
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 368
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 613
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 332
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 321
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 383
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 397
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 316
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 386
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 259
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 319
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 319
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 373
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 354
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 421
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 2,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 469
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 620
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 397
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 355
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 340
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 249
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 410
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 365
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 260
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 334
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 346
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 384
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 403
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 3,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 405
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 358
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 554
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 377
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 283
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 298
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 329
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 365
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 387
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 316
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 371
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 252
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 411
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 4,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 415
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 371
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 610
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 384
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 332
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 267
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 277
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 257
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 353
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 264
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 327
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 318
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 283
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 265
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 5,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 267
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 314
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 446
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 373
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 274
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 270
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 323
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 473
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 288
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 436
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 276
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 269
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 366
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 271
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 272
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 6,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 408
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 393
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 534
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 251
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 273
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 417
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 247
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 409
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 368
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 399
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 291
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 362
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 329
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 591
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 7,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 267
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 262
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 524
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 238
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 262
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 243
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 271
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 254
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 339
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 276
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 237
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 311
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 282
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 8,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 233
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 431
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 440
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 290
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 346
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 302
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 556
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 350
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 308
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 323
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 301
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 406
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 523
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 383
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 432
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 9,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 626
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 430
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 544
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 245
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 399
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 422
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 248
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 347
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 430
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 279
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 418
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 389
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 255
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 368
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 422
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 10,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 253
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 373
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 644
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "isolated",
+   "messages": 0,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 340
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 348
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "chain",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 522
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 436
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 315
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "star",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 489
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 459
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 320
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "full",
+   "messages": 6,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 499
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 451
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 523
+    }
+   ],
+   "invalid": false
+  },
+  {
+   "prompt": "naive",
+   "models": "deepseek",
+   "trial": 11,
+   "topology": "chain_verifier",
+   "messages": 3,
+   "agents": [
+    {
+     "index": 1,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 0
+    },
+    {
+     "index": 2,
+     "repeats": false,
+     "flags": true,
+     "failed": false,
+     "tokens": 320
+    },
+    {
+     "index": 3,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 542
+    },
+    {
+     "index": 4,
+     "repeats": false,
+     "flags": false,
+     "failed": false,
+     "tokens": 502
+    }
+   ],
+   "invalid": false
+  }
+ ]
+}

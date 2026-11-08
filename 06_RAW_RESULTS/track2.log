@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\src\track2_networks.py", line 104, in <module>
+    main()
+  File "D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\src\track2_networks.py", line 85, in main
+    out = list(ex.map(one_trial, jobs))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AZMI\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AZMI\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AZMI\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AZMI\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\AZMI\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\src\track2_networks.py", line 49, in one_trial
+    srcs = sorted(s for s in catalog.values() if s["domain"] == d and s["kind"] == "base")[:4]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'dict' and 'dict'

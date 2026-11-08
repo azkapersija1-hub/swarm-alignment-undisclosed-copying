@@ -1,0 +1,39 @@
+{
+ "test": "T3.4 chain completeness + T3.5 source attribution (true origin vs claimed)",
+ "chain_completeness_by_type": {
+  "IND_SAME": 1.0,
+  "IND_DIFF": 1.0,
+  "TWIN_H": 1.0,
+  "NEAR_H": 1.0,
+  "SHARED_OK": 1.0,
+  "COPY_LIT": 0.0,
+  "COPY_PARA": 0.0,
+  "COPY_TWIN": 0.0,
+  "COPY_COVER": 1.0,
+  "NOSRC_SAME": 1.0
+ },
+ "attribution_recovery_top1_by_type": {
+  "IND_SAME": 1.0,
+  "IND_DIFF": 1.0,
+  "TWIN_H": 1.0,
+  "NEAR_H": 1.0,
+  "SHARED_OK": 1.0,
+  "COPY_LIT": 1.0,
+  "COPY_PARA": 1.0,
+  "COPY_TWIN": 1.0,
+  "COPY_COVER": 1.0,
+  "NOSRC_SAME": 0.938
+ },
+ "claimed_source_correct_by_type": {
+  "IND_SAME": 1.0,
+  "IND_DIFF": 1.0,
+  "TWIN_H": 1.0,
+  "NEAR_H": 1.0,
+  "SHARED_OK": 0.0,
+  "COPY_LIT": 0.0,
+  "COPY_PARA": 0.0,
+  "COPY_TWIN": 1.0,
+  "COPY_COVER": 0.0,
+  "NOSRC_SAME": 0.0
+ }
+}

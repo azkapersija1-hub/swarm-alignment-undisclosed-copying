@@ -1,0 +1,32 @@
+{
+ "qwen": {
+  "model": "tp:qwen3.8-flash",
+  "n_agents": 10,
+  "rounds": 4,
+  "discovered_shared_folder_rate": 0.0,
+  "used_as_board_rate": 0.0,
+  "read_shared_rate": 0.0,
+  "read_someone_elses_post_rate": 0.0,
+  "files_in_shared": 0,
+  "message_words_total": 0,
+  "denied_total": 0,
+  "failed_agents": 0,
+  "ledger_valid": true,
+  "ledger_events": 20
+ },
+ "deepseek": {
+  "model": "tp:deepseek-v4.1-flash-1017",
+  "n_agents": 10,
+  "rounds": 4,
+  "discovered_shared_folder_rate": 0.0,
+  "used_as_board_rate": 0.0,
+  "read_shared_rate": 0.0,
+  "read_someone_elses_post_rate": 0.0,
+  "files_in_shared": 0,
+  "message_words_total": 0,
+  "denied_total": 0,
+  "failed_agents": 0,
+  "ledger_valid": true,
+  "ledger_events": 20
+ }
+}

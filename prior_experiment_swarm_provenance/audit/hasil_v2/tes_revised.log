@@ -1,0 +1,46 @@
+﻿py : test_cari_kembar_sama_di_proses_lain (test_audit.TesHashDeterministik.test_cari_kembar_sama_di_proses_lain) ... ok
+At line:4 char:1
++ py -3.12 -I -B -X utf8 -m unittest discover -s tests -v 2> ..\hasil_v ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_cari_kemba...es_lain) ... ok:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+test_hash_bawaan_python_memang_berubah (test_audit.TesHashDeterministik.test_hash_bawaan_python_memang_berubah) ... ok
+test_hash_stabil_sama_di_proses_lain (test_audit.TesHashDeterministik.test_hash_stabil_sama_di_proses_lain) ... ok
+test_ht2_mengutip_sebagian (test_audit.TesKontrolNegatifKembar.test_ht2_mengutip_sebagian) ... ok
+test_ht_bot_menulis_dari_sumber_sendiri_bukan_menyalin_bot_lain 
+(test_audit.TesKontrolNegatifKembar.test_ht_bot_menulis_dari_sumber_sendiri_bukan_menyalin_bot_lain) ... ok
+test_ht_label_nol_dan_tipe (test_audit.TesKontrolNegatifKembar.test_ht_label_nol_dan_tipe) ... ok
+test_kembar_ditemukan (test_audit.TesKontrolNegatifKembar.test_kembar_ditemukan) ... ok
+test_skenario_menyimpan_meta_tanpa_teks (test_audit.TesKontrolNegatifKembar.test_skenario_menyimpan_meta_tanpa_teks) 
+... ok
+test_ambang_menjaga_fpr (test_lab.TestAmbangDanStatistik.test_ambang_menjaga_fpr) ... ok
+test_persentil_kosong_ditolak (test_lab.TestAmbangDanStatistik.test_persentil_kosong_ditolak) ... ok
+test_wilson_batas_wajar (test_lab.TestAmbangDanStatistik.test_wilson_batas_wajar) ... ok
+test_acuan_laju_dasar (test_lab.TestBrier.test_acuan_laju_dasar) ... ok
+test_brier_sempurna_dan_terburuk (test_lab.TestBrier.test_brier_sempurna_dan_terburuk) ... ok
+test_masukan_tak_valid_ditolak (test_lab.TestBrier.test_masukan_tak_valid_ditolak) ... ok
+test_platt_memisahkan_dan_mengalahkan_acuan (test_lab.TestBrier.test_platt_memisahkan_dan_mengalahkan_acuan) ... ok
+test_platt_skor_konstan_jatuh_ke_laju_dasar (test_lab.TestBrier.test_platt_skor_konstan_jatuh_ke_laju_dasar) ... ok
+test_containment_identik_dan_terpisah (test_lab.TestDasar.test_containment_identik_dan_terpisah) ... ok
+test_level_tak_dikenal_ditolak (test_lab.TestDasar.test_level_tak_dikenal_ditolak) ... ok
+test_mosaik_separuh_dari_sumber_diakui (test_lab.TestDasar.test_mosaik_separuh_dari_sumber_diakui) ... ok
+test_samarkan_tidak_mengubah_masukan_dan_level_menurunkan_kemiripan 
+(test_lab.TestDasar.test_samarkan_tidak_mengubah_masukan_dan_level_menurunkan_kemiripan) ... ok
+test_jujur_skor_artefak_rendah (test_lab.TestPengawas.test_jujur_skor_artefak_rendah) ... ok
+test_pengawas_laporan_lugu_buta_terhadap_salinan_klaim_beda 
+(test_lab.TestPengawas.test_pengawas_laporan_lugu_buta_terhadap_salinan_klaim_beda) ... ok
+test_pengecek_artefak_menurun_pada_penyamaran_berat 
+(test_lab.TestPengawas.test_pengecek_artefak_menurun_pada_penyamaran_berat) ... ok
+test_pengecek_kutipan_menangkap_klaim_palsu_pada_semua_level 
+(test_lab.TestPengawas.test_pengecek_kutipan_menangkap_klaim_palsu_pada_semua_level) ... ok
+test_cari_kembar_menemukan_teks_sama_beda_buku (test_lab.TestSkenario.test_cari_kembar_menemukan_teks_sama_beda_buku) 
+... ok
+test_jujur_tak_mirip_dan_berlabel_nol (test_lab.TestSkenario.test_jujur_tak_mirip_dan_berlabel_nol) ... ok
+test_salin_label_satu_klaim_beda_tapi_artefak_turunan_sumber_pertama 
+(test_lab.TestSkenario.test_salin_label_satu_klaim_beda_tapi_artefak_turunan_sumber_pertama) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 1.648s
+
+OK

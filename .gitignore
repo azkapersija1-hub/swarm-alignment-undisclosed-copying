@@ -1,0 +1,19 @@
+# embeddings and caches (rebuilt by scoring; pickle files must never be shared)
+cache/
+*.pkl
+*.pickle
+# temporary files (run logs of the earlier studies are kept as evidence)
+logs/
+*.tmp
+__pycache__/
+*.pyc
+_demo_tmp/
+# secrets (never commit)
+*.env
+.env*
+**/apk key*.txt
+**/*key*.txt
+# local editor and OS files
+~$*
+Thumbs.db
+.DS_Store

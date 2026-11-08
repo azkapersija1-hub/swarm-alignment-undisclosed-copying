@@ -1,0 +1,140 @@
+{
+ "tamper": {
+  "test": "T3.1 log tampering under three integrity regimes",
+  "n_ledgers": 1140,
+  "n_per_mode": {
+   "edit_data": 1140,
+   "delete_middle": 1140,
+   "swap_order": 1140,
+   "truncate_tail": 1140,
+   "spoofed_open_admin_rehash": 1140,
+   "forged_event_other_agent_key_unknown": 1140
+  },
+  "detection_rate": {
+   "edit_data": {
+    "R1_chain_only": 1.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   },
+   "delete_middle": {
+    "R1_chain_only": 1.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   },
+   "swap_order": {
+    "R1_chain_only": 1.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   },
+   "truncate_tail": {
+    "R1_chain_only": 0.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   },
+   "spoofed_open_admin_rehash": {
+    "R1_chain_only": 0.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   },
+   "forged_event_other_agent_key_unknown": {
+    "R1_chain_only": 0.0,
+    "R2_chain_plus_anchor": 1.0,
+    "R3_chain_anchor_signatures": 1.0
+   }
+  },
+  "notes": [
+   "hash chain alone detects edits, deletions and swaps but NOT tail truncation or an administrator re-hash",
+   "an externally anchored head hash detects both; signatures stop forging as another agent only while the signing keys stay with the agents",
+   "a compromised signer or key holder defeats all three regimes; HMAC with a demo master key is a harness sanity check, not a deployed identity scheme"
+  ]
+ },
+ "chain_attribution": {
+  "test": "T3.2 custody completeness and source attribution",
+  "n_records": 1220,
+  "chain_completeness_by_type": {
+   "ADAPT_LEX_INJECT": 1.0,
+   "ADAPT_OUT_OF_BAND": 1.0,
+   "ADAPT_SPLIT_2": 0.0,
+   "ADAPT_SURROGATE_K3": 0.0,
+   "COPY_COVER": 1.0,
+   "COPY_LIT": 0.0,
+   "COPY_PARA": 0.0,
+   "COPY_TWIN": 0.0,
+   "IND_DIFF": 1.0,
+   "IND_SAME": 1.0,
+   "NEAR_H": 1.0,
+   "NOSRC_SAME": 1.0,
+   "SHARED_OK": 1.0,
+   "TWIN_H": 1.0
+  },
+  "attribution_recovery_top1_by_type": {
+   "ADAPT_LEX_INJECT": 0.94,
+   "ADAPT_OUT_OF_BAND": 1.0,
+   "ADAPT_SPLIT_2": 0.44,
+   "ADAPT_SURROGATE_K3": 1.0,
+   "COPY_COVER": 1.0,
+   "COPY_LIT": 1.0,
+   "COPY_PARA": 1.0,
+   "COPY_TWIN": 1.0,
+   "IND_DIFF": 1.0,
+   "IND_SAME": 1.0,
+   "NEAR_H": 1.0,
+   "NOSRC_SAME": 0.85,
+   "SHARED_OK": 1.0,
+   "TWIN_H": 1.0
+  },
+  "claimed_source_correct_by_type": {
+   "ADAPT_LEX_INJECT": 0.0,
+   "ADAPT_OUT_OF_BAND": 0.0,
+   "ADAPT_SPLIT_2": 0.0,
+   "ADAPT_SURROGATE_K3": 0.0,
+   "COPY_COVER": 0.0,
+   "COPY_LIT": 0.0,
+   "COPY_PARA": 0.0,
+   "COPY_TWIN": 1.0,
+   "IND_DIFF": 1.0,
+   "IND_SAME": 1.0,
+   "NEAR_H": 1.0,
+   "NOSRC_SAME": 0.0,
+   "SHARED_OK": 0.0,
+   "TWIN_H": 1.0
+  }
+ },
+ "fingerprint": {
+  "test": "T3.3 behavioural fingerprint (generator model from report text), 5-fold CV grouped by source document",
+  "n_reports": 1022,
+  "classes": [
+   "deepseek",
+   "gemma",
+   "qwen"
+  ],
+  "accuracy": 0.9246575342465754,
+  "chance": 0.3333333333333333,
+  "confusion_matrix_rows_true": [
+   [
+    220,
+    0,
+    50
+   ],
+   [
+    0,
+    472,
+    0
+   ],
+   [
+    27,
+    0,
+    253
+   ]
+  ],
+  "note": "style identifies the generator model, not an individual agent instance; with one model for all agents it carries no copy signal"
+ },
+ "duplicates": {
+  "test": "T3.4 duplicate source identity by body hash",
+  "tp": 44,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0
+ }
+}

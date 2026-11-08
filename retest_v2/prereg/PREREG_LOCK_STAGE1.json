@@ -1,0 +1,17 @@
+{
+ "stage": "STAGE1",
+ "locked_at_utc": "2026-11-07T17:51:43+00:00",
+ "files": {
+  "prereg\\candidate_formulas.py": "203838f34dfc1ec3be09f9a7305352d44a529441204b9735b73c1df6b4387b91",
+  "prereg\\HYPOTHESES.json": "742f4b3aa9c9ffbd29cdff4281c029553514fed12563e0dc723d55c3b0bfd2a4",
+  "prereg\\preregistered_test_plan.md": "253d36cfaa3ad85197e4efe022aa9e0df86511f7d04a4b68187e4d2b305785c1",
+  "prereg\\RETEST_DECLARATIONS.md": "f7431d608d74ccee746a279c3743353d46b3446c8c27655cae2bba78c4420fd8",
+  "src\\controller_v2.py": "acc00d3f7812250f8576f94ed4087d788a76d339fcc0cc74102331c1c219b45f",
+  "src\\gen_v2.py": "d5488cc6d5776ee9874fa654e4cc46749737f7d6633583ba6c4d620fbb9fc184",
+  "D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\03_FORMULA_ENGINE\\source\\baseline_formula.py": "cecf587d11e13f9c194162d06dcf61b463cfb03627d6e58be18aeceb53385865",
+  "D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\03_FORMULA_ENGINE\\source\\rcc_v3_3_formula.py": "19a23f83d9dba6d5929bf09b0541e366b36acd03c8e9c0c2576bc70125b64bd9",
+  "D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\src\\controller.py": "f4c96882c65136980d6d695e10c0fcc9768eda474e35bd4276ae71cbec78df05",
+  "D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\src\\corpus.py": "ff665ece876c0bf053415638a82af6e4f748d2cf417d9674efd6c7d365d2ba04",
+  "D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\data\\tls_sources.json": "2702681fdb7bac95ed1c91169b1f5d9dd8debd74c89862f0779bba0e8aaae324"
+ }
+}

@@ -1,0 +1,1967 @@
+{
+ "model": "none (researcher-authored TLS materials; sentences extracted deterministically)",
+ "docs": [
+  {
+   "domain": "antropologi",
+   "title": "Pengantar Antropologi",
+   "findings": [
+    "Sub-materi CP: Konsep dasar Antropologi, Sejarah perkembangan, Ruang lingkup, Prinsip dasar.",
+    "Masyarakat di Papua melakukan Upacara Bakar Batu yang terdiri dari tahap persiapan, bakar babi, dan makan bersama.",
+    "Oleh karena itu, antropologi merupakan sebuah kajian tentang manusia.",
+    "Kebudayaan dapat digunakan oleh manusia sebagai alat untuk beradaptasi dengan lingkungannya.",
+    "Dengan demikian, antropologi memberikan sudut pandang manusiawi terhadap berbagai bidang kehidupan yang berbeda.",
+    "Bagaimana fokus kajian antropologi ekonomi berbeda dengan masalah yang mendasari ilmu ekonomi menurut Adib dkk.?",
+    "Aturan waris mereka memisahkan ternak yang diwariskan secara patrilineal dan tanah secara matrilineal.",
+    "G1 | posisi: pembuka | Simbol kekerabatan yang menunjukkan hubungan perkawinan, keturunan, dan saudara kandung."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_01_pengantar_antropologi.md",
+   "doc_id": "S000"
+  },
+  {
+   "domain": "antropologi",
+   "title": "Etnografi",
+   "findings": [
+    "Sub-materi CP: Pengertian dan sejarah etnografi, Prinsip-prinsip etnografi, Metode dan teknik pengumpulan data, Menganalisis karya etnografi kontemporer, Antropologi digital dan netnografi.",
+    "Proses ini melibatkan interaksi yang dinamis antara kerja lapangan dengan proses pembuatan teori.",
+    "Beliau telah meneliti sekitar 520 suku bangsa yang ada di Indonesia selama masa hidupnya.",
+    "Jawaban.* Teknik Malinowski dirancang untuk komunitas yang lebih kecil agar antropolog bisa mengenal sebagian besar penduduk.",
+    "Menurut Adib dkk., fokus kajian ini meliputi aspek etnologi, etnolinguistik, serta prehistori dari kelompok masyarakat tersebut.",
+    "Hal tersebut diperkuat oleh kenyataan bahwa ada lingkaran sosial yang tertutup bagi siapa saja kecuali orang yang sudah diinisiasi.",
+    "Mengapa observasi partisipan dianggap sebagai teknik yang paling sulit didefinisikan dalam kerja lapangan etnografi?",
+    "G1 | posisi: pembuka | Proses peneliti belajar teknik dan bahasa lokal melalui keterlibatan langsung."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_02_etnografi.md",
+   "doc_id": "S001"
+  },
+  {
+   "domain": "antropologi",
+   "title": "Kebudayaan dan Dinamikanya",
+   "findings": [
+    "Sub-materi CP: Pengertian dan konsep dasar Kebudayaan, Unsur-unsur dan wujud kebudayaan (Koentjaraningrat), Fungsi kebudayaan dalam kehidupan sosial, Perubahan sosial budaya, Faktor internal dan eksternal perubahan, Proses difusi, inovasi, akulturasi, dan asimilasi, Globalisasi dan dampaknya terhadap budaya.",
+    "G1 | posisi: pembuka | Peta konsep kebudayaan dan masyarakat | perlu ilustrasi: bagan hubungan antara Pengertian, Wujud, Unsur, dan Sifat Kebudayaan dengan Masyarakat",
+    "Hal ini membuktikan bahwa setiap unsur kebudayaan universal menjelma dalam ketiga wujud kebudayaan.",
+    "G2 | posisi: contoh kasus | Tradisi Sambatan pada Masyarakat Jawa | Gambar 3.8",
+    "Sementara itu, faktor eksternal adalah faktor penyebab perubahan yang berasal dari luar masyarakat.",
+    "G2 | posisi: contoh kasus | Contoh perubahan budaya akibat faktor eksternal di Desa Kedisan | perlu ilustrasi: gambar patung totem Alaska dengan label 'Hibridisasi Seni Desa Kedisan' dan keterangan 'Permintaan Konsumen'",
+    "Globalisasi merupakan sebuah proses perubahan kebudayaan yang bersifat mengglobal.",
+    "G1 | posisi: pembuka | Proses Hibridisasi Budaya | perlu ilustrasi: diagram alur yang menunjukkan budaya lokal dan budaya global bertemu dalam satu ruang lalu menghasilkan budaya hibrida"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_03_kebudayaan_dan_dinamikanya.md",
+   "doc_id": "S002"
+  },
+  {
+   "domain": "antropologi",
+   "title": "Sistem Bahasa dan Sistem Religi",
+   "findings": [
+    "Sub-materi CP: Pengertian bahasa sebagai sistem simbol, Fungsi bahasa dalam masyarakat (komunikatif, identitas, dan integratif), Ragam bahasa daerah dan pelestarianya, Pengertian sistem religi, Fungsi religi dalam masyarakat (sosial, psikologis, dan moral), Dinamika religi dalam masyarakat multikultural dan modern.",
+    "Alasan: Bahasa adalah unsur kebudayaan yang terdapat pada semua masyarakat.",
+    "Hal ini menunjukkan bagaimana praktik budaya masyarakat tertentu memiliki wujud sistem budaya.",
+    "Keberagaman budaya muncul berdasarkan latar lingkungan geografi, suku-bangsa, bahasa, seni, agama-religi, organisasi sosial kekerabatan, dan mata pencaharian ekonomi.",
+    "Sejalan dengan penjelasan sebelumnya, sistem religi memiliki wujud kebudayaan fisik yang dapat dilihat secara nyata.",
+    "Hal ini berarti religi tidak hanya berupa keyakinan tetapi juga terlihat dalam perilaku sosial dan benda fisik.",
+    "Unsur ini mencakup sistem keyakinan serta gagasan mengenai Tuhan, dewa, roh halus, surga, dan neraka.",
+    "G1 | posisi: pembuka | Wujud sistem religi dalam kebudayaan | perlu ilustrasi: tabel yang membagi sistem religi ke dalam tiga wujud yaitu sistem budaya (keyakinan), sistem sosial (upacara), dan fisik (benda suci)"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_04_sistem_bahasa_dan_sistem_religi.md",
+   "doc_id": "S003"
+  },
+  {
+   "domain": "antropologi",
+   "title": "Organisasi Sosial",
+   "findings": [
+    "Sub-materi CP: Struktur dan sistem dalam organisasi sosial, Keluarga dan sistem kekerabatan sebagai organisasi sosial, Peran organisasi sosial dalam dinamika sosial.",
+    "Sistem organisasi sosial merupakan bagian dari unsur kebudayaan yang mengatur kekerabatan.",
+    "Jawaban.* Masyarakat Zulu menggunakan garis keturunan ayah atau patrilineal untuk menentukan hak kepemilikan tanah.",
+    "Aturan ini menjadi dasar bagi pembentukan status dan peran dalam kelompok masyarakat tersebut.",
+    "Hal ini diterapkan untuk memahami bagaimana sistem kekerabatan dijalankan dalam kehidupan sehari-hari.",
+    "Menurut Adib dkk., manusia tidak mungkin hidup tanpa ikatan karena hubungan dengan orang lain merupakan hal yang melekat dalam hidup.",
+    "Menurut Adib dkk., jumlah rumah tangga dalam masyarakat tersebut dihitung berdasarkan jumlah dapur yang ada.",
+    "G2 | posisi: contoh kasus | Penentuan jumlah rumah tangga berdasarkan jumlah dapur | perlu ilustrasi: gambar rumah panjang suku Iban dengan penanda beberapa dapur di dalamnya"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_05_organisasi_sosial.md",
+   "doc_id": "S004"
+  },
+  {
+   "domain": "antropologi",
+   "title": "Keberagaman Budaya dan Integrasi Nasional",
+   "findings": [
+    "Sub-materi CP: Konsep dasar keragaman budaya, Faktor penyebab keberagaman budaya, Tantangan dalam keberagaman budaya, Integrasi nasional.",
+    "Seni musik yang dilengkapi drama dan pertunjukan ini telah merambah berbagai belahan benua.",
+    "Menurut Adib dkk., heterogenitas suku bangsa menjadi salah satu faktor yang dapat menghambat proses integrasi nasional.",
+    "Mengapa heterogenitas suku bangsa dianggap sebagai faktor penghambat dalam integrasi nasional?",
+    "Melanjutkan pembahasan tersebut, tantangan muncul ketika terjadi interaksi antara kebudayaan lokal dengan fenomena global.",
+    "Alasan: Kesetaraan merupakan landasan utama untuk melaksanakan integrasi nasional.",
+    "Selain itu, siswa dapat menguraikan aspek ikatan sosial serta pembentukan kelompok bangsa pasca kolonial.",
+    "G1 | posisi: pembuka | Hubungan antara keberagaman budaya dan komponen integrasi nasional."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_antropologi_06_keberagaman_budaya_dan_integrasi_n.md",
+   "doc_id": "S005"
+  },
+  {
+   "domain": "biologi-bakteri",
+   "title": "Karakteristik, bentuk, dan struktur bakteri",
+   "findings": [
+    "Bakteri merupakan mikroorganisme uniseluler prokariotik yang tidak memiliki selubung membran inti dan organel bermembran dalam sitoplasmanya.",
+    "Sitoplasma bakteri tidak memiliki retikulum endoplasma maupun mitokondria, melainkan dipenuhi oleh ribosom tipe tujuh puluh S.",
+    "Kelompok spirilum memperlihatkan bentuk heliks spiral kaku, vibrio melengkung menyerupai tanda koma, dan spiroseta ramping fleksibel.",
+    "Pili atau fimbriae berupa rambut halus permukaan berfungsi melekatkan bakteri pada substrat dan membentuk jembatan sitoplasma saat konjugasi.",
+    "Parameter  menyatakan total durasi waktu inkubasi pertumbuhan koloni mikroba dalam satuan menit atau jam.",
+    "Petugas laboratorium mikrobiologi melakukan teknik pewarnaan negatif menggunakan zat warna tinta cina untuk mengamati keberadaan kapsul bakteri patogen paru.",
+    "Melalui proses konjugasi dengan bantuan pilus seks, plasmid resistensi ini dapat dipindahkan dari satu sel bakteri ke bakteri lainnya sehingga mempercepat penyebaran kekebalan antibiotik antarspesies.",
+    "Karena dua pangkat enam sama dengan enam puluh empat, maka populasi akhir bakteri mencapai enam ribu empat ratus sel."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bakteri_sub0.docx",
+   "doc_id": "S006"
+  },
+  {
+   "domain": "biologi-bakteri",
+   "title": "Perbedaan umum bakteri Gram positif dan Gram negatif",
+   "findings": [
+    "Pengelompokan bakteri Gram positif dan Gram negatif didasarkan pada perbedaan struktur dinding sel serta retensi zat warna pada prosedur pewarnaan Gram.",
+    "Larutan iodin kemudian ditambahkan untuk membentuk kompleks kristal violet iodin berukuran besar yang terperangkap di dalam matriks dinding sel.",
+    "Ketika alkohol diberikan pada tahap pelunturan, struktur dinding sel peptidoglikan mengalami dehidrasi dan menyusutkan pori-pori mikroskopisnya.",
+    "Bakteri Gram negatif hanya memiliki lapisan peptidoglikan tipis berukuran dua hingga tujuh nanometer yang terletak di dalam ruang periplasma.",
+    "Keterangan dan syarat pemakaian: - Nilai  melambangkan persentase retensi intensitas warna kristal violet setelah tahap pencucian pelarut alkohol.",
+    "Hasil uji kultur mikrobiologi dan pewarnaan Gram terhadap sampel urin menunjukkan koloni bakteri basil berwarna merah muda.",
+    "Bakteri Gram positif memiliki lapisan peptidoglikan yang sangat tebal sehingga ketika didehidrasi oleh alkohol, pori-pori dinding selnya menutup dan mengunci kompleks kristal violet iodin yang berwarna ungu.",
+    "Senyawa toksin ini menstimulasi makrofag secara masif untuk melepaskan sitokin pirogenik endogen yang memicu demam ekstrem, penurunan tekanan darah drastis, dan syok septik mematikan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bakteri_sub1.docx",
+   "doc_id": "S007"
+  },
+  {
+   "domain": "biologi-bakteri",
+   "title": "Peranan bakteri yang menguntungkan",
+   "findings": [
+    "Peranan menguntungkan bakteri mencakup kontribusi ekologis dalam daur biogeokimia serta aplikasi bioteknologi pangan, industri, farmasi, dan pertanian.",
+    "Bakteri Rhizobium mengubah gas nitrogen bebas atmosfer menjadi ion amonium terlarut yang dapat diserap langsung oleh jaringan tumbuhan.",
+    "Penurunan derajat keasaman susu menggumpalkan protein kasein sehingga menghasilkan tekstur kental lembut dan menghambat pertumbuhan kuman pembusuk.",
+    "Spesies aktinomisetes tanah Streptomyces griseus memproduksi senyawa antibiotik streptomisin yang ampuh mengobati penyakit infeksi tuberkulosis paru.",
+    "Keterangan dan syarat pemakaian: - Nilai  menyatakan koefisien hasil konversi massa substrat nutrisi gula menjadi pertambahan biomassa sel bakteri.",
+    "Tim restorasi lingkungan menyemprotkan konsorsium bakteri Pseudomonas putida yang diperkaya pupuk fosfat dan nitrogen ke area tercemar.",
+    "Bakteri Rhizobium menginfeksi rambut akar tanaman legum untuk membentuk bintil akar khusus tempat bakteri melangsungkan fiksasi gas nitrogen bebas.",
+    "Lingkungan asam selektif ini secara efektif menekan proliferasi mikroorganisme perusak sehingga yoghurt memiliki masa simpan yang jauh lebih lama dibanding susu segar."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bakteri_sub2.docx",
+   "doc_id": "S008"
+  },
+  {
+   "domain": "biologi-bakteri",
+   "title": "Peranan bakteri yang merugikan dan kaitannya dengan kesehatan",
+   "findings": [
+    "Peranan merugikan bakteri mencakup kapasitas patogenik dalam memicu infeksi jaringan tubuh, intoksikasi racun, dan kerusakan bahan pangan.",
+    "Sebagai contoh ekstrem, Clostridium botulinum memproduksi racun neurotoksin eksotoksin pada makanan kaleng basi yang melumpuhkan sistem saraf otot pernapasan.",
+    "Vibrio cholerae mengeluarkan enterotoksin kolera yang memicu pengeluaran cairan elektrolit usus secara masif hingga menyebabkan dehidrasi mematikan.",
+    "Penggunaan antibiotik secara berlebihan dan tidak tuntas memicu seleksi buatan terhadap populasi mutan bakteri yang memiliki gen resistensi.",
+    "Keterangan dan syarat pemakaian: - Nilai  melambangkan konsentrasi hambat minimum antibiotik yang mampu mencegah pertumbuhan visual biakan bakteri di laboratorium.",
+    "Pemeriksaan laboratorium mikrobiologi terhadap sisa makanan menemukan koloni bakteri Staphylococcus aureus yang melepaskan enterotoksin tahan panas.",
+    "Eksotoksin merupakan molekul protein larut air yang disintesis dan disekresikan secara aktif oleh bakteri hidup ke dalam jaringan inang, serta bersifat sangat toksik spesifik dan rentan terhadap panas.",
+    "Akibatnya, pasien akan mengalami kekambuhan infeksi sekunder yang jauh lebih parah dan kebal terhadap pengobatan antibiotik lini pertama."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bakteri_sub3.docx",
+   "doc_id": "S009"
+  },
+  {
+   "domain": "biologi-bioproses",
+   "title": "Struktur dan sifat membran sel",
+   "findings": [
+    "Sepuluh sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sebaliknya, bagian ekor yang tersusun atas rantai asam lemak bersifat hidrofobik sehingga saling berhadapan untuk menghindari kontak langsung dengan air.",
+    "Sebagian besar protein integral berfungsi sebagai saluran atau pengangkut khusus bagi ion dan molekul tertentu yang melintasi membran sel.",
+    "Molekul gas berukuran kecil dan senyawa nonpolar yang larut dalam lemak dapat melintasi lapisan ganda ini secara langsung tanpa perantara.",
+    "Molekul polar besar tidak bermuatan seperti glukosa tidak dapat menembus membran secara spontan dan membutuhkan protein transpor terfasilitasi.",
+    "Prinsip pembentukan lapisan ganda lipid diterapkan dalam bidang farmasi modern melalui teknologi liposom.",
+    "Posisi ekor yang saling berhadapan ini menciptakan zona tengah yang kedap air dan tidak dapat ditembus oleh molekul polar besar maupun ion bebas.",
+    "Alasan: keberadaan dinding sel kaku pada tumbuhan memberikan proteksi mekanis terhadap lisis osmosis yang tidak dimiliki oleh sel hewan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bioproses_sub0.docx",
+   "doc_id": "S010"
+  },
+  {
+   "domain": "biologi-bioproses",
+   "title": "Endositosis dan eksositosis",
+   "findings": [
+    "Sepuluh sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sebaliknya, proses pelepasan zat dari dalam sitoplasma ke lingkungan luar sel melalui fusi vesikel dinamakan eksositosis.",
+    "Bentuk kedua adalah pinositosis atau proses minum seluler saat membran plasma melekuk ke dalam untuk menelan tetesan cairan ekstraseluler.",
+    "Membran vesikel sekretori kemudian melebur secara sempurna dengan membran sel sehingga isi vesikel dilepaskan keluar menuju cairan jaringan.",
+    "Pelepasan vesikel endositik ke sitoplasma dipotong oleh enzim GTPase dinamin menggunakan hidrolisis guanosin trifosfat (GTP).",
+    "Kasus medis ini menunjukkan bahwa kegagalan satu komponen endositosis spesifik dapat memicu penyumbatan arteri koroner yang fatal.",
+    "Fagositosis adalah proses penelanan materi padat berukuran relatif besar seperti bakteri atau serpihan sel mati menggunakan penjuluran pseudopodia membran.",
+    "Alasan: jalur endositosis reseptor bergantung pada perakitan protein mantel klatrin, sedangkan fagositosis digerakkan oleh dinamika filamen aktin sitoskeleton."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bioproses_sub4.docx",
+   "doc_id": "S011"
+  },
+  {
+   "domain": "biologi-bioproses",
+   "title": "Katabolisme dan respirasi sel",
+   "findings": [
+    "Sepuluh sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Respirasi seluler aerob mewakili bentuk katabolisme yang paling efisien karena memecah glukosa secara tuntas menjadi karbon dioksida dan air.",
+    "Asam piruvat kemudian masuk ke matriks mitokondria untuk menjalani dekarboksilasi oksidatif menjadi asetil koenzim A dengan melepaskan karbon dioksida.",
+    "Pada sel otot manusia yang bekerja keras, piruvat direduksi secara langsung oleh NADH menjadi asam laktat melalui fermentasi asam laktat.",
+    "Satu molekul FADH2 yang masuk pada kompleks dua menghasilkan sekitar 1,5 molekul ATP karena melewati pompa proton lebih sedikit.",
+    "Prinsip fermentasi ragi anaerob dimanfaatkan secara luas dalam industri pangan pembuatan roti dan fermentasi minuman beralkohol.",
+    "Setelah menerima elektron berenergi rendah dari kompleks sitokrom, oksigen mengikat ion proton bebas untuk membentuk molekul air.",
+    "Alasan: kegagalan sintesis ATP akibat terhentinya rantai transpor elektron memicu kematian seluler secara massal akibat krisis energi akut."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bioproses_sub7.docx",
+   "doc_id": "S012"
+  },
+  {
+   "domain": "biologi-bioproses",
+   "title": "Keterkaitan jalur metabolisme dan keseimbangan energi",
+   "findings": [
+    "Sepuluh sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Ketika sel membongkar molekul nutrien, energi yang dibebaskan disimpan sementara dalam bentuk ikatan fosfat berenergi tinggi pada adenosin trifosfat.",
+    "Melalui proses oksidasi beta asam lemak tersebut, satu molekul lipid mampu membebaskan jumlah energi ATP jauh lebih banyak daripada karbohidrat.",
+    "Bila kadar adenosin trifosfat berlimpah, molekul tersebut berikatan pada sisi alosterik enzim fosfofruktokinase untuk menghambat laju glikolisis.",
+    "Sel mempertahankan nilai muatan energi pada kisaran fisiologis yang sempit antara 0,80 hingga 0,95.",
+    "Atlet dilatih untuk meningkatkan efisiensi oksidasi lemak tubuh pada kecepatan lari stabil demi menghemat cadangan glikogen otot.",
+    "Akibatnya, lebih banyak elektron yang dapat dipindahkan ke molekul pembawa NADH dan FADH2 selama oksidasi beta berlangsung.",
+    "Alasan: penghambatan alosterik oleh ATP bertindak sebagai regulasi umpan balik negatif untuk menghentikan pemborosan pembongkaran glukosa saat pasokan energi sel telah melimpah."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\bioproses_sub9.docx",
+   "doc_id": "S013"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Karakteristik dan prinsip bioteknologi modern",
+   "findings": [
+    "Bioteknologi modern merupakan pemanfaatan terpadu prinsip ilmiah dan rekayasa molekuler terhadap materi genetik organisme hidup.",
+    "Pemuliaan modern tidak lagi bergantung pada persilangan seksual acak melainkan pemotongan dan penyisipan gen target yang terdefinisi.",
+    "Vektor rekombinan yang terbentuk dimasukkan ke dalam sel inang bakteri inang melalui proses transformasi membran seluler.",
+    "Setiap pelepasan varietas hasil rekayasa genetik wajib melalui uji analisis risiko terhadap ekosistem alami dan kesehatan publik.",
+    "Investigasi laboratorium mengungkap adanya kontaminasi faga virus bakteri akibat kebocoran filter udara steril ruang fermentor.",
+    "Rantai mRNA rekombinan kemudian disintesis secara enzimatik dan dibungkus partikel nano lipid untuk disuntikkan ke tubuh manusia.",
+    "Tanpa adanya enzim restriksi, rekayasa penyambungan fragmen DNA secara terarah di laboratorium tidak mungkin dilakukan.",
+    "Alasan: laju perbanyakan biomassa bakteri yang eksponensial dan kemudahan isolasi plasmid menghasilkan efisiensi biaya produksi protein yang sangat tinggi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub0.docx",
+   "doc_id": "S014"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Teknologi DNA rekombinan dan produksi protein",
+   "findings": [
+    "Teknologi DNA rekombinan merupakan metodologi penggabungan molekul DNA dari dua sumber organisme yang berbeda secara in vitro di laboratorium.",
+    "Pemotongan dengan enzim sejenis menghasilkan ujung-ujung kohesif lengket beruntai tunggal yang memiliki urutan basa komplementer.",
+    "Koloni bakteri yang berhasil menyerap plasmid rekombinan diseleksi menggunakan media agar cawan yang mengandung antibiotik selektif.",
+    "Campuran protein kasar selanjutnya dimurnikan melalui teknik kromatografi kolom afinitas untuk memisahkan molekul dari kontaminan sel inang.",
+    "Meskipun enzim DNA ligase ditambahkan dalam konsentrasi tinggi, plasmid rekombinan yang diharapkan sama sekali tidak terbentuk.",
+    "Protein eritropoietin yang disekresikan sel inang merangsang sumsum tulang pasien untuk memproduksi sel darah merah baru secara alami.",
+    "Sel bakteri yang tidak membawa plasmid akan mati terhambat pertumbuhannya oleh antibiotik ampisilin.",
+    "Alasan: bakteri tidak memiliki mekanisme splicing intron sehingga mutlak membutuhkan cDNA yang hanya berisi urutan ekson fungsional."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub1.docx",
+   "doc_id": "S015"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Organisme transgenik",
+   "findings": [
+    "Organisme transgenik merupakan makhluk hidup yang telah disisipi materi genetik asing dari spesies lain melalui teknologi transfer gen.",
+    "Metode transfer fisik lain mencakup penembakan partikel mikro emas berbalut DNA menggunakan senjata gen biolistik bertekanan helium.",
+    "Protein kristal tersebut bersifat racun mematikan bagi hama ulat penggerek batang namun sepenuhnya aman bagi mamalia dan manusia.",
+    "Susu terapeutik tersebut kemudian diperah dan dimurnikan untuk memproduksi obat konsentrat bagi penderita gangguan hemofilia.",
+    "Sebuah lahan perkebunan jagung transgenik Bt di Amerika Serikat diserang oleh hama ulat penggerek yang tidak lagi mempan terhadap racun tanaman.",
+    "Dengan terhambatnya sintesis enzim tersebut, tekstur dinding sel buah tomat tetap keras dan segar selama penyimpanan berminggu-minggu.",
+    "Sebaliknya saluran lambung manusia dan mamalia bersifat sangat asam dengan pH satu hingga dua yang langsung mendegradasi protein Cry menjadi asam amino biasa.",
+    "Alasan: aliran gen transgenik ke populasi liar berpotensi menciptakan gulma invasif resisten herbisida yang merusak keseimbangan agroekosistem."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub2.docx",
+   "doc_id": "S016"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Kultur jaringan",
+   "findings": [
+    "Kultur jaringan tumbuhan merupakan teknik membudidayakan potongan sel atau jaringan tanaman secara aseptik di dalam media buatan steril.",
+    "Prosedur penanaman eksplan dilakukan di dalam lemari aliran udara laminar steril guna mencegah kontaminasi partikel debu melayang.",
+    "Rasio sitokinin tinggi terhadap auksin merangsang kalus membentuk primordia tunas daun baru dalam tahap multiplikasi tunas.",
+    "Setelah kutikula menebal dan perakaran mencengkeram kuat tanah pembibitan, tanaman muda siap dipindahkan ke perkebunan komersial terbuka.",
+    "Sebuah laboratorium kultur jaringan kelapa sawit memindahkan seratus planlet dari botol steril langsung ke polybag tanah terbuka terik matahari.",
+    "Karena jaringan meristem pucuk memiliki laju pembelahan sel yang melampaui laju replikasi virus dan belum memiliki jaringan vaskuler pembawa patogen, sel meristem terbebas dari partikel virus.",
+    "Konsentrasi fitohormon auksin yang sangat pekat di ujung pucuk juga memiliki aktivitas menghambat replikasi materi genetik virus patogen.",
+    "Alasan: keseragaman genetik total melenyapkan bantalan variasi resistensi populasi sehingga membuat ekosistem hutan sangat rentan runtuh akibat wabah."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub3.docx",
+   "doc_id": "S017"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Kloning dan teknologi reproduksi",
+   "findings": [
+    "Kloning merupakan prosedur menghasilkan satu atau lebih salinan individu organisme yang memiliki materi genetik identik dengan pendonornya.",
+    "Inti sel somatis diploid tersebut disisipkan ke dalam sel ovum ter-enukleasi yang telah kosong materi genetik intinya.",
+    "Anak domba yang terlahir dinamai Dolly dan terbukti memiliki profil sekuens DNA inti seratus persen identik dengan domba pendonor sel mamae.",
+    "Sel punca tersebut dapat diarahkan menjadi sel saraf dopaminergik untuk terapi Parkinson atau sel kardiomiosit untuk perbaikan infark jantung.",
+    "Dolly mewarisi kromosom dengan ujung telomer yang sudah memendek sesuai dengan umur fisiologis domba dewasa pendonor intinya.",
+    "Kloning lintas spesies ini berpotensi mengembalikan populasi badak putih utara tanpa perlu menunggu persilangan seksual yang mustahil terjadi.",
+    "Kondisi poliploidi abnormal ini memicu kekacauan pemisahan kromatid saat mitosis sehingga embrio akan mengalami kematian spontan pada fase pembelahan awal.",
+    "Alasan: kloning reproduktif melanggar hak asasi dan martabat kemanusiaan janin sedangkan kloning terapeutik murni difokuskan untuk terapi penyelamatan nyawa pasien."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub4.docx",
+   "doc_id": "S018"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Aplikasi bioteknologi modern pada kesehatan, pangan, pertanian, dan konservasi",
+   "findings": [
+    "Aplikasi bioteknologi modern merepresentasikan hilirisasi riset genomik dan rekayasa molekuler ke dalam solusi nyata multisektoral.",
+    "Vektor virus adenovirus yang telah dilemahkan disuntikkan untuk mengantarkan salinan gen fungsional normal ke dalam sel sumsum tulang pasien.",
+    "Pada sektor pangan olahan, mikroba hasil rekayasa dimanfaatkan untuk mensintesis enzim kimosin pengganti rennet lambung sapi pada industri keju.",
+    "Di bidang konservasi satwa, kriopreservasi nitrogen cair digunakan untuk membangun bank sperma, ovum, dan jaringan embrio hewan langka.",
+    "Tim tanggap darurat menginokulasikan konsorsium bakteri transgenik pengurai alkana bersama nutrisi pupuk nitrogen fosfat ke tumpahan minyak.",
+    "Setelah diperbanyak hingga miliaran sel, sel pembunuh T rekombinan diinfuskan kembali ke dalam aliran sirkulasi darah pasien.",
+    "Fusi kedua sel menghasilkan sel hibridoma yang mewarisi kedua sifat unggul tersebut secara simultan.",
+    "Alasan: terapi gen somatis terbatas pada perbaikan jaringan tubuh organ sasaran dan tidak mengubah materi genetik sel kelamin pembawa sifat herediter."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub5.docx",
+   "doc_id": "S019"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Manfaat, risiko, dan keterbatasan bioteknologi modern",
+   "findings": [
+    "Pemanfaatan bioteknologi modern menuntut analisis komprehensif mengenai perimbangan antara potensi manfaat besar dan risiko ekologis.",
+    "Bioremediasi menggunakan mikroba transgenik mempercepat pemulihan lahan tercemar limbah industri berbahaya tanpa memerlukan pengerukan mekanis masif.",
+    "Penggunaan tanaman penghasil toksin serangga secara terus-menerus juga berisiko membunuh serangga penyerbuk bukan sasaran seperti kupu-kupu raja.",
+    "Selain itu, respons fisiologis organisme terhadap perubahan iklim selalu melibatkan dinamika komunitas mikroba tanah yang sangat kompleks.",
+    "Namun uji klinis lanjutan mengungkap bahwa protein albumin kacang Brasil tersebut mempertahankan sifat alergenitas aslinya.",
+    "Pemerintah membentuk Komisi Keamanan Hayati Produk Rekayasa Genetik yang beranggotakan pakar biologi molekuler, ekologi, dan toksikologi.",
+    "Walaupun probabilitas peristiwa ini sangat rendah, industri modern kini beralih menggunakan penanda seleksi non-antibiotik.",
+    "Alasan: perlindungan paten benih menciptakan jeratan monopoli pasar dan memutus tradisi kemandirian petani dalam memproduksi benih sendiri."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub6.docx",
+   "doc_id": "S020"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Bioetika dalam penerapan bioteknologi modern",
+   "findings": [
+    "Bioetika merupakan cabang filsafat terapan yang mengkaji dimensi moral, etika, dan sosial dari kemajuan ilmu biologi dan kedokteran.",
+    "Replacement menuntut penggantian model hewan dengan simulasi komputer atau kultur sel in vitro apabila metodologi tersebut telah tersedia.",
+    "Modifikasi garis nutfah embrio berpotensi mengubah kolam gen manusia secara permanen dengan dampak jangka panjang yang belum diketahui.",
+    "Masyarakat sipil, agamawan, pakar hukum, dan ilmuwan harus dilibatkan dalam forum musyawarah penyusunan undang-undang bioetika nasional.",
+    "Komunitas sains internasional mengecam keras tindakan tersebut sebagai pelanggaran etika berat yang ilegal dan sangat tidak bertanggung jawab.",
+    "Komite etik mengawasi pelaksanaan uji secara berkala guna menjamin tidak adanya paksaan ekonomi terhadap masyarakat kurang mampu.",
+    "Hal ini dilakukan melalui pemilihan galur hewan yang homogen dan desain perlakuan acak yang efisien.",
+    "Alasan: perubahan gen somatis bersifat individual non-herediter sedangkan perubahan garis nutfah bersifat permanen terwariskan ke generasi anak cucu."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub7.docx",
+   "doc_id": "S021"
+  },
+  {
+   "domain": "biologi-biotek",
+   "title": "Bioteknologi konvensional",
+   "findings": [
+    "Bioteknologi konvensional merupakan pemanfaatan organisme utuh secara langsung tanpa melalui rekayasa genetika molekuler tingkat lanjut.",
+    "Proses fermentasi ini tidak hanya mengawetkan bahan pangan mentah dari pembusukan melainkan juga meningkatkan daya cerna nutrisi makanan.",
+    "Pada pembuatan tapai singkong, khamir Saccharomyces cerevisiae bekerja memecah pati menjadi gula sederhana glukosa dan alkohol etanol.",
+    "Kombinasi pemahaman ilmiah modern terhadap proses tradisional ini memungkinkan standardisasi mutu dan higienitas produk fermentasi lokal.",
+    "Seorang pengrajin tempe mendapati seluruh kedelai di dalam bungkusan plastik mengalami pembusukan basah berbau busuk amonia.",
+    "Bakteri mengonversi glukosa air kelapa menjadi jalinan serat selulosa ekstraseluler kenyal yang sangat tinggi serat pangan alami.",
+    "Jalinan hifa jamur juga melunakkan dinding sel kedelai sehingga meningkatkan bioavailabilitas nutrisi secara keseluruhan.",
+    "Alasan: oksidasi sekunder etanol menjadi asam asetat oleh bakteri Acetobacter mengubah cita rasa manis tapai menjadi masam."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\biotek_sub8.docx",
+   "doc_id": "S022"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Komponen biotik dan abiotik",
+   "findings": [
+    "Komponen biotik dan abiotik merupakan dua pilar penyusun ekosistem yang saling berinteraksi dinamis membentuk kesatuan fungsional di biosfer bumi.",
+    "Komponen abiotik menyediakan substrat fisik dan energi dasar seperti intensitas cahaya matahari, molekul air, udara, dan senyawa mineral tanah.",
+    "Organisme konsumen herbivora dan karnivora memanfaatkan bahan organik yang dihasilkan produsen untuk melangsungkan metabolisme pertumbuhan tubuh mereka.",
+    "Sebaliknya kerusakan tutupan vegetasi hutan memicu kegagalan resapan air tanah dan mempercepat pemanasan iklim mikro di kawasan sekitarnya.",
+    "Kematian produsen tersebut membuktikan bahwa perubahan faktor abiotik langsung melumpuhkan kelangsungan hidup komponen biotik di dalamnya.",
+    "Jelaskan bagaimana komponen abiotik berupa cahaya matahari dan air memengaruhi kelangsungan hidup komponen biotik produsen.",
+    "Petugas balai konservasi mendata 450 batang pohon meranti yang tersebar pada petak cuplik hutan seluas 15 hektare.",
+    "Kerapatan 30 pohon per hektare menunjukkan tegakan pohon dewasa memiliki jarak tajuk yang cukup renggang untuk menangkap cahaya matahari."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub0.docx",
+   "doc_id": "S023"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Interaksi antarkomponen ekosistem",
+   "findings": [
+    "Interaksi antarkomponen ekosistem merupakan hubungan timbal balik biologis yang terjalin antarorganisme dalam komunitas maupun dengan lingkungan fisiknya.",
+    "Interaksi kompetisi terjadi saat dua populasi atau lebih bersaing memperebutkan sumber daya terbatas seperti makanan, ruang, atau pasangan kawin.",
+    "Simbiosis komensalisme menguntungkan satu pihak tanpa menimbulkan kerugian atau keuntungan bagi pihak pasangan interaksi seperti tanaman anggrek epifit.",
+    "Pengelolaan ekosistem menuntut pemahaman mendalam tentang jejaring interaksi agar intervensi manusia tidak merusak tatanan alami yang harmonis.",
+    "Prinsip interaksi biologis diterapkan dalam pengendalian hama terpadu dengan memanfaatkan musuh alami tanpa racun pestisida sintetis berbahaya.",
+    "Jelaskan perbedaan mendasar antara mekanisme interaksi simbiosis parasitisme dengan interaksi predasi dalam komunitas ekologi.",
+    "Populasi burung pemakan serangga dihilangkan dari suatu kawasan kebun buah karena dianggap mengganggu rantai penyerbukan bunga.",
+    "Akibatnya pembentukan bunga dan buah akan mengalami kegagalan parah sehingga hasil panen buah petani kebun merosot tajam."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub1.docx",
+   "doc_id": "S024"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Rantai makanan dan jaring-jaring makanan",
+   "findings": [
+    "Rantai makanan dan jaring-jaring makanan merupakan jalur linear dan jejaring kompleks perpindahan energi makanan antarorganisme dalam ekosistem.",
+    "Ketika ular sawah mati, jasadnya akan diuraikan oleh organisme pengurai jamur dan bakteri menjadi senyawa hara tanah kembali.",
+    "Udang dan siput air saling berkompetisi mendapatkan pakan detritus dan alga sebelum keduanya dimangsa oleh ikan karnivora berukuran besar.",
+    "Pemodelan jaring makanan membantu ahli ekologi memprediksi dampak introduksi spesies invasif atau perburuan terhadap stabilitas komunitas perairan.",
+    "Akibatnya populasi siput melonjak tajam dan memicu kompetisi ruang yang ketat hingga mengubah struktur dasar jaring makanan danau.",
+    "Mengapa struktur jaring-jaring makanan dipandang lebih mampu menjaga kestabilan ekosistem dibandingkan rantai makanan tunggal?",
+    "Suatu jaring-jaring makanan di cagar alam melibatkan 10 spesies organisme dengan 18 tautan interaksi trofik nyata di lapangan.",
+    "Nilai konektivitas 20 persen menunjukkan bahwa seperlima dari seluruh potensi interaksi trofik telah terwujud aktif dalam jaring komunitas."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub2.docx",
+   "doc_id": "S025"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Tingkat trofik dan piramida ekologi",
+   "findings": [
+    "Tingkat trofik dan piramida ekologi merupakan stratifikasi hierarkis posisi makan organisme serta model visual perbandingan struktur kuantitatif ekosistem.",
+    "Tingkat trofik tertinggi ditempati oleh predator puncak seperti burung elang atau harimau yang tidak lagi memiliki pemangsa alami lain di habitatnya.",
+    "Pada ekosistem perairan laut, piramida biomassa dapat terbalik sesaat karena fitoplankton berkembang biak sangat cepat meski biomassanya kecil.",
+    "Keterbatasan suplai energi pada puncak trofik membatasi panjangnya tingkatan trofik ekosistem yang umumnya hanya mencapai empat hingga lima tingkat.",
+    "Penyusutan drastis biomassa ini mengonfirmasi struktur piramida tegak yang mencerminkan hilangnya materi pada setiap tahapan trofik ekosistem.",
+    "Mengapa bentuk piramida energi selalu tegak menyempit ke atas dan tidak pernah mengalami bentuk terbalik di alam?",
+    "Suatu ekosistem padang sabana mencatat biomassa produsen sebesar 1.500 gram per meter persegi dan herbivora sebesar 180 gram per meter persegi.",
+    "Nilai 12 persen ini selaras dengan kisaran efisiensi trofik alami yang menunjukkan bahwa sebagian besar biomassa tumbuhan tidak terasimilasi sempurna."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub3.docx",
+   "doc_id": "S026"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Aliran energi",
+   "findings": [
+    "Aliran energi merupakan proses perpindahan satu arah energi radiasi matahari yang ditangkap produsen lalu dialirkan melintasi tingkatan trofik ekosistem.",
+    "Energi foton matahari tersebut dikonversi menjadi energi kimia potensial yang terikat kokoh di dalam molekul glukosa dan senyawa karbohidrat.",
+    "Penyusutan energi yang sangat besar ini dikenal luas dalam ilmu ekologi sebagai kaidah efisiensi trofik hukum sepuluh persen Lindeman.",
+    "Sebaliknya energi selalu mengalir linier terbuka dan akhirnya hilang terdisipasi ke luar biosfer sebagai radiasi gelombang termal inframerah.",
+    "Populasi sapi herbivora hanya menyimpan energi sebesar 1.000 kilokalori, sedangkan harimau yang memangsa sapi hanya memperoleh 100 kilokalori.",
+    "Edukasi piramida pangan berkelanjutan membantu menekan jejak ekologis dan mengurangi emisi gas rumah kaca dari sektor peternakan.",
+    "Sebaliknya, energi yang digunakan dalam metabolisme selalu terdegradasi menjadi energi termal panas bersuhu rendah yang menyebar ke atmosfer.",
+    "Konsumen tersier pada tingkat trofik empat menerima 10 persen dari 500 kilokalori sehingga hanya memperoleh energi sebesar 50 kilokalori."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub4.docx",
+   "doc_id": "S027"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Daur materi atau daur biogeokimia",
+   "findings": [
+    "Daur materi atau daur biogeokimia merupakan sirkulasi siklis unsur-unsur kimia anorganik yang melintasi komponen biotik dan reservoar abiotik bumi.",
+    "Dekomposisi bahan organik mempertahankan kelangsungan pasokan nutrisi mineral tanah yang dibutuhkan tumbuhan hijau untuk tumbuh subur.",
+    "Akumulasi gas rumah kaca karbon dioksida di atmosfer memicu pemanasan global yang mengganggu stabilitas iklim dan pola cuaca dunia.",
+    "Pemeliharaan keutuhan daur biogeokimia menjadi kunci utama dalam menjaga kesuburan tanah pertanian dan kebersihan sumber air tawar alami.",
+    "Kasus pencemaran ini membuktikan bahwa percepatan fluks antropogenik pada daur fosfor langsung merusak keseimbangan ekosistem perairan alami.",
+    "Jelaskan peranan vital mikroorganisme bakteri tanah dalam melangsungkan daur nitrogen bagi kehidupan tumbuhan hijau.",
+    "Suatu danau air tawar menampung cadangan massa fosfat terlarut sebesar 600 kilogram dengan laju fluks pemasukan dan pengeluaran sebesar 25 kilogram per tahun.",
+    "Jika laju masukan pupuk melonjak tanpa diimbangi pengeluaran, akumulasi fosfat akan memicu ledakan alga mematikan yang meracuni biota air."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub5.docx",
+   "doc_id": "S028"
+  },
+  {
+   "domain": "biologi-ekosistem",
+   "title": "Gangguan dan pemulihan keseimbangan ekosistem",
+   "findings": [
+    "Keseimbangan ekosistem merupakan kondisi ekuilibrium dinamis tempat komunitas hayati berinteraksi stabil dengan lingkungan fisik meski terpapar fluktuasi alam.",
+    "Penebangan hutan secara liar dan pencemaran industri berat merusak kapasitas swaregulasi alami yang dimiliki oleh komunitas ekosistem biosfer.",
+    "Dampak toksik tersebut dapat memicu kegagalan reproduksi pada burung pemangsa dan mempercepat kepunahan satwa langka di habitat tercemar.",
+    "Sinergi antara perlindungan cagar biosfer dan restorasi bentang lahan memastikan keberlanjutan daya lentur ekosistem bagi generasi mendatang.",
+    "Prinsip keseimbangan ekosistem diterapkan dalam proyek restorasi terumbu karang buatan dan rehabilitasi daerah aliran sungai kritis nasional.",
+    "Resistansi adalah kapasitas kemampuan ekosistem untuk tetap bertahan pada kondisi seimbang tanpa mengalami perubahan saat gangguan terjadi.",
+    "Setelah lima tahun suksesi alami, tutupan kanopi pulih menjadi 73 persen.",
+    "Indeks pemulihan dihitung dengan membagi 48 dengan 60 lalu dikalikan seratus persen menghasilkan nilai pemulihan sebesar 80 persen."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\ekosistem_sub6.docx",
+   "doc_id": "S029"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Pengertian dan perkembangan teori evolusi",
+   "findings": [
+    "Evolusi biologi merupakan proses perubahan sifat terwariskan suatu populasi organisme dari satu generasi ke generasi berikutnya dalam kurun waktu geologis.",
+    "Karakter leher panjang yang diperoleh selama masa hidup tersebut diasumsikan dapat diwariskan langsung kepada generasi keturunan berikutnya.",
+    "Individu yang memiliki variasi sifat menguntungkan memiliki peluang lebih besar untuk bertahan hidup dan menghasilkan keturunan subur.",
+    "Pengembangan sintesis evolusi diperluas lebih lanjut dengan memasukkan epigenetik, plastisitas fenotipe, dan teori netral evolusi molekuler.",
+    "Burung finch yang memiliki paruh tebal dan kokoh mampu memecahkan biji-bijian besar berduri keras yang tersisa di tanah.",
+    "Penerapan prinsip evolusi molekuler terapan ini dianugerahi Hadiah Nobel Kimia karena merevolusi sintesis obat-obatan ramah lingkungan.",
+    "Alasan: perbedaan konsep terletak pada pewarisan modifikasi fenotipik dapatan versus seleksi alam terhadap variasi genetik yang sudah ada.",
+    "Alasan: genetika partikulat Mendel membuktikan bahwa variasi genetik yang menguntungkan tetap lestari dalam populasi dan tidak terdilusi oleh perkawinan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub0.docx",
+   "doc_id": "S030"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Bukti-bukti evolusi",
+   "findings": [
+    "Bukti evolusi merupakan sekumpulan fakta empiris dari berbagai disiplin biologi yang menunjukkan bahwa makhluk hidup mengalami modifikasi keturunan dari moyang bersama.",
+    "Rekaman fosil kuda dari Eohippus hingga Equus memperlihatkan reduksi jari kaki lateral dan pertambahan ukuran tubuh yang terdokumentasi lengkap.",
+    "Keberadaan organ vestigial seperti tulang panggul rudimenter pada paus dan usus buntu pada manusia mencerminkan sisa evolusi organ masa lalu.",
+    "Embriologi perbandingan juga memperlihatkan celah insang faringeal dan kantung ekor pascalahir pada seluruh embrio vertebrata awal.",
+    "Analisis struktur tulang telinga bagian dalam pada Pakicetus memperlihatkan karakteristik khusus yang hanya ditemukan pada ordo cetacea.",
+    "Penerapan teknologi biologi molekuler ini merekonstruksi sejarah migrasi dan adaptasi kekebalan tubuh populasi manusia purba secara detail.",
+    "Analisis perbandingan urutan asam amino rantai beta hemoglobin menunjukkan perbedaan: simpanse 0, kuda 18, ayam 45, dan ikan hiu 79 perbedaan terhadap manusia.",
+    "Alasan: tingkat divergensi mutasi protein homolog mencerminkan akumulasi waktu pemisahan filogenetik sepanjang sejarah evolusi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub1.docx",
+   "doc_id": "S031"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Variasi, seleksi alam, dan adaptasi",
+   "findings": [
+    "Triad evolusi mencakup keterkaitan dinamis antara variasi genetik individu, mekanisme penyaringan diferensial seleksi alam, dan adaptasi fenotipik populasi terhadap habitatnya.",
+    "Penyatuan acak antara sel sperma dan sel telur saat fertilisasi menghasilkan susunan genotipe unik pada setiap individu anakan baru.",
+    "Seleksi terarah menggeser kurva frekuensi ke salah satu varian ekstrem seperti meningkatnya ukuran paruh finch saat musim kering berkepanjangan.",
+    "Seleksi seksual bertindak sebagai variasi seleksi alam yang memicu dimorfisme seksual melalui kompetisi pejantan dan pilihan bebas betina.",
+    "Dalam kurun waktu beberapa tahun, frekuensi alel resisten melonjak drastis hingga seluruh populasi nyamuk menjadi kebal terhadap insektisida.",
+    "Reproduksi aseksual menghasilkan keturunan yang secara genetik identik dengan induknya (klon) sehingga seluruh populasi memiliki tingkat kerentanan yang sama persis terhadap tekanan baru.",
+    "Pada habitat awal yang seragam, kelinci berwarna abu-abu intermediet memiliki kamuflase paling optimal sehingga seleksi penstabil mempertahankan satu puncak distribusi di tengah kurva.",
+    "Alasan: seleksi pemutus menekan nilai kebugaran fenotipe rata-rata dan meningkatkan kebugaran kedua varian ekstrem secara bersamaan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub2.docx",
+   "doc_id": "S032"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Mekanisme perubahan frekuensi alel secara konseptual",
+   "findings": [
+    "Mikroevolusi merupakan perubahan frekuensi alel dan genotipe di dalam kolam gen suatu populasi dari satu generasi ke generasi berikutnya.",
+    "Pada populasi alami di alam liar, kelima syarat ideal kesetimbangan tersebut hampir tidak pernah terpenuhi secara sempurna.",
+    "Populasi anjing laut gajah utara memperlihatkan homozigositas tinggi akibat perburuan liar ekstrem yang menyisakan hanya dua puluh individu penyintas.",
+    "Sebaliknya perkawinan tidak acak seperti perkawinan sedarah mengubah proporsi genotipe dengan meningkatkan homozigot tanpa mengubah frekuensi alel.",
+    "Secara kebetulan salah satu pasangan pendiri membawa alel resesif langka yang menyebabkan polidaktili dan perawakan tubuh pendek kerdil.",
+    "Intervensi manajemen pemuliaan konservasi ini menjaga keanekaragaman kolam gen populasi dari bahaya fiksasi alel mutasi berbahaya.",
+    "Alasan: galat pengambilan sampel statistik berbanding terbalik dengan ukuran populasi sehingga populasi kecil sangat rentan terhadap fluktuasi alel acak.",
+    "Alasan: aplikasi aljabar binomial Hardy-Weinberg memungkinkan estimasi presisi proporsi genotipe karier yang tidak tampak secara fenotipik."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub3.docx",
+   "doc_id": "S033"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Spesiasi",
+   "findings": [
+    "Spesiasi merupakan proses evolusi pembentukan satu atau lebih spesies baru yang berbeda secara reproduktif dari populasi moyang asalnya.",
+    "Subpopulasi yang terpisah di dua kawasan terisolasi menghadapi tekanan seleksi alam yang berlainan dan mengalami mutasi independen.",
+    "Divergensi cepat ikan siklid di Danau Victoria Afrika membuktikan kemampuan spesiasi simpatrik menghasilkan ratusan spesies dalam waktu singkat.",
+    "Integritas barier reproduksi biologis ini menjamin keanekaragaman hayati bumi tersusun rapi ke dalam unit-unit taksonomi yang stabil.",
+    "Burung maleo berevolusi mengandalkan panas geotermal bumi atau pasir pantai vulkanik untuk menetaskan telurnya tanpa mengerami sarang.",
+    "Spesiasi alopatrik diawali oleh adanya pemisahan fisik geografis yang nyata seperti laut, sungai besar, atau pegunungan yang membagi satu populasi asal menjadi dua atau lebih kelompok terisolasi secara spasial.",
+    "Analisislah penyebab sitologis sterilitas pada bagal tersebut.",
+    "Alasan: kegagalan pembentukan pasangan kromosom homolog pada meiosis satu akibat ketidaksamaan jumlah genom parental menyebabkan sterilitas hibrida pasca-zigotik."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub4.docx",
+   "doc_id": "S034"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Kaitan evolusi dengan biodiversitas",
+   "findings": [
+    "Keterkaitan evolusi dan biodiversitas menjelaskan bagaimana proses percabangan keturunan sepanjang miliaran tahun menghasilkan kekayaan keanekaragaman hayati bumi.",
+    "Panjang ranting filogenetik sering kali proporsional dengan jumlah perubahan mutasi molekuler atau estimasi waktu geologis kronologis.",
+    "Penerapan prinsip parsimoni maksimum menetapkan bahwa pohon filogeni paling akurat adalah pohon yang membutuhkan perubahan evolusioner paling sedikit.",
+    "Kepunahan satu spesies kunci akibat ulah manusia dapat memicu efek domino runtuhnya ranting pohon filogeni ekologis setempat.",
+    "Hewan anoa kerdil dan babirusa bertaring mencuat memperlihatkan karakteristik morfologis percabangan purba yang terpisah jutaan tahun.",
+    "Penerapan filogeni kuantitatif ini memastikan alokasi dana pelestarian alam difokuskan pada perlindungan pohon kehidupan yang paling rentan.",
+    "Analisislah mengapa klasifikasi tradisional mengelompokkan buaya dan kadal ke dalam kelas Reptilia, serta jelaskan koreksi kladistika modernnya.",
+    "Alasan: kladistika mengoreksi kemiripan morfologis superfisial menjadi pohon kekerabatan monofiletik sejati berdasarkan karakter turunan sinapomorfi bersama."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub5.docx",
+   "doc_id": "S035"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Evolusi, perubahan lingkungan, dan kelangsungan hidup organisme",
+   "findings": [
+    "Dinamika koevolusi organisme dan biosfer menggambarkan interaksi timbal balik antara fluktuasi iklim geologis dan kelangsungan hidup populasi teradaptasi.",
+    "Pembalikan kondisi lingkungan tersebut membalik arah seleksi alam sehingga ngengat bersayap gelap kini memiliki kebugaran kamuflase lebih tinggi.",
+    "Kepunahan massal akhir Kapur dipicu oleh tabrakan asteroid raksasa di Semenanjung Yucatan yang memicu musim dingin dampak berkepanjangan.",
+    "Peningkatan suhu air samudra juga memicu pemutihan karang terumbu terumbu karang akibat pelepasan alga simbiotik zooxanthellae yang stres termal.",
+    "Dalam kurun waktu beberapa dekade berikutnya, frekuensi ngengat Biston betularia bersayap cerah kembali meningkat pesat mendominasi populasi.",
+    "Inovasi rekayasa ekologi evolusioner ini memperkuat ketahanan terumbu karang global dalam menghadapi ancaman pemutihan akibat krisis iklim.",
+    "Alasan: kekosongan ceruk ekologis pascabencana alam membuka peluang penyebaran dan spesiasi divergensi pesat bagi kelompok organisme yang bertahan hidup.",
+    "Alasan: keterbatasan batas elevasi fisik gunung dan laju perubahan iklim antropogenik yang melampaui kapasitas adaptasi memicu kepunahan tak terhindarkan bagi flora dataran tinggi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub6.docx",
+   "doc_id": "S036"
+  },
+  {
+   "domain": "biologi-evolusi",
+   "title": "Evaluasi bukti dan klaim ilmiah tentang evolusi",
+   "findings": [
+    "Evaluasi klaim ilmiah evolusi merupakan proses bernalar kritis dalam menelaah validitas data empiris, metodologi pengujian, dan argumentasi teoritis biologi evolusi.",
+    "Pendidikan biologi meluruskan pemahaman tersebut dengan menegaskan bahwa evolusi merupakan fakta alam sekaligus kerangka teoritis penjelasnya.",
+    "Hubungan tersebut meluas pada evaluasi klaim ketidakmungkinan reduksi kompleksitas organ tubuh yang sering dipersoalkan pada organ mata.",
+    "Kompleksitas mata tak tereduksi | Berasumsi organ tidak berfungsi bila belum sempurna | Bintik mata Planaria dan mata Nautilus berfungsi adaptif | Seleksi alam mempertahankan struktur fungsional intermediet",
+    "Para ilmuwan biologi membuktikan bahwa klaim kompleksitas motor flagela bakteri sebenarnya berevolusi dari sistem sekresi tipe tiga.",
+    "Para ahli paleontologi memprediksi bahwa transisi vertebrata dari kehidupan perairan menuju daratan terjadi sekitar 375 juta tahun lalu pada batuan sedimen air tawar dangkal zaman Devon akhir.",
+    "Evaluasilah kekeliruan nalar (logical fallacy) dari klaim tersebut berdasarkan filsafat ilmu sains.",
+    "Alasan: kesalahan ekuivokasi definisi teori mengaburkan fakta bahwa teori ilmiah merupakan struktur pengetahuan empiris tertinggi yang telah teruji secara universal."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\evolusi_sub7.docx",
+   "doc_id": "S037"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Dasar dan tujuan klasifikasi makhluk hidup",
+   "findings": [
+    "Klasifikasi makhluk hidup merupakan pengelompokan sistematis keanekaragaman organisme berdasarkan kesamaan morfologi, anatomi, dan kekerabatan evolusioner.",
+    "Pengelompokan sistematis mencegah kekacauan data ilmiah akibat tumpang tindih penamaan lokal pada wilayah geografis yang berbeda di dunia.",
+    "Pengelompokan yang akurat membantu para peneliti memprediksi sifat biokimia maupun potensi biologis dari kerabat dekat spesies bersangkutan.",
+    "Klasifikasi menjadi landasan fundamental dalam menentukan skala prioritas konservasi spesies yang populasinya terancam kepunahan di alam liar.",
+    "Perbedaan hasil pengelompokan tersebut menggarisbawahi urgensi pembentukan sistem klasifikasi ilmiah standar yang disepakati secara internasional.",
+    "Jelaskan urgensi ilmiah pengelompokan makhluk hidup ke dalam sistem klasifikasi biologi modern.",
+    "Tim peneliti menemukan 40 jenis serangga, 25 jenis burung, dan 15 jenis mamalia di suatu cagar alam.",
+    "Proporsi tinggi serangga menunjukkan bahwa kelompok takson ini memegang peranan krusial sebagai penyerbuk dan konsumen primer ekosistem."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub0.docx",
+   "doc_id": "S038"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Sistem klasifikasi dan sistem takson",
+   "findings": [
+    "Sistem klasifikasi merupakan kerangka metodologis penataan taksonomi yang berkembang dari sistem artifisial, sistem alami, hingga sistem filogenetik modern.",
+    "Kelemahan mendasar sistem artifisial adalah kegagalannya dalam menggambarkan hubungan kekerabatan evolusi alami yang sebenarnya di biosfer.",
+    "Kelompok alga fotosintetik uniseluler juga direposisi dari kingdom Plantae menuju kingdom Protista karena karakter selulernya yang berbeda nyata.",
+    "Semakin tinggi tingkatan takson suatu kelompok, semakin sedikit persamaan ciri spesifik yang dibagi di antara anggota takson tersebut.",
+    "Kasus ini membuktikan bahwa sistem klasifikasi biologi bersifat dinamis dan selalu disempurnakan seiring perkembangan ilmu pengetahuan modern.",
+    "Mengapa sistem klasifikasi filogenetik dipandang lebih unggul dibandingkan sistem klasifikasi buatan klasik?",
+    "Habitat hutan dataran rendah mencatat 28 takson tumbuhan dan habitat perbukitan mencatat 22 takson dengan 15 takson bersama.",
+    "Nilai kesamaan di atas empat puluh persen menunjukkan adanya tingkat tumpang tindih taksonomi yang cukup substansial di antara kedua formasi vegetasi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub1.docx",
+   "doc_id": "S039"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Identifikasi berdasarkan persamaan dan perbedaan ciri",
+   "findings": [
+    "Identifikasi makhluk hidup merupakan proses penelusuran dan pencocokan ciri karakter spesimen tak dikenal dengan acuan taksonomi yang telah baku.",
+    "Ketiadaan dokumentasi karakter yang lengkap akan menyebabkan spesimen sukar dianalisis dan tidak dapat dipelajari secara mendalam.",
+    "Pengguna kunci memilih salah satu pernyataan yang paling sesuai dengan kondisi nyata spesimen yang sedang diamati secara langsung.",
+    "Di bidang karantina pertanian, identifikasi cepat mencegah masuknya hama serangga dan gulma asing invasif ke wilayah kepulauan Indonesia.",
+    "Hasil identifikasi membuktikan bahwa spesimen tersebut identik dengan Eusideroxylon zwageri sehingga penyitaan resmi dapat segera dilaksanakan.",
+    "Bagaimana mekanisme kerja kunci determinasi dikotomi dalam membantu peneliti menentukan identitas taksonomi suatu organisme?",
+    "Dua spesimen tumbuhan dievaluasi berdasarkan 20 karakter morfologi utama.",
+    "Indeks Sorensen diperoleh dengan membagi 24 dengan 30 lalu dikalikan seratus persen menghasilkan nilai kesamaan fenetik sebesar 80 persen."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub2.docx",
+   "doc_id": "S040"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Peranan keanekaragaman hayati",
+   "findings": [
+    "Peranan keanekaragaman hayati mencakup seluruh fungsi ekologis, ekonomi, ilmiah, dan budaya yang menopang stabilitas kehidupan di biosfer bumi.",
+    "Penurunan kelimpahan serangga penyerbuk dapat memicu kegagalan panen tanaman budidaya yang mengancam ketahanan pangan masyarakat di berbagai belahan dunia.",
+    "Di sektor perkayuan, kayu ulin atau kayu besi dari hutan Kalimantan dimanfaatkan sebagai fondasi konstruksi kuat karena tahan rendaman air.",
+    "Kawasan alam yang kaya biodiversitas menjadi laboratorium alam terbuka bagi pengembangan riset biologi molekuler, ekologi, dan etnobotani terapan.",
+    "Uji laboratorium farmakologi modern membuktikan bahwa ekstrak tumbuhan tersebut mengandung metabolit sekunder terpenoid berdaya antibakteri kuat.",
+    "Edukasi mengenai fungsi ekosistem menumbuhkan kesadaran kolektif masyarakat dalam menjaga kelestarian flora fauna nusantara.",
+    "Menurut Puspaningsih dkk., budidaya varietas lokal seperti padi indragiri dan barumun memperkaya plasma nutfah pertanian nasional.",
+    "Akibatnya, persentase pembentukan buah akan merosot drastis sehingga memicu lonjakan harga pangan dan ancaman krisis nutrisi masyarakat."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub3.docx",
+   "doc_id": "S041"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Ancaman dan strategi pelestarian keanekaragaman hayati",
+   "findings": [
+    "Ancaman biodiversitas merupakan aktivitas antropogenik dan perubahan biosfer yang memicu percepatan laju kepunahan spesies serta degradasi ekosistem.",
+    "Laju kepunahan spesies modern saat ini diperkirakan sebanding dengan periode kepunahan massal geologis yang pernah terjadi di bumi.",
+    "Pencemaran limbah industri dan pestisida kimia sintetis juga merusak kualitas tanah serta meracuni rantai makanan ekosistem perairan tawar.",
+    "Sementara itu, metode konservasi ex-situ diterapkan melalui kebun raya, kebun binatang, bank benih, dan laboratorium kultur jaringan tumbuhan.",
+    "Langkah komprehensif ini berhasil memulihkan populasi jalak bali dari jurang kepunahan dan menjadi model sukses konservasi fauna nusantara.",
+    "Jelaskan perbedaan mendasar antara prinsip strategi konservasi in-situ dan konservasi ex-situ beserta contohnya.",
+    "Populasi badak jawa di suatu kawasan hutan semula tercatat 120 ekor, namun akibat perambahan hutan populasinya menyusut menjadi 78 ekor.",
+    "Rekomendasi mitigasi mencakup penguatan patroli perlindungan habitat in-situ secara ketat serta restorasi koridor hutan penghubung populasi terfragmentasi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub4.docx",
+   "doc_id": "S042"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Keanekaragaman tingkat gen, jenis, dan ekosistem",
+   "findings": [
+    "Keanekaragaman hayati merupakan variasi kehidupan di biosfer yang terstruktur ke dalam tiga tingkatan hierarkis yaitu tingkat gen, jenis, dan ekosistem.",
+    "Perbedaan susunan alel menghasilkan ekspresi fenotipe yang beraneka ragam pada aspek bentuk buah, tekstur rasa, maupun warna kulit buah.",
+    "Contoh lain tampak pada variasi famili Felidae yang mencakup spesies harimau Panthera tigris, singa Panthera leo, dan kucing rumahan Felis catus.",
+    "Setiap bentang ekosistem memiliki struktur vegetasi khas yang menyediakan habitat unik bagi asosiasi organisme tertentu yang telah beradaptasi sempurna.",
+    "Kasus kepunahan massal ini membuktikan bahwa keragaman genetik merupakan benteng alami penangkal kerentanan populasi terhadap penyakit mematikan.",
+    "Berikan contoh konkret yang membedakan keanekaragaman hayati tingkat gen dengan keanekaragaman tingkat jenis pada kelompok tumbuhan.",
+    "Suatu cuplikan komunitas vegetasi hutan hujan tropis memiliki 20 spesies dengan nilai indeks diversitas Shannon-Wiener sebesar 2,40.",
+    "Nilai kemerataan tinggi tersebut membuktikan bahwa individu terdistribusi secara seimbang tanpa adanya satu spesies tunggal yang mendominasi habitat."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub5.docx",
+   "doc_id": "S043"
+  },
+  {
+   "domain": "biologi-hayati",
+   "title": "Keanekaragaman hayati Indonesia dan pemanfaatannya secara berkelanjutan",
+   "findings": [
+    "Keanekaragaman hayati Indonesia merupakan kekayaan megabiodiversitas kepulauan tropis yang ditandai tingginya proporsi spesies endemik berdaya sebar unik.",
+    "Indonesia memiliki luas daratan sekitar 1.890.739 kilometer persegi yang dikelilingi oleh perairan laut luas mencapai 76,96 persen dari total teritori.",
+    "Zona Peralihan atau Wallacea di wilayah Sulawesi dan Maluku dihuni oleh beragam satwa endemik unik seperti anoa, babirusa, dan burung maleo.",
+    "Penerapan sertifikasi kehutanan ramah lingkungan dan kuota penangkapan ikan terukur menjadi instrumen efektif dalam mengendalikan laju ekstraksi sumber daya.",
+    "Fakta biogeografi ini menuntut perlindungan mutlak bagi hutan-hutan alami Sulawesi dari alih fungsi lahan pertambangan dan perkebunan.",
+    "Jelaskan faktor geografis yang menyebabkan kepulauan Indonesia memiliki keanekaragaman flora dan fauna yang sangat melimpah.",
+    "Di suatu pulau zona Wallacea tercatat 180 jenis burung dengan 45 jenis di antaranya berstatus burung endemik kepulauan tersebut.",
+    "Tingginya proporsi endemik menuntut penetapan status kawasan suaka alam yang ketat karena kepunahan di pulau ini berarti kepunahan permanen global."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\hayati_sub6.docx",
+   "doc_id": "S044"
+  },
+  {
+   "domain": "biologi-iklim",
+   "title": "Dampak perubahan iklim terhadap organisme dan ekosistem",
+   "findings": [
+    "Dampak perubahan iklim terhadap sistem biologi merupakan konsekuensi ekologis pergeseran temperatur rata-rata bumi yang mengganggu fisiologi dan habitat organisme.",
+    "Kematian massal koloni karang melenyapkan habitat tempat mencari makan dan tempat pemijahan bagi ribuan spesies ikan laut nusantara.",
+    "Di kutub utara, pencairan lapisan es laut memaksa mamalia beruang kutub berenang menempuh jarak jauh guna mencari mangsa anjing laut.",
+    "Pemahaman tentang dampak multidimensi perubahan iklim mendorong integrasi sains biologi dalam merancang langkah penyelamatan biosfer bumi secara terpadu.",
+    "Data dampak perubahan iklim dijadikan dasar penetapan kawasan konservasi laut perlindungan karang tahan panas dan zonasi sarang penyu.",
+    "Pemanasan suhu air laut menyebabkan stres fisiologis pada polip karang sehingga memicu pelepasan alga fotosintetik zooxanthellae keluar.",
+    "Pada suatu transek terumbu karang seluas 2.500 meter persegi, tercatat koloni karang yang memutih seluas 875 meter persegi.",
+    "Kehilangan sepertiga habitat karang hidup akan mengurangi ketersediaan relung tempat berlindung anakan ikan sehingga populasi ikan menyusut."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\iklim_sub0.docx",
+   "doc_id": "S045"
+  },
+  {
+   "domain": "biologi-iklim",
+   "title": "Perubahan distribusi, populasi, dan interaksi makhluk hidup",
+   "findings": [
+    "Perubahan distribusi, populasi, dan interaksi biologis merupakan penyesuaian spasial dan pergeseran ritme fenologi spesies dalam merespons iklim.",
+    "Spesies pegunungan juga bermigrasi ke tempat dengan elevasi yang lebih tinggi guna mencari iklim mikro yang lebih sejuk dan nyaman.",
+    "Akibatnya produksi biji tanaman merosot tajam sementara populasi larva serangga polinator mengalami kelaparan akibat kekurangan nektar bunga mekar.",
+    "Interaksi konflik antara manusia dan satwa liar pun meningkat tajam sehingga mengancam kelangsungan hidup populasi satwa dilindungi tersebut.",
+    "Penyempitan ruang hidup ini membuktikan bahwa spesies penghuni zona puncak gunung berada di bawah ancaman kepunahan habitat yang nyata.",
+    "Adaptasi budidaya berbasis fenologi menjamin stabilitas pasokan panen pangan di tengah ketidakpastian pola cuaca global yang ekstrem.",
+    "Suatu populasi lumut pegunungan bergeser dari ketinggian awal 1.800 meter menuju ketinggian 2.100 meter dalam periode pengamatan selama 15 tahun.",
+    "Pergeseran elevasi yang cepat ini mengancam spesies puncak gunung karena mereka akan kehabisan ruang habitat sejuk saat mencapai puncak teratas."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\iklim_sub1.docx",
+   "doc_id": "S046"
+  },
+  {
+   "domain": "biologi-iklim",
+   "title": "Mitigasi dan adaptasi berbasis ekosistem",
+   "findings": [
+    "Mitigasi dan adaptasi berbasis ekosistem merupakan strategi komprehensif penanganan krisis iklim melalui pengurangan emisi serta penyesuaian hayati.",
+    "Penghentian deforestasi hutan primer dan transisi energi menuju sumber daya terbarukan menjadi pilar fundamental dalam agenda mitigasi dunia.",
+    "Oleh karena itu, restorasi ekosistem hutan dan gambut bertindak sebagai benteng pertahanan alami dalam menarik kembali gas karbon dari udara bebas.",
+    "Kombinasi mitigasi penurunan emisi dan adaptasi berbasis ekosistem memperkokoh kedaulatan lingkungan masyarakat nusantara dalam menghadapi krisis iklim.",
+    "Aksi restorasi berbasis komunitas ini menjadi bukti keberhasilan solusi adaptasi alami dalam melindungi pemukiman warga dari dampak perubahan iklim.",
+    "Jelaskan perbedaan prinsip antara strategi mitigasi perubahan iklim dengan strategi adaptasi perubahan iklim beserta contohnya.",
+    "Suatu proyek restorasi hutan mangrove seluas 50 hektare menghasilkan biomassa kering sebesar 200 ton per hektare dengan fraksi karbon 0,47.",
+    "Massa karbon dioksida dihitung dengan mengalikan 4.700 ton dengan rasio 44 dibagi 12 menghasilkan nilai serapan sebesar 17.233 ton karbon dioksida."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\iklim_sub2.docx",
+   "doc_id": "S047"
+  },
+  {
+   "domain": "biologi-iklim",
+   "title": "Analisis data perubahan lingkungan dan usulan solusi",
+   "findings": [
+    "Analisis data perubahan lingkungan merupakan evaluasi saintifik data empiris iklim untuk mendiagnosis tren pemanasan dan merumuskan usulan solusi.",
+    "Untuk meneliti iklim bumi ribuan tahun silam, para ilmuwan mengebor sampel inti lapisan es gletser di benua beku Antartika.",
+    "Data satelit pemantau kelautan juga membuktikan bahwa permukaan air laut global mengalami kenaikan rata-rata sebesar 3,3 milimeter setiap tahun.",
+    "Keterlibatan aktif generasi muda dalam proyek sains lingkungan menjadi penentu keberhasilan transformasi menuju peradaban rendah karbon masa depan.",
+    "Analisis data lingkungan diaplikasikan dalam penyusunan dokumen Analisis Mengenai Dampak Lingkungan dan tata ruang wilayah perkotaan hijau.",
+    "Ilmuwan iklim mengebor dan mengambil silinder sampel lapisan inti es purba dari gletser benua es Antartika yang sangat dalam.",
+    "Suatu stasiun BMKG mencatat suhu rata-rata tahunan sebesar 28,45 derajat Celsius dengan suhu rata-rata referensi historis 27,20 derajat Celsius.",
+    "Nilai 1,25 derajat Celsius ini masih berada di bawah batas ambang kritis 1,5 derajat Celsius yang ditetapkan dalam Perjanjian Paris dunia."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\iklim_sub3.docx",
+   "doc_id": "S048"
+  },
+  {
+   "domain": "biologi-jamur",
+   "title": "Karakteristik dan struktur tubuh jamur",
+   "findings": [
+    "Jamur merupakan organisme eukariotik heterotrof absorptif yang tidak memiliki klorofil dan memiliki dinding sel berbahan dasar kitin.",
+    "Keberadaan kitin menjadikan dinding sel jamur sangat tangguh terhadap tekanan osmotik hidrostatik cairan di dalam sitoplasma sel.",
+    "Sebagian besar jamur lainnya bersifat multiseluler dengan tubuh vegetatif yang tersusun atas untaian benang mikroskopis bernama hifa.",
+    "Hifa bersekat atau septat memiliki dinding pemisah berpori yang membagi untai hifa ke dalam kompartemen-kompartemen seluler teratur.",
+    "Keterangan dan syarat pemakaian: - Nilai  menyatakan rasio luas bidang kontak penyerapan hifa silindris terhadap total volume protoplas internal.",
+    "Kecepatan perambatan filamen hifa ini didukung oleh tekanan hidrostatik turgor sitoplasma yang mendorong pemanjangan ujung hifa secara kontinu.",
+    "Kitin merupakan polimer polisakarida yang mengandung gugus nitrogen pembentuk eksoskeleton keras pada hewan kelompok artropoda, seperti udang dan serangga.",
+    "Ketiadaan rintangan fisik tertutup pada sekat hifa menjamin pasokan energi berkelanjutan sehingga hifa mampu memanjang menembus substrat keras secara optimal."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\jamur_sub0.docx",
+   "doc_id": "S049"
+  },
+  {
+   "domain": "biologi-jamur",
+   "title": "Cara hidup dan reproduksi jamur secara umum",
+   "findings": [
+    "Cara hidup dan reproduksi jamur mencakup strategi nutrisi heterotrof absorptif serta pergiliran reproduksi aseksual dan seksual yang kompleks.",
+    "Sebagian besar jamur bertindak sebagai saprofit yang memperoleh nutrisi dari pelapukan dedaunan mati, kotoran, dan kayu tumbang.",
+    "Jamur multiseluler dapat memperbanyak diri melalui fragmentasi benang miselium yang patah dan tumbuh menjadi koloni baru.",
+    "Tahap awal reproduksi seksual adalah plasmogami, yaitu peleburan membran sitoplasma tanpa disertai penyatuan langsung inti sel haploid.",
+    "Siklus reproduksi seksual ini membekali jamur dengan keanekaragaman genetik baru untuk beradaptasi terhadap perubahan iklim bumi.",
+    "Pada hutan pinus yang terbakar, jamur kelompok Morchella atau morel tumbuh melimpah secara serempak beberapa pekan setelah kebakaran padam.",
+    "Aplikasi teknik budidaya ini menunjukkan pemanfaatan nyata prinsip fisiologi absorpsi ekstraseluler jamur dalam agribisnis pangan.",
+    "Enzim oksidatif ini memutus ikatan aromatik kompleks lignin di luar sel, membebaskan molekul gula sederhana yang dapat diserap langsung oleh miselium jamur."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\jamur_sub1.docx",
+   "doc_id": "S050"
+  },
+  {
+   "domain": "biologi-jamur",
+   "title": "Peranan jamur yang menguntungkan",
+   "findings": [
+    "Peranan menguntungkan jamur mencakup kontribusi dekomposisi ekologis, industri fermentasi pangan, bioteknologi farmasi, dan pertanian berkelanjutan.",
+    "Selain dekomposisi bebas, asosiasi mikoriza antara hifa jamur dan perakaran tanaman meningkatkan efisiensi penyerapan unsur fosfor dan air tanah.",
+    "Aktivitas enzim protease jamur Rhizopus menghidrolisis protein kedelai menjadi asam amino bebas yang lebih mudah dicerna saluran cerna manusia.",
+    "Penemuan antibiotik penisilin dari biakan jamur Penicillium chrysogenum merevolusi dunia kedokteran dalam menyembuhkan infeksi bakteri mematikan.",
+    "Keterangan dan syarat pemakaian: - Persamaan fermentasi alkohol menggambarkan konversi anaerobik satu mol glukosa menjadi dua mol etanol dan karbon dioksida.",
+    "Di sekeliling koloni kapang tersebut terbentuk zona bening yang bersih di mana sel-sel bakteri mengalami lisis dan tidak mampu tumbuh.",
+    "Miselium jamur Rhizopus tumbuh merajut butiran kedelai dan mensekresikan enzim protease ekstraseluler secara masif.",
+    "Anyaman hifa yang sangat luas bertindak sebagai perpanjangan sistem perakaran dalam menyerap air dan melindungi tanaman dari keracunan logam berat."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\jamur_sub2.docx",
+   "doc_id": "S051"
+  },
+  {
+   "domain": "biologi-jamur",
+   "title": "Peranan jamur yang merugikan",
+   "findings": [
+    "Peranan merugikan jamur mencakup kapasitas patogenik dalam memicu infeksi mikosis pada manusia dan hewan, pembusukan bahan pangan, dan racun mikotoksin.",
+    "Pada bahan pangan pascapanen, kapang saprofit merusak sayuran, buah-buahan, dan biji-bijian di gudang penyimpanan yang lembap.",
+    "Khamir Candida albicans dapat memicu sariawan kandidiasis pada mulut atau keputihan abnormal saat ekosistem mikroflora tubuh terganggu.",
+    "Aflatoksin memiliki sifat karsinogen poten yang menginduksi mutasi DNA pada sel hati hingga memicu kanker karsinoma hepatoseluler ganas.",
+    "Keterangan dan syarat pemakaian: - Simbol  melambangkan aktivitas air bebas di dalam matriks biji-bijian pangan yang disimpan di lumbung.",
+    "Dalam tempo beberapa hari, karung kacang ditumbuhi lapisan kapang berwarna kuning kehijauan berbau tengik yang menyengat.",
+    "Titik leleh dan suhu dekomposisi aflatoksin berada di atas dua ratus enam puluh derajat Celsius.",
+    "Aktivitas metabolik dan antigen jamur di tepi luar memicu reaksi peradangan leukosit inang, sehingga terbentuk tepi cincin merah meninggi yang gatal dengan bagian tengah yang mulai membaik."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\jamur_sub3.docx",
+   "doc_id": "S052"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "DNA, RNA, gen, dan kromosom",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sebaliknya basa guanin senantiasa berpasangan dengan sitosin membentuk tiga ikatan hidrogen yang memberikan kestabilan termal tinggi.",
+    "Agar bentangan rantai DNA seluler sepanjang dua meter dapat muat ke dalam inti sel, DNA mengalami pemadatan struktur bertingkat.",
+    "Letak sentromer menentukan bentuk morfologis kromosom menjadi metasentrik, submetasentrik, akrosentrik, hingga telosentrik yang khas.",
+    "Bila sampel DNA memiliki kandungan guanin 30 persen, maka sitosin berjumlah 30 persen, sedangkan adenin dan timin masing-masing 20 persen.",
+    "Polimorfisme panjang mikrosatelit pada lokus kromosom non-coding menghasilkan profil pita elektroforesis yang unik bagi setiap individu.",
+    "Mengenai bentuk untaian, DNA berbentuk heliks ganda berpilin rapat antiparalel, sedangkan RNA umumnya berupa rantai polinukleotida tunggal yang fleksibel.",
+    "Alasan: kesetaraan jumlah basa komplementer adenin dengan timin serta guanin dengan sitosin merupakan konsekuensi mutlak dari struktur untai ganda antiparalel."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub0.docx",
+   "doc_id": "S053"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "Replikasi DNA secara konseptual",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Enzim topoisomerase bekerja di depan garpu replikasi untuk meredakan tegangan superkoil DNA akibat pembukaan untai yang terlampau cepat.",
+    "Untai maju disintesis secara berkesinambungan searah dengan pergerakan garpu replikasi dari arah ujung lima prima ke tiga prima.",
+    "Enzim DNA ligase kemudian mengkatalisis pembentukan ikatan fosfodiester kovalen untuk menyambung celah sambungan antarfragmen Okazaki pada untai lambat.",
+    "Obat antikanker golongan inhibitor topoisomerase sering digunakan dalam terapi klinis untuk menghentikan proliferasi sel tumor yang ganas.",
+    "Sepasang primer oligonukleotida spesifik dirancang untuk menempel pada batas sekuens target saat suhu diturunkan pada tahap penempelan.",
+    "Alasan: keterbatasan enzimatis DNA polimerase yang hanya mampu bekerja searah 5' ke 3' menuntut sintesis diskontinu pada untai lambat.",
+    "Alasan: pemisahan untai cetakan pada replikasi semikonservatif menghasilkan separuh molekul hibrida dan separuh molekul ringan pada generasi kedua."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub1.docx",
+   "doc_id": "S054"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "Hukum Mendel I dan II",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Ketika tanaman generasi pertama disilangkan sesamanya, alel pembawa sifat ungu dan putih memisah secara bebas pada saat proses meiosis.",
+    "Saat pembentukan gamet generasi kedua, pemisahan alel bentuk biji berlangsung bebas dan tidak bergantung pada pemisahan alel warna biji.",
+    "Bila individu uji bergenotipe heterozigot, hasil persilangan akan memperlihatkan rasio fenotipe anakan satu banding satu secara konsisten.",
+    "Program pemuliaan tanaman jagung hibrida mengandalkan galur murni homozigot untuk menghasilkan benih berdaya hasil tinggi seragam.",
+    "Kemunculan satu ekor pedet anakan yang mengalami kelainan resesif membuktikan secara pasti bahwa pejantan tersebut berstatus heterozigot karier.",
+    "Alasan: perbedaan fokus antara satu lokus gen homolog dengan kombinasi antar-lokus non-homolog membedakan hukum pemisahan dari hukum perpaduan bebas.",
+    "Alasan: perkalian probabilitas independen antar-lokus menghasilkan peluang kemunculan kombinasi genotipe gabungan secara eksak."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub3.docx",
+   "doc_id": "S055"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "Penyimpangan semu hukum Mendel",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sebaliknya individu yang memiliki kombinasi genotipe homozigot resesif ganda rrpp memperlihatkan bentuk jengger bilah tunggal atau single.",
+    "Bila tanaman tidak memiliki gen A pembentuk pigmen, bunga tetap berwarna putih terlepas dari keberadaan gen plasma basa B.",
+    "Sementara itu pada interaksi komplementer bunga Lathyrus odoratus, dua gen dominan harus hadir bersama agar pigmen ungu dapat disintesis sempurna.",
+    "Penyakit bisu tuli bawaan pada manusia sering kali diturunkan melalui pola interaksi gen komplementer pada dua lokus berbeda.",
+    "Semakin banyak alel dominan yang berhasil dihimpun dalam genotipe galur, semakin pekat warna merah bulir beras yang dihasilkan.",
+    "Alasan: ketiadaan pigmen awal pada homozigot resesif aa menutupi efek keberadaan alel basa B sehingga mengubah rasio menjadi sembilan ungu tiga merah empat putih.",
+    "Alasan: penutupan alel dominan P terhadap alel non-aleliknya menghasilkan rasio modifikasi dua belas putih tiga kuning satu hijau."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub4.docx",
+   "doc_id": "S056"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "Analisis pedigree atau peta silsilah",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Individu yang mengekspresikan fenotipe penyakit ditandai dengan pewarnaan arsiran gelap pekat untuk membedakannya dari individu normal.",
+    "Perkawinan sedarah antarkerabat dekat meningkatkan probabilitas bertemunya alel resesif langka pada genotipe homozigot anakan.",
+    "Seluruh anak perempuan dari ayah penderita otomatis menjadi pembawa sifat karier obligat yang berpotensi meneruskannya ke generasi cucu.",
+    "Pangeran Alexei dari Rusia menderita hemofilia berat karena mewarisi kromosom X mutan dari ibunya yang merupakan cucu Ratu Victoria.",
+    "Pada pewarisan autosomal resesif, penyakit muncul dengan frekuensi seimbang antara laki-laki dan perempuan, serta seorang ayah penderita dapat memiliki anak laki-laki penderita apabila ibu seorang karier.",
+    "Albinisme merupakan kelainan yang diwariskan secara autosomal resesif sehingga anak laki-laki yang menderita albino pasti memiliki genotipe homozigot resesif aa.",
+    "Alasan: perhitungan peluang anak sakit pada persilangan pedigree harus memperhitungkan probabilitas posterior status genotipe orang tua normal yang memiliki saudara kandung penderita."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub7.docx",
+   "doc_id": "S057"
+  },
+  {
+   "domain": "biologi-pewarisan",
+   "title": "Mutasi dan akibatnya terhadap ekspresi sifat",
+   "findings": [
+    "Sembilan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sebaliknya substitusi transversi menukar basa nitrogen golongan purin dengan pirimidin seperti pergantian adenin menjadi timin atau sitosin.",
+    "Pada hemoglobin sabit, substitusi transversi tunggal adenin menjadi timin menggantikan asam glutamat hidrofilik menjadi valin hidrofobik.",
+    "Trisomi autosom nomor dua puluh satu menghasilkan sindrom Down dengan karakteristik retardasi perkembangan dan perawakan fisik khas.",
+    "Alkilasi basa nitrogen mengganggu perpasangan komplementer normal dan memicu peristiwa patahnya rantai fosfodiester kromosom seluler.",
+    "Aplikasi pemuliaan mutasi ini telah menghasilkan puluhan varietas tanaman pangan unggul yang memperkuat ketahanan pangan nasional.",
+    "Analisislah mengapa mutasi delesi satu nukleotida pada awal sekuens pengkode gen umumnya menimbulkan dampak fenotipe yang jauh lebih merusak dibandingkan mutasi substitusi satu nukleotida pada posisi yang sama.",
+    "Alasan: pergeseran kerangka baca akibat delesi mengubah seluruh informasi kodon hilir sehingga merusak struktur dan fungsi protein secara total."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\pewarisan_sub8.docx",
+   "doc_id": "S058"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Sel sebagai unit struktural dan fungsional kehidupan",
+   "findings": [
+    "Sel merupakan unit terkecil penyusun makhluk hidup yang mampu menyelenggarakan seluruh proses kehidupan secara mandiri dan teratur.",
+    "Struktur dasar sel mencakup keberadaan membran plasma pembatas, sitoplasma dinamis, materi genetik asam nukleat, serta organel ribosom.",
+    "Sebagai contoh nyata, kemampuan mata manusia mengenali cahaya didukung oleh sel fotoreseptor batang dan kerucut pada retina.",
+    "Pertumbuhan ukuran sel menyebabkan laju pertambahan volume terjadi jauh lebih cepat dibandingkan perluasan area membran luar.",
+    "Keterangan dan syarat pemakaian: - Nilai  melambangkan total luas permukaan membran sel pembungkus protoplasma dalam satuan mikrometer persegi.",
+    "Pemeriksaan mikroskopis sitologi menunjukkan bahwa kegagalan satu jenis organel di dalam sel otot mampu melumpuhkan kinerja fisik organ tubuh secara keseluruhan.",
+    "Rudolf Virchow merumuskan prinsip omnis cellula e cellula setelah mengamati proses pembelahan inti sel di bawah mikroskop cahaya.",
+    "Kondisi defisit transportasi ini memperlambat pembuangan limbah metabolik beracun sehingga memicu pembelahan sel menjadi dua sel anakan yang lebih kecil."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub0.docx",
+   "doc_id": "S059"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Pengamatan sel dan penggunaan model atau mikroskop",
+   "findings": [
+    "Pengamatan sel merupakan teknik penyelidikan sitologi menggunakan instrumen optik pembesar dan pemodelan representasional tiga dimensi terukur.",
+    "Instrumen optik ini memungkinkan peneliti mengamati sel hidup yang sedang bergerak aktif di dalam medium cairan segar.",
+    "Mikroskop elektron transmisi menembuskan elektron melalui irisan ultra-tipis spesimen untuk menampilkan struktur internal organel secara terperinci.",
+    "Zat warna biologis seperti metilen biru dan lugol iodin diserap secara selektif oleh komponen sel tertentu untuk meningkatkan kejelasan visual bayangan.",
+    "Keterangan dan syarat pemakaian: - Nilai  menyatakan kelipatan pembesaran ukuran sudut bayangan objek terhadap benda aslinya.",
+    "Bakteri patogen diwarnai dengan pewarna asam auramin-o yang memancarkan pendaran hijau terang di bawah radiasi sinar ultraviolet khusus.",
+    "Mikroskop elektron transmisi bekerja dengan menembuskan berkas elektron berenergi tinggi melalui irisan spesimen biologis yang sangat tipis.",
+    "Karena diameter heliks ganda DNA jauh lebih kecil daripada batas resolusi tersebut, gelombang cahaya akan terdifraksi melewatinya tanpa membentuk bayangan terpisah."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub1.docx",
+   "doc_id": "S060"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Struktur dan fungsi organel sel",
+   "findings": [
+    "Organel sel merupakan kompartemen subseluler membranosa dan nonmembranosa yang terspesialisasi untuk menjalankan fungsi biokimiawi tertentu.",
+    "Ribosom merupakan kompleks partikel ribonukleoprotein yang berfungsi sebagai tempat perakitan asam amino menjadi rantai polipeptida fungsional.",
+    "Lisosom merupakan vesikel hidrolitik asam yang dibentuk oleh Golgi untuk mendegradasi makromolekul usang dan partikel asing fagositosis.",
+    "Mitokondria merupakan pabrik respirasi aerob seluler yang menghasilkan molekul adenosin trifosfat melalui fosforilasi oksidatif membran krista.",
+    "Keterangan dan syarat pemakaian: - Persamaan respirasi aerob menggambarkan oksidasi sempurna satu mol molekul glukosa menghasilkan energi kimiawi ATP.",
+    "Ketiadaan enzim hidrolitik fungsional ini menyebabkan akumulasi senyawa lipid gangliosida beracun di dalam lisosom sel saraf otak.",
+    "Mitokondria dan kloroplas disebut semiotonom karena memiliki materi genetik DNA sirkular mandiri serta ribosom sendiri yang bertipe prokariotik.",
+    "Peristiwa autolisis skala besar ini melenyapkan integritas kompartemen seluler dan secara langsung memicu kematian sel terprogram atau nekrosis jaringan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub2.docx",
+   "doc_id": "S061"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Keterkaitan dan kerja sama antarorganel",
+   "findings": [
+    "Kerja sama antarorganel merupakan integrasi fungsional jalur biokimiawi dan transportasi vesikular terkoordinasi antar-kompartemen seluler eukariotik.",
+    "Rantai polipeptida yang terbentuk dimasukkan ke dalam lumen retikulum endoplasma untuk menjalani pelipatan struktur tiga dimensi awal.",
+    "Sebagian protein disalurkan ke dalam vesikel lisosom untuk menjadi enzim pencernaan intraseluler yang aktif menguraikan materi asing.",
+    "Mitokondria memasok molekul adenosin trifosfat dalam jumlah melimpah untuk menggerakkan protein motorik kargo melintasi filamen mikrotubulus.",
+    "Keterangan dan syarat pemakaian: - Nilai  menyatakan kecepatan perpindahan vesikel sekretori di sepanjang serat mikrotubulus dalam mikrometer per detik.",
+    "Akibat ketiadaan label alamat molekuler tersebut, seluruh enzim pencernaan hidrolitik keliru disekresikan ke ruang ekstraseluler alih-alih masuk ke lisosom.",
+    "Badan Golgi bertindak sebagai stasiun penyortiran molekuler yang memodifikasi rantai polipeptida dengan menambahkan gugus oligosakarida atau fosfat penanda.",
+    "Akibatnya, vesikel sekretori akan menumpuk di dalam sitoplasma dan proses eksositosis enzim ke saluran pankreas terhenti total."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub3.docx",
+   "doc_id": "S062"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Perbandingan sel prokariotik, sel hewan, dan sel tumbuhan",
+   "findings": [
+    "Perbandingan sel merupakan kajian taksonomi sitologi yang membedakan arsitektur sel prokariotik tanpa membran inti dari sel eukariotik berkartioteka.",
+    "Namun, sel bakteri tetap memiliki ribosom berukuran tujuh puluh S yang berfungsi menyelenggarakan sintesis protein penopang pertumbuhan.",
+    "Karakteristik khas sel hewan adalah keberadaan sentrosom dengan sepasang sentriol yang berperan penting dalam pembelahan inti sel.",
+    "Sel tumbuhan dibungkus oleh dinding sel tebal yang tersusun atas mikrofibril polisakarida selulosa, hemiselulosa, dan perekat pektin.",
+    "Keterangan dan syarat pemakaian: - Nilai  melambangkan potensial air total protoplasma sel dalam satuan tekanan fisik MegaPascal.",
+    "Sel darah merah mengalami hemolisis pembengkakan hingga pecah karena ketiadaan dinding penahan tekanan osmotik air yang masuk.",
+    "Sel tumbuhan dibungkus oleh dinding selulosa yang kaku dan memiliki daya regang elastis tinggi di bagian luar membran plasmanya.",
+    "Namun, ketiadaan pembatas membran inti memungkinkan proses translasi ribosom berlangsung bersamaan dengan transkripsi DNA sehingga respon adaptasi berlangsung sangat cepat."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub4.docx",
+   "doc_id": "S063"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Siklus sel",
+   "findings": [
+    "Siklus sel merupakan rangkaian peristiwa teratur dan terkoordinasi yang dilalui suatu sel menuju pembelahan menghasilkan generasi seluler baru.",
+    "Fase sintesis S ditandai oleh peristiwa replikasi molekul DNA kromosom secara semikonservatif menghasilkan sepasang kromatid saudara identik.",
+    "Titik kendali G2 memastikan bahwa seluruh kromosom telah tereplikasi secara utuh tanpa ada segmen nukleotida yang terlewatkan.",
+    "Pengikatan siklin pada enzim kinase mengaktifkan fosforilasi protein target yang memicu transisi sel menuju tahapan pembelahan berikutnya.",
+    "Simbol  menyatakan estimasi alokasi waktu yang dihabiskan sel pada tahapan tertentu dalam satuan jam.",
+    "Fenomena penahanan siklus sel terarah ini dimanfaatkan oleh para peneliti untuk menyelaraskan sinkronisasi fase kultur sel di laboratorium.",
+    "Jika ditemukan kerusakan, siklus sel ditahan sementara sampai mekanisme perbaikan DNA tuntas sebelum sel diizinkan memulai pembelahan mitosis.",
+    "Nilai nol koma delapan jam tersebut setara dengan empat puluh delapan menit waktu pembelahan metafase."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub5.docx",
+   "doc_id": "S064"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Mitosis dan perannya",
+   "findings": [
+    "Mitosis merupakan pembelahan inti sel eukariotik somatik yang menghasilkan dua sel anakan dengan jumlah kromosom dan sifat genetik identik.",
+    "Serat benang gelendong spindel yang tersusun atas mikrotubulus membentang di antara kedua sentrosom untuk menangkap kinetokor kromosom.",
+    "Fase anafase dimulai seketika saat enzim separase memecah protein kohesin yang menyatukan sentromer kromatid kembar tersebut.",
+    "Selubung inti baru terbentuk mengelilingi masing-masing kelompok kromosom anakan dan anak inti nukleolus muncul kembali di sitoplasma.",
+    "Keterangan dan syarat pemakaian: - Nilai  menyatakan jumlah akhir sel anakan hasil pembelahan mitosis bertingkat setelah kurun waktu inkubasi.",
+    "Sel-sel basal tersebut segera meningkatkan frekuensi pembelahan mitosis untuk memproduksi ribuan sel keratinosit baru penutup luka.",
+    "Sitokinesis pada sel hewan berlangsung melalui pembentukan alur pembelahan yang ditarik oleh cincin kontraktil mikrofilamen aktin dan miosin dari arah luar ke dalam.",
+    "Pemisahan sentromer ini secara resmi mengubah status setiap kromatid menjadi kromosom mandiri sehingga jumlah kromosom sementara di dalam sel meningkat menjadi empat puluh buah."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub6.docx",
+   "doc_id": "S065"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Meiosis dan perannya",
+   "findings": [
+    "Meiosis merupakan pembelahan reduksi sel eukariotik germinal yang menghasilkan empat sel anakan haploid dengan variasi kombinasi genetik baru.",
+    "Pada sub-fase pakiten, pasangan kromosom homolog membentuk tetrad rapat dan melangsungkan pertukaran segmen kromatid non-saudara.",
+    "Fase anafase satu menarik pasangan kromosom homolog menuju kutub yang berlawanan dengan kromatid saudaranya tetap melekat di sentromer.",
+    "Ketika terjadi peristiwa fertilisasi penggabungan sel sperma dan ovum, jumlah genomik diploid spesies dipulihkan kembali secara tepat.",
+    "Keterangan dan syarat pemakaian: - Simbol  melambangkan jumlah pasang kromosom homolog haploid yang dimiliki oleh sel germinal organisme.",
+    "Anak pertama berambut lurus, anak kedua berambut keriting, dan anak ketiga berambut ikal dengan gradasi pigmentasi kulit yang beraneka ragam.",
+    "Meiosis satu disebut reduksional karena memisahkan pasangan kromosom homolog sehingga jumlah kromosom inti anakan berkurang separuh dari diploid menjadi haploid.",
+    "Dalam menghadapi seleksi alam seperti serangan wabah patogen baru atau kekeringan ekstrem, populasi yang memiliki diversitas genetik tinggi memiliki peluang lebih besar mempertahankan kelangsungan hidupnya."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub7.docx",
+   "doc_id": "S066"
+  },
+  {
+   "domain": "biologi-sel",
+   "title": "Gangguan pembelahan sel dalam konteks kesehatan",
+   "findings": [
+    "Gangguan pembelahan sel merupakan kelainan regulasi siklus proliferasi seluler atau kegagalan pemisahan kromosom yang berdampak buruk bagi kesehatan.",
+    "Hilangnya protein p53 menyebabkan sel yang mengalami kerusakan DNA parah lolos dari apoptosis dan terus membelah secara cepat.",
+    "Peleburan gamet abnormal dengan gamet normal saat fertilisasi menghasilkan zigot aneuploidi dengan jumlah kromosom menyimpang dari diploid.",
+    "Teknik kariotipe kromosom janin melalui amniosentesis memungkinkan deteksi dini kelainan pembelahan meiosis sebelum bayi dilahirkan ke dunia.",
+    "Keterangan dan syarat pemakaian: - Notasi  menyatakan jumlah kromosom diploid normal spesies yang berjumlah empat puluh enam pada manusia.",
+    "Hasil analisis mikroskopis menunjukkan susunan kromosom berjumlah empat puluh lima buah dengan kromosom kelamin X tunggal tanpa pasangan kromosom Y maupun X kedua.",
+    "Protein p53 bertindak sebagai faktor transkripsi penekan tumor yang aktif merespons kerusakan rantai heliks DNA di titik kendali G1.",
+    "Akibatnya, proporsi gamet abnormal pada kegagalan meiosis dua hanya sebesar lima puluh persen (satu gamet n+1, satu n-1, dan dua gamet normal n)."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sel_sub8.docx",
+   "doc_id": "S067"
+  },
+  {
+   "domain": "biologi-sistem_organ",
+   "title": "Jaringan, organ, dan sistem organ tumbuhan",
+   "findings": [
+    "Delapan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Sel-sel hasil pembelahan meristem selanjutnya mengalami spesialisasi menjadi jaringan pelindung epidermis, jaringan dasar parenkim, serta jaringan penyokong.",
+    "Sebaliknya, pembuluh tapis floem mendistribusikan hasil fotosintesis berupa cairan sukrosa dari daun menuju organ penyimpan dan pertumbuhan.",
+    "Sistem perakaran tidak hanya mengisap air tetapi juga memproduksi hormon yang memengaruhi percabangan ranting pada sistem tajuk atas.",
+    "Rebahan batang tanaman padi saat diterpa angin kencang sering terjadi pada lahan yang kekurangan asupan unsur silika dan kalium.",
+    "Eksplan sel meristem apikal pucuk dapat diinduksi dengan hormon auksin dan sitokinin untuk membentuk kalus lalu beregenerasi menjadi planlet utuh.",
+    "Alasan: perbedaan kandungan lignin dan status kehidupan sel menghasilkan sifat kelenturan pada kolenkim dan ketegaran kaku pada sklerenkim.",
+    "Alasan: kematian pohon terjadi karena kematian sel perakaran akibat terputusnya pasokan asimilasi makanan melalui pembuluh floem."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sistem_organ_sub0.docx",
+   "doc_id": "S068"
+  },
+  {
+   "domain": "biologi-sistem_organ",
+   "title": "Transpor, reproduksi, dan iritabilitas pada tumbuhan",
+   "findings": [
+    "Delapan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Teori kohesi tegangan ini mampu menjelaskan bagaimana pohon sequoia raksasa menaikkan ratusan liter air hingga ketinggian seratus meter.",
+    "Tekanan hidrostatik yang kuat mendorong getah gula mengalir menuju organ penerima seperti umbi akar atau buah yang sedang berkembang.",
+    "Selain fototropisme, tumbuhan memperlihatkan gerak gravitropisme pada akar serta gerak seismonasti cepat pada daun putri malu.",
+    "Fenomena gutasi pada ujung daun rumput atau herba stroberi sering teramati pada dini hari yang lembap dan tenang.",
+    "Setibanya di kota tujuan, buah diperam di ruangan khusus yang dialiri gas etilen berkonsentrasi rendah untuk memicu kematangan serempak.",
+    "Suatu kecambah diletakkan di dalam kotak gelap dengan satu celah cahaya horizontal di sisi kanan.",
+    "Alasan: perbedaan konsentrasi auksin akibat migrasi lateral memicu pemanjangan sel asimetris yang mengarahkan gerak fototropisme positif ke sumber radiasi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sistem_organ_sub1.docx",
+   "doc_id": "S069"
+  },
+  {
+   "domain": "biologi-sistem_organ",
+   "title": "Sistem pertahanan tubuh dan respons imun",
+   "findings": [
+    "Delapan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Bila mikroorganisme berhasil menembus rintangan luar, garis pertahanan kedua segera diaktifkan melalui respons fagositosis leukosit neutrofil dan makrofag.",
+    "Molekul antibodi melumpuhkan kuman melalui proses netralisasi racun, aglutinasi gumpalan partikel kuman, serta opsonisasi pemacu fagositosis.",
+    "Kendati demikian, sistem kekebalan tubuh adakalanya mengalami disfungsi seperti reaksi alergi hipersensitivitas terhadap zat alergen yang tidak berbahaya.",
+    "Infeksi virus HIV menyebabkan penurunan drastis kemampuan sistem pertahanan tubuh hingga menimbulkan sindrom imunodefisiensi AIDS.",
+    "Bila hormon target hadir, pengikatan molekuler memicu penggumpalan partikel emas koloid yang memunculkan garis warna merah muda.",
+    "Seseorang yang telah sembuh dari infeksi virus campak tidak akan tertular penyakit yang sama saat terpapar kembali bertahun-tahun kemudian.",
+    "Alasan: keberadaan sel memori memicu respons sekunder yang sangat cepat dan kuat sehingga patogen dieliminasi tuntas sebelum menimbulkan gejala klinis sakit."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sistem_organ_sub3.docx",
+   "doc_id": "S070"
+  },
+  {
+   "domain": "biologi-sistem_organ",
+   "title": "Kelainan atau gangguan sistem organ dan dampaknya terhadap sistem lain",
+   "findings": [
+    "Delapan sub-topik Fase F ditulis lengkap sesuai kaidah V4 dengan definisi, tiga paragraf penjelasan berantai (masing-masing 6-7 kalimat dan 2 rujukan nyata), poin kunci, konsep, rumus terpisah, contoh kasus kontekstual, penerapan, contoh soal C2 dan C4, gambar pembuka HD, dan sumber per subtopik.",
+    "Iskemia otot jantung menurunkan fraksi ejeksi pompa sirkulasi darah ke organ hilir seperti otak dan jaringan nefron ginjal.",
+    "Pada sistem saraf tepi, kerusakan mikrosirkulasi nutrisi serat saraf memicu neuropati diabetik berupa hilangnya sensasi rabaan pada tungkai kaki.",
+    "Kekurangan oksigen darah memicu vasokonstriksi pembuluh paru-paru yang pada akhirnya membebani ventrikel kanan jantung hingga bengkak.",
+    "Enzim protease yang teraktivasi sebelum waktunya mencerna jaringan pankreas sendiri sehingga memicu inflamasi autodigesti hebat.",
+    "Hipertensi sistemik menaikkan tekanan hidrostatis cairan darah yang mengalir melintasi arteriol aferen nefron ginjal secara terus-menerus.",
+    "Analisislah kaitan patofisiologi antara sistem respirasi dan kardiovaskular pada fenomena tersebut.",
+    "Alasan: vasokonstriksi hipoksik menyeluruh pada paru-paru meningkatkan resistensi sirkulasi pulmonal yang membebani kerja pemompaan ventrikel kanan jantung."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\sistem_organ_sub7.docx",
+   "doc_id": "S071"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Perbedaan pertumbuhan dan perkembangan",
+   "findings": [
+    "Pertumbuhan dan perkembangan merupakan dua proses berkesinambungan yang mendasari transformasi biologis makhluk hidup sepanjang siklus hidupnya.",
+    "Hasil pengukuran kuantitatif tersebut dapat dinyatakan dalam satuan baku seperti sentimeter pertambahan tinggi atau gram penambahan biomassa.",
+    "Pada manusia, perkembangan tercermin dalam kematangan refleks motorik, kemampuan berkomunikasi, dan kesiapan sistem endokrin reproduksi.",
+    "Regulasi terkoordinasi antara sinyal genetik dan pasokan metabolit memastikan kedua tahapan berjalan selaras sepanjang ontogeni.",
+    "Selain terhambatnya pertumbuhan tinggi badan, anak tersebut juga mengalami keterlambatan dalam perkembangan motorik kasar dan bahasa.",
+    "Perubahan nutrisi ini mengirimkan sinyal biokimiawi untuk menghentikan pertumbuhan vegetatif dan menginduksi perkembangan kuncup bunga.",
+    "Alasan: hipertrofi otot merupakan fenomena pertambahan ukuran kuantitatif jaringan yang sudah ada, bukan proses diferensiasi kualitatif fungsional.",
+    "Alasan: integrasi parameter kuantitatif KMS dan parameter kualitatif KPSP memastikan deteksi dini hambatan pembelahan sel maupun diferensiasi saraf."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub0.docx",
+   "doc_id": "S072"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Tahapan pertumbuhan dan contoh perkembangan",
+   "findings": [
+    "Tahapan tumbuh kembang makhluk hidup merupakan sekuens kronologis peristiwa biologis yang teratur mulai dari fertilisasi hingga kedewasaan.",
+    "Energi ATP hasil perombakan gula menggerakkan pembelahan mitosis aktif pada sel-sel meristem radikula dan plumula embrio.",
+    "Sebaliknya pada perkecambahan hipogeal, ruas epikotil yang memanjang cepat sedangkan ruas hipokotil tidak berkembang.",
+    "Ketika faktor genetik dan fotoperiodisme mencukupi ambang batas, tumbuhan mengakhiri fase vegetatif dan memasuki fase reproduktif generatif.",
+    "Karena beban tanah yang terlampau tebal dan berat, hipokotil kehabisan cadangan energi sebelum kotiledon berhasil mencapai permukaan.",
+    "Perlakuan ini meningkatkan keseragaman perkecambahan biji jati dari hanya dua puluh persen menjadi lebih dari delapan puluh persen.",
+    "Kondisi anoksia ini memaksa embrio beralih ke respirasi anaerob yang menghasilkan sedikit ATP serta memproduksi senyawa etanol yang bersifat racun sel.",
+    "Alasan: perlindungan fisik kotiledon di dalam tanah pada tipe hipogeal menyediakan cadangan regenerasi sekunder saat pucuk utama rusak."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub1.docx",
+   "doc_id": "S073"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Faktor intrinsik yang memengaruhi pertumbuhan dan perkembangan",
+   "findings": [
+    "Faktor intrinsik merupakan seperangkat pengendali biologis internal yang berasal dari dalam tubuh organisme itu sendiri.",
+    "Kapasitas genetik ini menetapkan batas plafon biologis tertinggi yang tidak dapat dilampaui meskipun nutrisi melimpah ruah.",
+    "Sitokinin diproduksi pada ujung akar untuk menstimulasi pembelahan sitokinesis sel dan menunda proses penuaan jaringan daun.",
+    "Keseimbangan rasio konsentrasi antara auksin dan sitokinin menentukan apakah jaringan meristem akan membentuk organ akar atau tunas.",
+    "Penurunan kadar auksin di batang melenyapkan fenomena dominansi apikal yang sebelumnya menekan pertumbuhan kuncup ketiak daun.",
+    "Etilen menginduksi enzim pektinase untuk melunakkan dinding sel dan mengaktifkan klorofilase untuk mengubah warna kulit menjadi kuning.",
+    "Tanpa adanya sinyal hormon fungsional, mesin pembesaran dinding seluler tetap berada dalam kondisi inaktif.",
+    "Alasan: suplementasi fitohormon eksogen mengompensasi hilangnya hormon alami dari biji sehingga menghasilkan butiran buah anggur besar montok."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub2.docx",
+   "doc_id": "S074"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Faktor ekstrinsik yang memengaruhi pertumbuhan dan perkembangan",
+   "findings": [
+    "Faktor ekstrinsik merupakan komponen lingkungan abiotik dan biotik yang memengaruhi manifestasi pertumbuhan dan diferensiasi organisme.",
+    "Intensitas cahaya yang cukup merangsang pigmen fitokrom untuk mengatur perkembangan daun lebar dan sintesis klorofil hijau daun.",
+    "Defisiensi nitrogen menyebabkan daun tua menguning akibat degradasi molekul klorofil yang dikenal sebagai gejala klorosis.",
+    "Organisme hidup senantiasa menyesuaikan laju metabolisme dan pola pertumbuhannya demi menjaga homeostasis dalam menghadapi fluktuasi cuaca.",
+    "Tanaman cabai yang dibudidayakan di dalam rumah kaca tertutup tanpa ventilasi menunjukkan daun tua berwarna kuning terang dengan tepi mengering.",
+    "Lampu LED berfrekuensi spektrum merah dan biru dipasang tepat di atas kanopi daun untuk memaksimalkan absorpsi foton klorofil.",
+    "Sebaliknya di tempat terang, cahaya mengaktifkan pigmen fitokrom yang menghambat laju pemanjangan batang dan mengalihkan energi untuk membentuk daun hijau kokoh.",
+    "Alasan: gradien potensial air terbalik memicu dehidrasi osmotik cairan seluler ke luar akar meskipun tanah basah oleh pupuk."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub3.docx",
+   "doc_id": "S075"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Pertumbuhan dan perkembangan tumbuhan",
+   "findings": [
+    "Pertumbuhan dan perkembangan tumbuhan terwujud melalui aktivitas pembelahan jaringan embrionik meristem yang terpusat pada zona tertentu.",
+    "Selanjutnya pada zona diferensiasi atau pematangan, sel-sel terspesialisasi membentuk jaringan epidermis berambut akar, korteks, dan stele.",
+    "Perbedaan ketersediaan air tanah antara musim hujan dan kemarau menghasilkan variasi diameter pembuluh kayu pembentuk lingkaran tahun.",
+    "Diferensiasi meristematik yang teratur ini memastikan kontinuitas aliran translokasi air tanah menuju daun dan asimilat fotosintesis ke akar.",
+    "Hasil penghitungan lingkaran tahun menunjukkan terdapat enam puluh lima pasang lapisan kayu awal dan kayu akhir pada silinder kayu.",
+    "Kombinasi nutrisi dan auksin merangsang sel-sel parenkim kambium terluka untuk berdiferensiasi membentuk akar adventif baru.",
+    "Alasan: ketiadaan kambium vaskuler lateral membatasi dimensi anatomis batang monokotil hanya pada hasil pertumbuhan primer.",
+    "Alasan: pemutusan jaringan floem melumpuhkan translokasi fotosintat ke akar yang memicu kelaparan organ perakaran penopang hidup."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub4.docx",
+   "doc_id": "S076"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Pertumbuhan dan perkembangan hewan atau manusia",
+   "findings": [
+    "Ontogeni hewan dan manusia mencakup seluruh rangkaian perubahan bentuk struktural sejak terbentuknya zigot hingga kematian alami organisme.",
+    "Pada mamalia, stadium ini disebut blastokista yang memiliki massa sel dalam pembentuk janin dan trofoblas luar penembus dinding uterus.",
+    "Proses diferensiasi lapisan germinal ini bermuara pada stadium organogenesis yang merancang organ tubuh spesifik janin.",
+    "Lonjakan hormon seksual memicu percepatan pertumbuhan tinggi badan mendadak serta pematangan organ reproduksi dan karakter seksual sekunder.",
+    "Molekul talidomid menghambat angiogenesis pembentukan pembuluh darah kapiler pada primordia tunas tungkai embrio.",
+    "Uji genetik molekuler ini memastikan hanya embrio bebas kelainan kromosom berat yang diimplantasikan ke dalam dinding endometrium ibu.",
+    "Alasan: lapisan mesoderm merupakan prekursor embriologis tunggal bagi seluruh arsitektur jaringan pembuluh darah dan organ pompa jantung.",
+    "Alasan: metamorfosis sempurna memiliki fase pupa dengan perombakan histolisis total dan diferensiasi cakram imaginal organ dewasa."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub5.docx",
+   "doc_id": "S077"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Perancangan dan evaluasi percobaan pertumbuhan",
+   "findings": [
+    "Perancangan percobaan biologi pertumbuhan merupakan penerapan metodologi ilmiah sistematis untuk menguji pengaruh variabel perlakuan terhadap organisme.",
+    "Variabel kontrol mencakup seluruh kondisi lingkungan di luar perlakuan yang harus dijaga identik pada semua satuan pot percobaan.",
+    "Instrumen pengukuran seperti jangka sorong atau mistar milimeter harus dikalibrasi agar menghasilkan data mentah yang akurat dan presisi.",
+    "Evaluasi kritis juga mengidentifikasi kelemahan metodologis yang muncul selama proses eksperimen untuk perbaikan penelitian masa depan.",
+    "Pada hari ketiga, biji tunggal milik kelompok kedua di tempat terang mati membusuk akibat infeksi spora jamur kontaminan biji.",
+    "Standardisasi metodologi ilmiah yang ketat ini menjamin bahwa benih yang dibeli petani terbukti unggul secara ilmiah dan andal.",
+    "Seorang siswa merancang percobaan pengaruh suhu terhadap pertumbuhan kecambah dengan meletakkan pot suhu dingin di dalam kulkas gelap dan pot suhu hangat di atas meja laboratorium terang.",
+    "Alasan: adanya variabel pengganggu cahaya yang tidak dikontrol menggugurkan kesimpulan hubungan sebab akibat antara suhu dan laju pertumbuhan."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub6.docx",
+   "doc_id": "S078"
+  },
+  {
+   "domain": "biologi-tumbuh",
+   "title": "Analisis tabel dan grafik pertumbuhan",
+   "findings": [
+    "Analisis data pertumbuhan merupakan keterampilan saintifik dalam menafsirkan angka kuantitatif tabel dan kurva pertumbuhan organisme.",
+    "Kurva garis yang terbentuk memperlihatkan pola kemiringan gradien yang mencerminkan kecepatan laju pertambahan ukuran per satuan waktu.",
+    "Pada tumbuhan annual semusim, fase stasioner akan disusul oleh fase senesens yaitu penurunan biomassa akibat penuaan dan kematian.",
+    "Kecakapan literasi numerasi data ini sangat fundamental dalam mengintegrasikan biologi teoretis dengan praktik manajemen budi daya modern.",
+    "Kasus akuakultur ini membuktikan bahwa pembacaan fase kurva pertumbuhan sangat penting untuk menentukan efisiensi konversi pakan ternak.",
+    "Memasuki fase senesens akhir hidupnya, tanaman mengalihkan seluruh metabolisme seluler untuk mematangkan biji dan buah generatif.",
+    "Laju pertumbuhan absolut dihitung dari pertambahan tinggi dibagi interval waktu.",
+    "Alasan: laju 5 cm per hari pada interval hari 3 sampai 4 merupakan pertambahan tinggi absolut tertinggi."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\tumbuh_sub7.docx",
+   "doc_id": "S079"
+  },
+  {
+   "domain": "biologi-virus",
+   "title": "Karakteristik dan struktur dasar virus",
+   "findings": [
+    "Virus merupakan entitas biologis aseluler ultramikroskopis yang hanya mampu bereplikasi di dalam sel inang hidup yang rentan.",
+    "Setiap partikel virus tersusun atas materi genetik asam nukleat yang diselubungi oleh mantel pelindung protein yang disebut kapsid.",
+    "Beberapa kelompok virus seperti koronavirus dan virus influenza memiliki membran pembungkus tambahan berupa selubung lipid dwilapis luar.",
+    "Sebagian besar virus hanya mampu menginfeksi spesies inang tertentu atau bahkan tipe jaringan organ tertentu secara sangat selektif.",
+    "Keterangan dan syarat pemakaian: - Simbol  melambangkan diameter fisik partikel virion dalam satuan nanometer (sekitar 20 sampai 400 nm).",
+    "Hasil filtrat cairan yang lolos saringan ternyata tetap mampu menularkan penyakit bercak kuning saat dioleskan ke daun tembakau sehat.",
+    "Virus dikategorikan sebagai benda tak hidup karena tidak memiliki protoplasma, tidak menyelenggarakan metabolisme mandiri, dan dapat dikristalkan tanpa kehilangan sifat patogennya.",
+    "Karena target molekuler antibiotik tidak ada pada partikel virus, obat antibiotik tidak memiliki titik tangkap farmakologis untuk menghambat replikasi virus influenza."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\virus_sub0.docx",
+   "doc_id": "S080"
+  },
+  {
+   "domain": "biologi-virus",
+   "title": "Replikasi melalui siklus litik dan lisogenik",
+   "findings": [
+    "Replikasi virus merupakan proses perbanyakan partikel virion baru melalui pembajakan perangkat biokimiawi dan materi seluler inang hidup.",
+    "Tahap sintesis berlangsung cepat dengan memanfaatkan ribosom inang untuk memperbanyak genom virus dan memproduksi protein kapsid pembungkus.",
+    "Asam nukleat virus justru menyisip ke dalam untai kromosom sirkular bakteri dan berubah status menjadi bentuk dorman yang disebut profag.",
+    "Kerusakan rantai DNA akibat radiasi memicu aktivasi sinyal enzim protease yang memotong profag keluar dari kromosom inang secara tuntas.",
+    "Keterangan dan syarat pemakaian: - Nilai  melambangkan ukuran ledakan lisis (burst size) yaitu rata-rata virion yang dihasilkan per sel inang terinfeksi.",
+    "Ketika cawan petri kultur dipaparkan radiasi sinar ultraviolet dosis rendah selama dua menit, seluruh koloni bakteri mengalami lisis serempak.",
+    "Profag merupakan bentuk materi genetik DNA virus yang menyisip dan terintegrasi secara stabil ke dalam untai kromosom sel inang bakteri.",
+    "Sebaliknya, ketika kondisi lingkungan buruk atau populasi inang sangat sedikit, siklus lisogenik memungkinkan virus bertahan hidup secara tersembunyi sebagai profag tanpa memusnahkan inang terakhirnya."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\virus_sub1.docx",
+   "doc_id": "S081"
+  },
+  {
+   "domain": "biologi-virus",
+   "title": "Peranan merugikan dan penyakit akibat virus",
+   "findings": [
+    "Peranan merugikan virus mencakup kemampuan patogenik memicu kerusakan seluler, penyakit infeksi menular, dan kematian pada organisme inang.",
+    "Selain kerusakan seluler langsung, sistem imun tubuh sering kali melepaskan sitokin proinflamasi dalam jumlah berlebihan saat melawan infeksi.",
+    "Virus dengue yang ditularkan melalui gigitan nyamuk Aedes aegypti menginfeksi leukosit dan merusak endotel pembuluh darah penderita.",
+    "Pada hewan ternak, Foot and Mouth Disease Virus menyebabkan penyakit mulut dan kuku pada sapi dan kambing sehingga menurunkan produksi susu.",
+    "Simbol  melambangkan peluang terjadinya transmisi penularan partikel virus per kontak sosial antarindividu.",
+    "Banyak penderita tanpa gejala tetap aktif menyebarkan droplet pernapasan tanpa disadari saat berinteraksi di ruang tertutup yang berventilasi buruk.",
+    "Virus HIV secara spesifik menargetkan dan menghancurkan sel limfosit T pembantu (CD4+) yang merupakan koordinator utama sistem imun adaptif tubuh.",
+    "Pemusnahan massal memotong mata rantai replikasi virus secara tuntas sehingga meminimalkan risiko timbulnya pandemi global influenza zoonotik."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\virus_sub2.docx",
+   "doc_id": "S082"
+  },
+  {
+   "domain": "biologi-virus",
+   "title": "Peranan virus yang bermanfaat dalam biologi dan kesehatan",
+   "findings": [
+    "Peranan bermanfaat virus merupakan pendayagunaan partikel virion termodifikasi dalam rekayasa bioteknologi, terapi medis, dan pengendalian hayati.",
+    "Setelah disuntikkan, sel tubuh memproduksi protein antigen tersebut sehingga merangsang pembentukan antibodi netralisasi spesifik yang tahan lama.",
+    "Ketika memasuki sel tumor ganas, virus onkolitik bereplikasi melipat ganda hingga memicu lisis selektif sel kanker tersebut dari dalam.",
+    "Dalam terapi gen, retrovirus dan adeno-associated virus dimanfaatkan sebagai kapsul pengantar untuk menyisipkan salinan gen fungsional normal.",
+    "Keterangan dan syarat pemakaian: - Nilai  mengukur persentase sel target yang berhasil menerima dan mengekspresikan gen fungsional baru.",
+    "Tim dokter menyuntikkan vektor virus adeno rekombinan pembawa salinan gen RPE65 normal langsung ke bawah lapisan retina mata pasien.",
+    "Virus onkolitik memanfaatkan cacat jalur sinyal antivirus interferon yang umum terjadi pada sel tumor akibat transformasi keganasan.",
+    "Karakteristik non-integratif ini memberikan profil keamanan klinis yang jauh lebih unggul bagi pasien."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\virus_sub3.docx",
+   "doc_id": "S083"
+  },
+  {
+   "domain": "biologi-virus",
+   "title": "Cara penyebaran dan pencegahan infeksi virus",
+   "findings": [
+    "Penyebaran dan pencegahan infeksi virus merupakan kajian epidemiologi mengenai rute transmisi patogen serta intervensi protektif pemutus rantai penularan.",
+    "Rute penularan fekal-oral terjadi ketika makanan atau air minum tercemar oleh partikel virus saluran pencernaan seperti rotavirus dan hepatitis A.",
+    "Disinfeksi permukaan benda yang sering disentuh menggunakan larutan alkohol tujuh puluh persen membunuh partikel virus yang menempel pasif.",
+    "Ketika terjadi paparan patogen virus asli di masa depan, sel memori segera melepaskan antibodi pelindung dalam jumlah besar secara cepat.",
+    "Simbol  menyatakan angka reproduksi dasar virus patogen dalam populasi yang belum memiliki kekebalan.",
+    "Keberhasilan pembasmian cacar membuktikan bahwa pemahaman ilmiah mengenai penularan dan kekebalan vaksin mampu melenyapkan patogen mematikan.",
+    "Ekor hidrofobik molekul sabun menyusup dan merusak keteraturan lapisan lipid pembungkus virus sehingga partikel virus hancur dan kehilangan kemampuan menginfeksi sel tubuh.",
+    "Berdasarkan hasil perhitungan tersebut, minimal tujuh puluh lima persen populasi warga harus memiliki imunitas protektif agar penyebaran wabah virus terhenti secara mandiri."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "laporan\\materi_tls\\biologi\\export_samples\\virus_sub4.docx",
+   "doc_id": "S084"
+  },
+  {
+   "domain": "geografi",
+   "title": "Keuntungan Posisi Strategis Wilayah Indonesia dalam Aspek Keruangan dan SDA",
+   "findings": [
+    "Sub-materi CP: Poros Maritim Dunia, Keuntungan dan Kerugian Indonesia berada di Jalur Perdagangan Dunia, Komoditas Unggulan Indonesia pada Perdagangan Global, Membuat Persebaran SDA Indonesia, Potensi Sumber Daya Perikanan Indonesia, Energi Terbarukan, Pengembangan Pariwisata Berkelanjutan, Geopolitik Perbatasan.",
+    "Hal tersebut diperkuat oleh fakta bahwa posisi ini mendorong potensi Indonesia untuk menjadi poros maritim dunia.",
+    "Hal ini didukung oleh curah hujan yang menciptakan tanah subur untuk menghasilkan tanaman pangan dan nonpangan.",
+    "Hal tersebut terjadi karena lokasi potensial berada jauh dari pusat pertumbuhan ekonomi sehingga informasi pasar dan teknologi pengembangan produk sulit dijangkau.",
+    "Indonesia memiliki komoditas rumput laut yang sangat unggul sehingga menduduki peringkat pertama dunia.",
+    "Selain itu, energi ini tidak membahayakan kesehatan manusia karena mudah diperoleh.",
+    "Analisislah bagaimana potensi terumbu karang di Indonesia dapat mendukung aspek ekonomi dan ekologi secara bersamaan!",
+    "G1 | posisi: pembuka | Letak geografis Indonesia di antara dua benua dan dua samudra."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_geografi_01_keuntungan_posisi_strategis_wilaya.md",
+   "doc_id": "S085"
+  },
+  {
+   "domain": "geografi",
+   "title": "Pola Keanekaragaman Hayati di Indonesia dan Dunia",
+   "findings": [
+    "Sub-materi CP: Sebaran Keanekaragaman Hayati, Curah Hujan dan Sebaran Vegetasi, Konsep Rantai Makanan, Perlindungan Spesies Langka, Alih Fungsi Lahan, Penetapan Kawasan Lindung.",
+    "Analisislah hubungan antara kondisi geografis Hutan Hujan Amazon dengan peranannya bagi lingkungan global!",
+    "Mengapa wilayah dengan curah hujan rendah cenderung memiliki jenis vegetasi yang lebih sedikit dibandingkan wilayah bercurah hujan tinggi?",
+    "Harimau merupakan contoh hewan yang berperan sebagai predator karnivora.",
+    "Nilai estetika dan ekonomi yang tinggi meningkatkan minat kolektor karena semakin indah dan langka jenis tumbuhan dan hewan, semakin mahal harganya.",
+    "Oleh karena itu, pembangunan kota yang aman dan sehat harus memperbanyak ruang terbuka hijau.",
+    "Melanjutkan pembahasan tersebut, hutan konservasi memiliki pembagian lebih lanjut untuk tujuan perlindungan yang spesifik.",
+    "G2 | posisi: contoh kasus | Contoh kawasan pelestarian metode ex situ di Indonesia | perlu ilustrasi: Peta lokasi atau foto Taman Hutan Raya Cut Nyak Dien dan Taman Hutan Raya Bukit Barisan"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_geografi_02_pola_keanekaragaman_hayati_di_indo.md",
+   "doc_id": "S086"
+  },
+  {
+   "domain": "geografi",
+   "title": "Geografi Penduduk",
+   "findings": [
+    "Sub-materi CP: Sebaran Penduduk, Struktur Penduduk, Bonus Demografi, Tata Kota dan Permukiman Kumuh, Peningkatan Kualitas Penduduk.",
+    "Jawaban.* Perhitungan rata-rata mengasumsikan bahwa penduduk tersebar secara merata di seluruh planet.",
+    "Indonesia memiliki struktur penduduk yang didominasi oleh generasi muda berdasarkan sensus tahun 2020.",
+    "Jika pendidikan dan keterampilan mereka dapat meningkat menjadi SDM berkualitas, maka mereka akan membawa kemajuan.",
+    "Wilayah ini menjadi sentral permukiman dan ekonomi masyarakat yang dihuni oleh sumber daya manusia yang unggul.",
+    "Mengapa penduduk desa cenderung melakukan mobilitas menuju wilayah kota?",
+    "Pembangunan kesehatan dilakukan melalui penyebaran budaya hidup sehat dan perluasan jangkauan pelayanan kesehatan masyarakat, terutama bagi penduduk di daerah terpencil.",
+    "Alasan: Peningkatan kualitas hidup berdampak pada perubahan struktur umur penduduk."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_geografi_03_geografi_penduduk.md",
+   "doc_id": "S087"
+  },
+  {
+   "domain": "geografi",
+   "title": "Perubahan Iklim, Kebencanaan, dan Lingkungan Hidup",
+   "findings": [
+    "Sub-materi CP: Tren Perubahan Iklim, Dampak Perubahan Iklim, Pemantauan Polusi, Peta Rawan Bencana, Sistem Peringatan Dini, Simulasi Evakuasi, Konsep Green City, Kampanye Perubahan Iklim.",
+    "Kondisi ini berarti masyarakat dengan fasilitas terbatas akan lebih sulit menghadapi perubahan lingkungan.",
+    "Sejalan dengan penjelasan sebelumnya, pengelolaan lingkungan juga mencakup penanganan sampah melalui pembangunan fasilitas pemilahan.",
+    "Faktor alam seperti pergerakan lempeng dan curah hujan tinggi menyebabkan perubahan muka bumi yang menjadi ancaman bencana.",
+    "Sistem pendeteksi tsunami terdiri atas jaringan komunikasi dan infrastruktur serta jaringan sensor pendeteksi.",
+    "Mengapa kelompok anak-anak dan orang tua memerlukan perhatian khusus dalam proses evakuasi bencana?",
+    "Jawaban.* Kota Surabaya bekerja sama dengan Kitakyushu karena keduanya merupakan kota industri yang memiliki permasalahan lingkungan serupa.",
+    "G2 | posisi: contoh kasus | Contoh adaptasi fisik masyarakat terhadap bencana gempa bumi | perlu ilustrasi: gambar rumah tradisional Suku Sasak dengan label 'Rumah Tahan Gempa'"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_geografi_04_perubahan_iklim_kebencanaan_dan_li.md",
+   "doc_id": "S088"
+  },
+  {
+   "domain": "geografi",
+   "title": "Kewilayahan dan Pembangunan serta Kerja Sama Antarnegara",
+   "findings": [
+    "Sub-materi CP: Kutub Pertumbuhan di Kawasan Timur Indonesia, Pertumbuhan Kota Megapolitan, Ketimpangan Pembangunan, Kerja Sama Strategis Antarnegara, Dampak Investasi Asing, Pertumbuhan Wilayah dan Tenaga Kerja.",
+    "Pemerintah Indonesia melaksanakan program transmigrasi sebagai sarana penyebaran dan pemerataan penduduk.",
+    "Geopolitik merupakan studi yang mengkaji masalah geografi, sejarah, dan ilmu sosial dengan merujuk kepada politik internasional.",
+    "Mengapa lokasi dan sumber daya alam menjadi faktor penting dalam geopolitik suatu negara saat menjalin kerja sama internasional?",
+    "Kehadiran fasilitas ini memudahkan masyarakat mengakses kebutuhan hidup dengan lebih berkualitas.",
+    "Jawaban.* Kerja sama internasional membuka ruang bagi kegiatan ekspor produk primer, sekunder, maupun tersier ke negara lain.",
+    "Peningkatan mutu pendidikan dan keterampilan menyebabkan terciptanya wiraswasta yang mampu menciptakan lapangan kerja baru.",
+    "G1 | posisi: pembuka | Potensi wisata alam dan budaya Indonesia yang perlu dilestarikan | perlu ilustrasi: gambar berbagai potensi wisata alam dan budaya Indonesia dengan label 'Pariwisata Berkelanjutan'"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_geografi_05_kewilayahan_dan_pembangunan_serta_.md",
+   "doc_id": "S089"
+  },
+  {
+   "domain": "ips",
+   "title": "Konsep dasar geografi, fenomena geografi fisik, dan teknologi geospasial",
+   "findings": [
+    "Sub-materi CP: Konsep dasar geografi, Litosfer sebagai ruang hidup, Atmosfer sebagai ruang hidup, Hidrosfer sebagai ruang hidup, Peta, Penginderaan jauh, Sistem Informasi Geografis (SIG).",
+    "G2 | posisi: contoh kasus | Contoh Lokasi Absolut Kabupaten Kepulauan Aru | perlu ilustrasi: peta Kabupaten Kepulauan Aru dengan garis lintang dan bujur",
+    "Mengapa ruang hidup manusia di Indonesia tidak boleh hanya dipahami dari sudut pandang daratan saja?",
+    "Analisislah dampak efek rumah kaca terhadap kondisi lingkungan di Kabupaten Kepulauan Aru!",
+    "Wujud tersebut meliputi bentuk cair, padat seperti es, dan gas berupa uap air.",
+    "Prinsip korologi menekankan keseluruhan dan keterpaduan antara berbagai gejala dalam satu wilayah.",
+    "Di sisi lain, detektor memiliki fungsi yang berbeda yaitu sebagai alat perekam.",
+    "G1 | posisi: pembuka | Komponen dan Alur Kerja SIG | perlu ilustrasi: diagram alir yang menghubungkan input (citra, peta, pengukuran lapangan), proses (perangkat keras, perangkat lunak, orang), dan output (lokasi, tren, pola, pemodelan)"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_01_konsep_dasar_geografi_fenomena_geo.md",
+   "doc_id": "S090"
+  },
+  {
+   "domain": "ips",
+   "title": "Hakikat ilmu ekonomi dan mekanisme pasar",
+   "findings": [
+    "Sub-materi CP: Ilmu ekonomi sebagai upaya memenuhi kebutuhan, Pilihan ekonomi konsumen dan produsen, Interaksi dalam mekanisme pasar.",
+    "Aktivitas ekonomi mencakup distribusi untuk menyalurkan barang dari produsen ke konsumen serta kegiatan konsumsi.",
+    "Jawaban.* Kebutuhan pelajar seperti buku dan alat tulis memerlukan kegiatan distribusi untuk menyalurkan barang dari produsen ke konsumen.",
+    "Analogi sederhana: harga keseimbangan seperti titik temu dua orang yang saling berkompromi hingga menemukan angka yang disetujui bersama.",
+    "Mengapa pemberian subsidi oleh pemerintah dapat memengaruhi jumlah penawaran barang di pasar?",
+    "Melanjutkan pembahasan tersebut, kesepakatan harga antara pembeli dan penjual ini dikenal sebagai harga keseimbangan atau harga pasar.",
+    "Transaksi tersebut dapat dilakukan melalui tawar-menawar secara tatap muka langsung dengan penjual.",
+    "G1 | posisi: pembuka | Titik keseimbangan harga pasar | perlu ilustrasi: Kurva permintaan dan penawaran yang saling berpotongan dengan label Titik Equilibrium pada titik potongnya"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_02_hakikat_ilmu_ekonomi_dan_mekanisme.md",
+   "doc_id": "S091"
+  },
+  {
+   "domain": "ips",
+   "title": "Produk keuangan, risiko keuangan, dan laporan keuangan pribadi",
+   "findings": [
+    "Sub-materi CP: Produk keuangan bank dan nonbank, Pengelolaan, penggunaan produk dan layanan keuangan, Risiko keuangan, Laporan keuangan pribadi.",
+    "Pelajar tersebut harus memahami jenis logam mulia yang dapat dijadikan instrumen investasi.",
+    "Hal tersebut diperkuat oleh penjelasan bahwa seseorang harus mempelajari setiap produk investasi agar dapat mengelola berbagai risiko yang ditimbulkan.",
+    "Mengapa pemahaman terhadap polis asuransi sangat penting dalam pengelolaan risiko keuangan?",
+    "Dengan demikian, analisis terhadap prospek nilai menjadi bagian dari strategi pengelolaan risiko investasi.",
+    "Secara keseluruhan, pemahaman mendalam terhadap produk investasi menjadi kunci sukses dalam mengelola risiko.",
+    "Perilaku konsumtif mengakibatkan seseorang sulit membedakan kebutuhan dan keinginan sehingga tidak memiliki dana darurat.",
+    "G1 | posisi: pembuka | Hubungan antara teknologi digital dan risiko keuangan pribadi | perlu ilustrasi: diagram alur yang menghubungkan kemudahan belanja daring, perilaku konsumtif, dan risiko utang"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_03_produk_keuangan_risiko_keuangan_da.md",
+   "doc_id": "S092"
+  },
+  {
+   "domain": "ips",
+   "title": "Fungsi sosiologi, status, peran, dan gejala sosial",
+   "findings": [
+    "Sub-materi CP: Fungsi sosiologi mengkaji masyarakat, Status dan peran individu dalam kelompok sosial, Ragam gejala sosial.",
+    "Pelapisan sosial memengaruhi status dan peran sosial individu dalam masyarakat.",
+    "Analisislah hubungan antara pelapisan sosial dengan potensi terjadinya konflik peran pada seorang individu!",
+    "Konflik status terjadi ketika ada pertentangan dalam diri seseorang karena kedudukannya, sedangkan konflik peran muncul saat individu merasa tidak mampu menjalankan peranannya.",
+    "Hal ini juga terlihat dalam struktur OSIS yang memiliki ketua, wakil ketua, sekretaris, bendahara, serta divisi lain.",
+    "Gejala sosial merupakan fenomena yang terjadi di tengah masyarakat yang dipelajari dalam sosiologi.",
+    "Selain itu, terdapat struktur organisasi siswa intra sekolah atau OSIS yang memiliki berbagai divisi.",
+    "G1 | posisi: pembuka | proses timbulnya gejala sosial dari interaksi manusia | perlu ilustrasi: gambar orang-orang yang sedang berinteraksi di pasar atau sekolah dengan label 'Interaksi Sosial' dan 'Gejala Sosial'"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_04_fungsi_sosiologi_status_peran_dan_.md",
+   "doc_id": "S093"
+  },
+  {
+   "domain": "ips",
+   "title": "Keragaman manusia dan budaya dalam masyarakat multikultural",
+   "findings": [
+    "Sub-materi CP: Keragaman manusia, Keragaman budaya, Masyarakat multikultural.",
+    "Identitas individu sesuai dengan suku bangsa diperoleh secara turun-temurun dari orang tuanya.",
+    "Analisislah bagaimana diferensiasi sosial budaya dapat memberikan dampak positif sekaligus negatif bagi integrasi masyarakat!",
+    "Di sisi lain, keberagaman dalam masyarakat multikultural ini membawa dampak yang beragam baik secara positif maupun negatif.",
+    "Jawaban.* Profesi masuk dalam diferensiasi sosial budaya karena pembedannya bersifat horizontal atau sejajar.",
+    "Pemahaman ini membantu siswa menyadari bahwa setiap individu memiliki keunikan masing-masing tanpa adanya tingkatan sosial.",
+    "Setiap suku bangsa di tanah air memiliki corak kebudayaan serta bahasa yang berbeda satu sama lain.",
+    "G1 | posisi: pembuka | keragaman dasar diferensiasi sosial budaya dalam masyarakat multikultural | perlu ilustrasi: gambar berbagai orang dengan pakaian adat berbeda, simbol agama, dan berbagai alat profesi yang disusun sejajar"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_05_keragaman_manusia_dan_budaya_dalam.md",
+   "doc_id": "S094"
+  },
+  {
+   "domain": "ips",
+   "title": "Konsep dasar ilmu sejarah dan penelitian sejarah",
+   "findings": [
+    "Sub-materi CP: Manusia, ruang, waktu, kronologi, perubahan, Keterhubungan masa lampau, masa kini, masa depan, Penelitian sejarah.",
+    "Ruang sebagai tempat peristiwa terjadi yang mencakup skala lokal, nasional, maupun global.",
+    "Jawaban.* Peristiwa yang terjadi pada tingkat lokal seringkali berkaitan dengan berbagai peristiwa di tingkat nasional maupun global.",
+    "Sejalan dengan penjelasan sebelumnya, keterhubungan waktu juga berfungsi sebagai alat untuk memperbaiki kualitas kehidupan manusia di masa depan.",
+    "Apa yang dimaksud dengan pernyataan bahwa masa lalu selalu aktual dalam studi sejarah?",
+    "Penelitian sejarah merupakan salah satu metode dalam penelitian sosial yang dipelajari untuk memahami peristiwa masa lalu.",
+    "Konsep dasar ilmu sejarah diterapkan untuk menganalisis sejarah masyarakat Indonesia sejak masa Hindu-Buddha hingga kerajaan Islam.",
+    "G1 | posisi: pembuka | Hubungan antar konsep dasar ilmu sejarah dalam penelitian."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_06_konsep_dasar_ilmu_sejarah_dan_pene.md",
+   "doc_id": "S095"
+  },
+  {
+   "domain": "ips",
+   "title": "Peristiwa penting lokal, nasional, global dari kerajaan Hindu-Buddha hingga kerajaan Islam",
+   "findings": [
+    "Sub-materi CP: Kerajaan Hindu-Buddha, Kerajaan Islam.",
+    "Sejalan dengan penjelasan sebelumnya, kemajuan teknologi terlihat dari kemampuan masyarakat membangun candi, istana, serta kapal besar dengan konstruksi rumit.",
+    "Konsep ruang dan waktu digunakan untuk memahami bahwa setiap tindakan manusia dipengaruhi oleh kondisi lingkungan sosial, budaya, geograis, maupun ekonomi.",
+    "Di situs Trowulan peninggalan Kerajaan Majapahit ditemukan artefak celengan tanah liat dari abad ke-13 sampai ke-15 Masehi.",
+    "Hal ini menunjukkan bahwa proses penyebaran agama berlangsung secara bertahap melalui berbagai jalur.",
+    "Sistem mata pencarian masa kerajaan Islam memiliki kemiripan dengan masa Hindu-Buddha tetapi dengan jenis pekerjaan yang lebih beragam.",
+    "Sementara itu, makam Sultan Malik as-Saleh membuktikan bahwa pengaruh Islam sudah berkembang hingga membentuk kerajaan pada abad ke-13.",
+    "G2 | posisi: contoh kasus | Para Penari Zapin sebagai seni pertunjukan Islam yang dikenalkan pedagang Gujarat."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_ips_07_peristiwa_penting_lokal_nasional_g.md",
+   "doc_id": "S096"
+  },
+  {
+   "domain": "matematika",
+   "title": "Barisan dan Deret",
+   "findings": [
+    "Sub-materi CP: Pemahaman konsep barisan dan deret (aritmetika dan geometri), Penerapan dan pemodelan barisan dan deret pada pinjaman dan investasi dengan bunga majemuk dan anuitas.",
+    "Siswa diharapkan dapat menentukan suku ke-n dari suatu barisan geometri.",
+    "Pertumbuhan tinggi tanaman dapat mengikuti pola teratur setiap minggu.",
+    "Alasan: Perbedaan terletak pada operasi matematika yang digunakan untuk mendapatkan suku berikutnya.",
+    "Bunga simpanan merupakan balas jasa dari bank kepada nasabah yang menyimpan uangnya di bank.",
+    "Analogi sederhana: anuitas seperti menabung dengan jumlah tetap setiap bulan untuk mencapai target dana tertentu di masa depan.",
+    "Selain itu, konsep ini digunakan untuk memodelkan anuitas pada investasi dan pinjaman.",
+    "G1 | posisi: pembuka | Hubungan antar konsep bunga dan anuitas | perlu ilustrasi: peta konsep yang menghubungkan Suku Bunga, Periode, Bunga Tunggal, Bunga Majemuk, Anuitas, Investasi, dan Pinjaman"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_01_barisan_dan_deret.md",
+   "doc_id": "S097"
+  },
+  {
+   "domain": "matematika",
+   "title": "Fungsi Invers, Komposisi Fungsi, dan Transformasi Fungsi",
+   "findings": [
+    "Sub-materi CP: Penyelesaian masalah yang berkaitan dengan fungsi invers dan komposisi fungsi, Penyelesaian masalah yang berkaitan dengan transformasi fungsi (fungsi linear, kuadrat, eksponensial).",
+    "Dengan demikian, siswa dapat mengidentifikasi jenis fungsi yang tepat untuk menyelesaikan masalah pemetaan balik.",
+    "Urutan perkalian penting: Matriks transformasi kedua dikali matriks transformasi pertama.",
+    "Alasan: Komposisi transformasi dilakukan dengan mengalikan matriks transformasi secara berurutan.",
+    "Melanjutkan pembahasan tersebut, transformasi juga mencakup pencerminan grafik terhadap sumbu.",
+    "Pergeseran horizontal terjadi karena penambahan konstanta pada input fungsi.",
+    "Bagaimana cara melakukan pencerminan vertikal pada sebuah grafik fungsi menurut Abramson dkk.?",
+    "Alasan: Transformasi pada input dan output bekerja pada dimensi yang berbeda sehingga urutannya dapat ditukar."
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_02_fungsi_invers_komposisi_fungsi_dan.md",
+   "doc_id": "S098"
+  },
+  {
+   "domain": "matematika",
+   "title": "Lingkaran",
+   "findings": [
+    "Sub-materi CP: Identifikasi hubungan antara unsur-unsur lingkaran (sudut pusat, sudut keliling, panjang busur, luas juring, garis singgung).",
+    "Hubungan antara keduanya dapat dipelajari melalui pengamatan terhadap busur lingkaran yang sama.",
+    "Menurut Abramson dkk., luas juring adalah fraksi dari luas seluruh lingkaran yang dihitung dengan mengalikan setengah radian sudut pusat dengan kuadrat jari-jari.",
+    "Besarnya busur lingkaran ditentukan oleh besarnya sudut pusat yang menghadap busur tersebut.",
+    "Roda kereta api merupakan contoh nyata hubungan lingkaran dengan garis singgung.",
+    "Jawaban.* Sudut pusat memiliki titik sudut yang terletak pada pusat lingkaran dengan kaki-kaki berupa jari-jari.",
+    "Jawaban.* Pertama, jika diperlukan, lakukan konversi sudut ke radian.",
+    "G3 | posisi: ilustrasi | Area juring yang disiram oleh sprinkler otomatis | Figure 23"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_03_lingkaran.md",
+   "doc_id": "S099"
+  },
+  {
+   "domain": "matematika",
+   "title": "Statistika dan Peluang Kejadian Majemuk",
+   "findings": [
+    "Sub-materi CP: Penyelidikan statistika: asosiasi antara dua variabel kategorikal dan numerikal, garis best-fit, asosiasi vs sebab-akibat, Peluang kejadian majemuk: kejadian saling bebas, saling lepas, peluang bersyarat dengan permutasi dan kombinasi.",
+    "Model ini memudahkan kita dalam memperkirakan nilai variabel dependen berdasarkan nilai variabel independen yang diketahui.",
+    "Terdapat korelasi positif antara jumlah buku yang dibaca per bulan dengan nilai ujian bahasa siswa.",
+    "Jika ditemukan korelasi antara penggunaan ponsel dan jumlah kasus kanker, apakah dapat disimpulkan bahwa ponsel menyebabkan kanker?",
+    "Sementara itu, peluang saling bebas adalah peluang dua atau lebih kejadian yang tidak saling memengaruhi.",
+    "Siswa diharapkan dapat menentukan ruang sampel dan distribusi peluang kejadian setelah mempelajari bab ini.",
+    "Apa perbedaan utama antara peluang saling lepas dan peluang saling bebas menurut Tohir dkk.",
+    "G1 | posisi: pembuka | Perbedaan visual kejadian saling lepas dan tidak saling lepas | perlu ilustrasi: diagram Venn yang menunjukkan dua lingkaran terpisah untuk kejadian saling lepas dan dua lingkaran beririsan untuk kejadian tidak saling lepas"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_04_statistika_dan_peluang_kejadian_ma.md",
+   "doc_id": "S100"
+  },
+  {
+   "domain": "matematika",
+   "title": "Polinomial (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Operasi aritmetika polinomial, faktor polinomial, identitas polinomial, teorema sisa, teorema faktor.",
+    "Operasi tersebut juga mencakup pembagian polinomial yang dapat diselesaikan menggunakan algoritma pembagian, cara bersusun, atau metode Horner.",
+    "Proses ini membantu siswa memahami bagaimana struktur polinomial berubah setelah dilakukan operasi pembagian.",
+    "Melanjutkan pembahasan tersebut, Teorema Faktor memberikan hubungan antara pembuat nol dengan faktor dari suatu polinomial.",
+    "Hubungan ini menjadi dasar dalam proses pemfaktoran polinomial secara lengkap.",
+    "Perkalian dilakukan dengan mengalikan setiap suku lalu menjumlahkan suku sejenis.",
+    "Teorema Faktor dan Pembuat Nol Rasional diterapkan untuk memfaktorkan polinomial dengan mencoba faktor dari konstanta dan koefisien utama.",
+    "G1 | posisi: pembuka | Peta Materi Operasi Fungsi Polinomial | perlu ilustrasi: peta materi polinomial yang menghubungkan operasi penjumlahan, pengurangan, perkalian, pembagian, teorema sisa, dan teorema faktor"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_05_polinomial_tingkat_lanjut.md",
+   "doc_id": "S101"
+  },
+  {
+   "domain": "matematika",
+   "title": "Matriks dan Transformasi Geometri (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Operasi aljabar pada matriks dan penerapannya dalam transformasi geometri.",
+    "Matriks memiliki kaitan erat dengan operasi transformasi terhadap sembarang titik pada bidang Kartesius.",
+    "Menurut Kristanto dkk., siswa dapat mengoperasikan komposisi transformasi geometri dengan bantuan matriks yang merepresentasikan transformasi tersebut.",
+    "Komposisi transformasi geometri dapat diselesaikan dengan mengoperasikan matriks yang merepresentasikan masing-masing transformasi.",
+    "Konsep transformasi geometri diterapkan dalam warisan budaya Indonesia seperti motif batik.",
+    "Transformasi geometri diterapkan dalam desain arsitektur istana kerajaan dan dinding masjid seperti di situs istana kerajaan Islam di Spanyol.",
+    "Operasi perkalian skalar melibatkan perkalian konstanta dengan setiap entri dalam matriks.",
+    "G1 | posisi: pembuka | Peta Materi Transformasi Geometri | perlu ilustrasi: diagram alir yang menghubungkan Transformasi Geometri ke Pencerminan, Translasi, Rotasi, Dilatasi, dan Komposisi Transformasi"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_06_matriks_dan_transformasi_geometri_.md",
+   "doc_id": "S102"
+  },
+  {
+   "domain": "matematika",
+   "title": "Trigonometri (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Fenomena periodik fungsi trigonometri, pembuktian identitas trigonometri, penerapan aturan cosinus dan sinus.",
+    "Contoh nyata dari penerapan pola ini adalah pemodelan fenomena pasang surut air laut.",
+    "Sejalan dengan penjelasan sebelumnya, penerapan trigonometri juga mencakup perhitungan dimensi objek fisik melalui perbandingan sisi segitiga.",
+    "Kemampuan yang diharapkan meliputi penentuan nilai fungsi trigonometri untuk sembarang bilangan real.",
+    "Pada hari tertentu, air mencapai 0,4 m di atas rata-rata saat pasang dan 0,4 m di bawah rata-rata saat surut.",
+    "Jawaban.* Sinus adalah nilai perbandingan antara sisi depan terhadap sisi miring.",
+    "Jawaban.* Ketinggian permukaan air laut di Port Said menunjukkan pola ketinggian maksimum dan minimum secara periodik.",
+    "G2 | posisi: contoh kasus | Ketinggian Permukaan Air Teluk Kupang | Gambar 3.39"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_07_trigonometri_tingkat_lanjut.md",
+   "doc_id": "S103"
+  },
+  {
+   "domain": "matematika",
+   "title": "Pengenalan Berbagai Fungsi (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Pengenalan fungsi selain linear dan kuadrat (rasional, akar, eksponensial, logaritma, nilai mutlak, tangga, piecewise) dan sifatnya.",
+    "Konsep ini membantu kita memahami bahwa satu aturan matematika tidak selalu cukup untuk menggambarkan seluruh situasi.",
+    "Karena proses penghitungannya berbeda antara angka positif dan negatif, fungsi ini menjadi salah satu contoh dari fungsi sesepenggal.",
+    "Fungsi non-aljabar dikategorikan terpisah karena tidak bisa diselesaikan hanya dengan operasi tambah, kurang, kali, dan bagi.",
+    "Seorang bernama Petrus ingin membuat kandang ayam berbentuk persegi panjang dengan luas 425 meter persegi.",
+    "Selain itu, fungsi eksponensial digunakan untuk memodelkan pertumbuhan bakteri dalam bidang biologi.",
+    "Alasan: Perbedaan terletak pada kemampuan fungsi tersebut untuk dinyatakan melalui operasi aljabar dasar.",
+    "G3 | posisi: ilustrasi | Model fungsi akar | perlu ilustrasi: Segitiga siku-siku dengan sisi miring 13 m dan sisi penyiku v serta h"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_08_pengenalan_berbagai_fungsi_tingkat.md",
+   "doc_id": "S104"
+  },
+  {
+   "domain": "matematika",
+   "title": "Vektor Bidang Datar (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Pembuktian geometris pada vektor bidang datar dan operasi aljabar pada vektor.",
+    "Menurut Kristanto dkk., operasi tersebut meliputi penjumlahan, pengurangan, perkalian skalar, serta hasil kali titik antara dua vektor.",
+    "Dalam konteks yang sama, menurut Abramson dkk., operasi penjumlahan, pengurangan, dan perkalian skalar dilakukan dengan mengoperasikan komponen yang bersesuaian.",
+    "Hal tersebut diperkuat oleh penjelasan bahwa teorema Pythagoras dan properti geometri pada segitiga atau jajargenjang dapat dibuktikan dengan pendekatan vektor.",
+    "Sebuah perahu layar bergerak sejauh 100 m ke arah utara.",
+    "Selain itu, konsep ini diterapkan untuk menentukan proyeksi suatu vektor ke vektor lain beserta panjang vektor hasil proyeksinya.",
+    "Namun, pendekatan vektor menawarkan cara lain untuk membuktikan teorema Pythagoras.",
+    "G3 | posisi: ilustrasi | Pembuktian vektor pada segitiga PQR | perlu ilustrasi: segitiga PQR dengan titik S sebagai titik tengah QR"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_09_vektor_bidang_datar_tingkat_lanjut.md",
+   "doc_id": "S105"
+  },
+  {
+   "domain": "matematika",
+   "title": "Lingkaran dan Elips (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Penyelesaian persamaan lingkaran, elips, dan persamaan garis singgung.",
+    "Hal tersebut diperkuat oleh penjelasan bahwa dari satu titik di luar lingkaran dapat dibentuk dua garis singgung yang memiliki panjang sama.",
+    "Dalam konteks yang sama, panjang garis singgung persekutuan dalam dapat ditentukan dengan memanfaatkan Teorema Pythagoras melalui bantuan garis bantu.",
+    "Garis singgung dan jari-jari lingkaran saling berpotongan tegak lurus di titik singgung.",
+    "Rantai sepeda merupakan contoh nyata penggunaan garis singgung persekutuan luar dalam kehidupan sehari-hari.",
+    "Fenomena ini melibatkan Matahari, Bumi, dan Bulan.",
+    "Hal ini menunjukkan adanya perubahan ukuran luas akibat faktor skala dilatasi.",
+    "G3 | posisi: ilustrasi | Proses dilatasi lingkaran | perlu ilustrasi: lingkaran L dengan pusat C(a,b) dan jari-jari r yang didilatasi menjadi L' dengan jari-jari kr"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_10_lingkaran_dan_elips_tingkat_lanjut.md",
+   "doc_id": "S106"
+  },
+  {
+   "domain": "matematika",
+   "title": "Distribusi Peluang Acak (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Evaluasi hasil keputusan menggunakan distribusi peluang acak (distribusi binomial dan normal), nilai harapan.",
+    "Hal tersebut diperkuat oleh penjelasan dalam glosarium bahwa distribusi peluang mendeskripsikan hasil situasi acak bersama peluang terjadinya masing-masing.",
+    "Sejalan dengan penjelasan sebelumnya, kita dapat menggunakan frekuensi harapan untuk memprediksi kemunculan suatu kejadian.",
+    "Distribusi binomial menggambarkan peluang sukses/gagal dari sejumlah percobaan Bernoulli yang dilakukan secara berulang dan saling bebas.",
+    "Situasi ini memiliki ruang sampel untuk semua 8 hasil yang mungkin seperti gambar, angka, angka.",
+    "Apa perbedaan utama antara distribusi peluang dengan ruang sampel menurut Susanto dkk.",
+    "Jawaban.* Distribusi binomial digunakan untuk menggambarkan peluang sukses/gagal dari sejumlah percobaan Bernoulli.",
+    "G1 | posisi: pembuka | Distribusi Peluang untuk Jumlah Dua Dadu | perlu ilustrasi: Tabel distribusi peluang jumlah dua dadu dengan kolom Jumlah (2 sampai 12) dan kolom Peluang"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_11_distribusi_peluang_acak_tingkat_la.md",
+   "doc_id": "S107"
+  },
+  {
+   "domain": "matematika",
+   "title": "Limit, Turunan, dan Integral (tingkat lanjut)",
+   "findings": [
+    "Sub-materi CP: Penerapan konsep dasar limit, turunan (derivatif), dan integral pada masalah matematis dan kontekstual, teorema dasar kalkulus.",
+    "Menurut Abramson dkk., limit dua sisi ada jika limit kiri dan limit kanan dari suatu fungsi memiliki nilai yang sama.",
+    "Sejalan dengan pendapat tersebut, turunan pada suatu titik merupakan kemiringan garis singgung terhadap kurva pada titik tersebut.",
+    "Limit dua sisi ada karena limit kiri dan limit kanan fungsi bernilai sama.",
+    "Proses penurunan rumus untuk mencapai hasil tersebut memerlukan penggunaan ilmu kalkulus lanjutan.",
+    "Jawaban.* Suatu fungsi dikatakan memiliki limit jika limit dari arah kiri dan limit dari arah kanan memiliki nilai yang sama.",
+    "Sementara itu, laju perubahan sesaat atau turunan direpresentasikan oleh kemiringan garis singgung pada satu titik tertentu.",
+    "G1 | posisi: pembuka | Perbedaan visual antara turunan (garis singgung) dan laju perubahan rata-rata (garis sekan) | perlu ilustrasi: grafik fungsi dengan garis singgung di satu titik dan garis sekan yang menghubungkan dua titik"
+   ],
+   "methodology": [],
+   "region": "TLS",
+   "src_file": "alat\\prototipe\\question_engine\\kaidah\\materi_matematika_12_limit_turunan_dan_integral_tingkat.md",
+   "doc_id": "S108"
+  }
+ ]
+}

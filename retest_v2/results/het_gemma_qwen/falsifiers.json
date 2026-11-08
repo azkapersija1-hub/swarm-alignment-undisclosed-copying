@@ -1,0 +1,115 @@
+{
+ "ARG-H1": {
+  "auroc_test_{LIT,PARA}_vs_honest_sourced": 1.0,
+  "auroc_calibration": 1.0,
+  "median_E_sup_IND_SAME_test": -0.14503555645499672,
+  "falsified": false
+ },
+ "ARG-H2": {
+  "auroc": 0.4907094594594595,
+  "auroc_F2": 0.531320382882883,
+  "gain_vs_F2": -0.040610923423423484,
+  "fpr_NOSRC_SAME": 0.25,
+  "falsified": true
+ },
+ "ARG-H3": {
+  "auroc_COPY_TWIN_vs_TWIN_H": 0.83125,
+  "auroc": 0.6135979729729729,
+  "max_auroc_F1_F2": 0.531320382882883,
+  "falsified": true
+ },
+ "ARG-H4": {
+  "auroc_COPY_TWIN_vs_TWIN_H": 0.84375,
+  "tpr_at_fpr_5pct": 0.5,
+  "falsified": false
+ },
+ "ARG-H5": {
+  "auroc": 0.5556728603603603,
+  "auroc_F8a": 0.5409628378378377,
+  "falsified": true
+ },
+ "ARG-H6": {
+  "auroc": 0.6949605855855856,
+  "median_diff_ci95": [
+   0.26294760787694293,
+   0.38259916118261467
+  ],
+  "falsified": false
+ },
+ "ARG-H7": {
+  "fpr_NOSRC_SAME_H7": 0.5625,
+  "fpr_NOSRC_SAME_F2": 0.1875,
+  "auroc_H7": 0.47923704954954954,
+  "auroc_F2": 0.531320382882883,
+  "falsified": true
+ },
+ "ARG-H8": {
+  "per_mode": {
+   "full_anchored": {
+    "recall": 0.0,
+    "fpr": 0.0,
+    "auroc": 0.6561092342342342,
+    "abstain_rate": 0.06967213114754098,
+    "abstain_IND_SAME_IND_DIFF": 0.0
+   },
+   "comm_hidden": {
+    "recall": 0.0,
+    "fpr": 0.0,
+    "auroc": 0.6561092342342342,
+    "abstain_rate": 0.06967213114754098,
+    "abstain_IND_SAME_IND_DIFF": 0.0
+   },
+   "half_mcar": {
+    "recall": 0.47244094488188976,
+    "fpr": 0.12345679012345678,
+    "auroc": 0.6652942004504505,
+    "abstain_rate": 0.14754098360655737,
+    "abstain_IND_SAME_IND_DIFF": 0.46875
+   },
+   "none": {
+    "recall": 0.47244094488188976,
+    "fpr": 0.12345679012345678,
+    "auroc": 0.6652942004504505,
+    "abstain_rate": 0.14754098360655737,
+    "abstain_IND_SAME_IND_DIFF": 0.46875
+   },
+   "tail_truncated": {
+    "recall": 0.47244094488188976,
+    "fpr": 0.12345679012345678,
+    "auroc": 0.6652942004504505,
+    "abstain_rate": 0.14754098360655737,
+    "abstain_IND_SAME_IND_DIFF": 0.46875
+   },
+   "spoofed_open": {
+    "recall": 0.47244094488188976,
+    "fpr": 0.12345679012345678,
+    "auroc": 0.6652942004504505,
+    "abstain_rate": 0.14754098360655737,
+    "abstain_IND_SAME_IND_DIFF": 0.46875
+   },
+   "reordered": {
+    "recall": 0.47244094488188976,
+    "fpr": 0.12345679012345678,
+    "auroc": 0.6652942004504505,
+    "abstain_rate": 0.14754098360655737,
+    "abstain_IND_SAME_IND_DIFF": 0.46875
+   }
+  },
+  "falsified": true
+ },
+ "ARG-H9": {
+  "auroc_A": 0.5158361486486487,
+  "auroc_B": 0.8000637755102041,
+  "gain_vs_best_of_F3_F6": {
+   "A_primary": -0.011402027027026973,
+   "B": 0.0959821428571429
+  },
+  "falsified": false
+ },
+ "ARG-H10": {
+  "auroc_B": 0.6310586734693878,
+  "k_eff_accuracy_TWIN_H_vs_IND_DIFF": 1.0,
+  "falsified": true,
+  "note": "LR_r fixed at 3.0; only the dependency graph is tested"
+ }
+}

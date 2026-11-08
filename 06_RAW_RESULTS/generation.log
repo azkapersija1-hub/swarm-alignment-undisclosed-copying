@@ -1,0 +1,11 @@
+rep 0 honest reports: 75 t=70s
+rep 0 scenarios: 148 t=146s
+rep 1 honest reports: 77 t=216s
+rep 1 scenarios: 148 t=296s
+rep 2 honest reports: 77 t=361s
+rep 2 scenarios: 148 t=438s
+rep 3 honest reports: 78 t=505s
+rep 3 scenarios: 148 t=585s
+rep 4 honest reports: 75 t=656s
+rep 4 scenarios: 148 t=738s
+done 738 s; max GPU temp 59.0

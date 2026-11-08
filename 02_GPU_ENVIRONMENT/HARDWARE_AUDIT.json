@@ -1,0 +1,22 @@
+{
+ "timestamp": "2026-11-07T14:35:29",
+ "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+ "gpu": {
+  "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "compute_cap": "8.6",
+  "memory.total": "4096",
+  "memory.used": "0",
+  "temperature.gpu": "49",
+  "utilization.gpu": "0",
+  "driver_version": "610.74",
+  "power.draw": "14.49"
+ },
+ "torch": {
+  "version": "2.6.0+cu124",
+  "cuda_available": true,
+  "device": "NVIDIA GeForce RTX 3050 Laptop GPU"
+ },
+ "ollama": "ollama version is 0.40.14",
+ "ram_gb_total": 15.8,
+ "ram_gb_available": 2.0
+}

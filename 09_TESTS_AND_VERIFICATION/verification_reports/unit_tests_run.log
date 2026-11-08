@@ -1,0 +1,34 @@
+test_geometric_median_robust_to_outlier (test_swarm.TestFrozenFormulas.test_geometric_median_robust_to_outlier) ... ok
+test_rcc_in_unit_interval (test_swarm.TestFrozenFormulas.test_rcc_in_unit_interval) ... ok
+test_source_hash_matches_manifest (test_swarm.TestFrozenFormulas.test_source_hash_matches_manifest) ... D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\09_TESTS_AND_VERIFICATION\unit_tests\test_swarm.py:29: ResourceWarning: unclosed file <_io.TextIOWrapper name='D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\03_FORMULA_ENGINE\\SOURCE_SHA256.txt' mode='r' encoding='utf-8'>
+  for line in open(os.path.join(ROOT, "03_FORMULA_ENGINE", "SOURCE_SHA256.txt"), encoding="utf-8"):
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\09_TESTS_AND_VERIFICATION\unit_tests\test_swarm.py:33: ResourceWarning: unclosed file <_io.BufferedReader name='D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\03_FORMULA_ENGINE\\source\\baseline_formula.py'>
+  got = hashlib.sha256(open(os.path.join(ROOT, "03_FORMULA_ENGINE", "source", name), "rb").read()).hexdigest()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\09_TESTS_AND_VERIFICATION\unit_tests\test_swarm.py:33: ResourceWarning: unclosed file <_io.BufferedReader name='D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\03_FORMULA_ENGINE\\source\\rcc_v3_3_formula.py'>
+  got = hashlib.sha256(open(os.path.join(ROOT, "03_FORMULA_ENGINE", "source", name), "rb").read()).hexdigest()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_stp_identical_is_one_and_orthogonal_is_zero (test_swarm.TestFrozenFormulas.test_stp_identical_is_one_and_orthogonal_is_zero) ... ok
+test_stpar_never_exceeds_raw (test_swarm.TestFrozenFormulas.test_stpar_never_exceeds_raw) ... ok
+test_edit_delete_reorder_detected_truncation_not (test_swarm.TestLedger.test_edit_delete_reorder_detected_truncation_not) ... ok
+test_valid_chain (test_swarm.TestLedger.test_valid_chain) ... ok
+test_copy_case_visible_in_full_and_hidden_without_comm (test_swarm.TestLedgerFeatures.test_copy_case_visible_in_full_and_hidden_without_comm) ... ok
+test_half_mode_deterministic (test_swarm.TestLedgerFeatures.test_half_mode_deterministic) ... ok
+test_honest_case (test_swarm.TestLedgerFeatures.test_honest_case) ... ok
+test_confusion_and_rates (test_swarm.TestMetrics.test_confusion_and_rates) ... ok
+test_perfect_probabilities_have_zero_brier (test_swarm.TestMetrics.test_perfect_probabilities_have_zero_brier) ... ok
+test_agent_ids_stable_and_distinct (test_swarm.TestScenarioPlan.test_agent_ids_stable_and_distinct) ... D:\kerjaan baru\SWARM_ALIGNMENT_2026_FINAL\src\corpus.py:19: ResourceWarning: unclosed file <_io.TextIOWrapper name='D:\\kerjaan baru\\SWARM_ALIGNMENT_2026_FINAL\\data\\sources.json' mode='r' encoding='utf-8'>
+  docs = json.load(open(DATA, encoding="utf-8"))["docs"]
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_calib_and_test_domains_disjoint (test_swarm.TestScenarioPlan.test_calib_and_test_domains_disjoint) ... ok
+test_ground_truth_comes_from_design (test_swarm.TestScenarioPlan.test_ground_truth_comes_from_design) ... ok
+test_plan_deterministic (test_swarm.TestScenarioPlan.test_plan_deterministic) ... ok
+test_twin_bodies_identical_near_differs (test_swarm.TestScenarioPlan.test_twin_bodies_identical_near_differs) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.304s
+
+OK

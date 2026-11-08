@@ -1,0 +1,14 @@
+[
+ {
+  "batch": 4,
+  "seconds_for_128_texts": 72.47
+ },
+ {
+  "batch": 16,
+  "seconds_for_128_texts": 19.35
+ },
+ {
+  "batch": 64,
+  "seconds_for_128_texts": 5.97
+ }
+]

@@ -1,0 +1,11 @@
+﻿py : ...................
+At line:6 char:1
++ py -3.12 -I -B -X utf8 -m unittest discover -s tests 2> ..\hasil_v2\t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (...................:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+----------------------------------------------------------------------
+Ran 19 tests in 0.460s
+
+OK

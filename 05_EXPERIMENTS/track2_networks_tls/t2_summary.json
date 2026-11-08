@@ -1,0 +1,52 @@
+{
+ "isolated": {
+  "n_trials": 20,
+  "propagation_rate_per_downstream_agent": 0.0,
+  "correction_rate_per_downstream_agent": 0.0,
+  "trials_contaminated": 0.0,
+  "mean_depth_reached": 1.0,
+  "mean_messages": 0.0,
+  "mean_tokens": 720.95,
+  "agent_failures": 0
+ },
+ "chain": {
+  "n_trials": 20,
+  "propagation_rate_per_downstream_agent": 0.0,
+  "correction_rate_per_downstream_agent": 0.3333333333333333,
+  "trials_contaminated": 0.0,
+  "mean_depth_reached": 1.0,
+  "mean_messages": 3.0,
+  "mean_tokens": 1207.95,
+  "agent_failures": 0
+ },
+ "star": {
+  "n_trials": 20,
+  "propagation_rate_per_downstream_agent": 0.0,
+  "correction_rate_per_downstream_agent": 1.0,
+  "trials_contaminated": 0.0,
+  "mean_depth_reached": 1.0,
+  "mean_messages": 3.0,
+  "mean_tokens": 1333.9,
+  "agent_failures": 0
+ },
+ "full": {
+  "n_trials": 20,
+  "propagation_rate_per_downstream_agent": 0.0,
+  "correction_rate_per_downstream_agent": 1.0,
+  "trials_contaminated": 0.0,
+  "mean_depth_reached": 1.0,
+  "mean_messages": 6.0,
+  "mean_tokens": 1768.55,
+  "agent_failures": 0
+ },
+ "chain_verifier": {
+  "n_trials": 20,
+  "propagation_rate_per_downstream_agent": 0.0,
+  "correction_rate_per_downstream_agent": 0.3333333333333333,
+  "trials_contaminated": 0.0,
+  "mean_depth_reached": 1.0,
+  "mean_messages": 3.0,
+  "mean_tokens": 1214.5,
+  "agent_failures": 0
+ }
+}

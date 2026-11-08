@@ -1,0 +1,108 @@
+{
+ "test": "T1.1 sandbox isolation + T1.2 shared workspace + T1.4 log integrity",
+ "n_attacks": 18,
+ "leaks_with_sandbox": 0,
+ "leaks_naive_open_baseline": 11,
+ "denied_and_logged": 13,
+ "access_denied_events_in_ledger": 13,
+ "legit_ops_ok": {
+  "own_read": true,
+  "shared_read_by_B": true
+ },
+ "ledger_events": 21,
+ "ledger_chain_valid": true,
+ "details": [
+  {
+   "path": "../AG-B/secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "..\\AG-B\\secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "C:\\Users\\AZMI\\AppData\\Local\\Temp\\swarm_sbx_ktf2oixr\\agents\\AG-B\\secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "C:\\Users\\AZMI\\AppData\\Local\\Temp\\swarm_sbx_ktf2oixr\\agents\\AG-A\\..\\AG-B\\secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "../../shared/../agents/AG-B/secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "./../AG-B/./secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "C:\\Windows\\win.ini",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "\\\\localhost\\c$\\Windows\\win.ini",
+   "outcome": "os_error:ValueError",
+   "leak": false
+  },
+  {
+   "path": "..\\AG-B\\secret.txt::$DATA",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "../AG-B/secret.txt.",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "../AG-B/secret.txt ",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "..//AG-B//secret.txt",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "../ag-b/SECRET.TXT",
+   "outcome": "denied_and_logged",
+   "leak": false
+  },
+  {
+   "path": "%2e%2e/AG-B/secret.txt",
+   "outcome": "os_error:FileNotFoundError",
+   "leak": false
+  },
+  {
+   "path": "~/../AG-B/secret.txt",
+   "outcome": "os_error:FileNotFoundError",
+   "leak": false
+  },
+  {
+   "path": "....//AG-B/secret.txt",
+   "outcome": "os_error:FileNotFoundError",
+   "leak": false
+  },
+  {
+   "path": "/etc/passwd",
+   "outcome": "os_error:ValueError",
+   "leak": false
+  },
+  {
+   "path": "C:\\Users\\AZMI\\AppData\\Local\\Temp\\swarm_sbx_ktf2oixr\\agents\\AG-B",
+   "outcome": "denied_and_logged",
+   "leak": false
+  }
+ ],
+ "containment_success_rate": 1.0,
+ "log_completeness_for_denials": 1.0
+}

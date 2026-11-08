@@ -1,0 +1,22 @@
+{
+ "stage": "STAGE2",
+ "locked_at_utc": "2026-11-08T03:58:15+00:00",
+ "files": {
+  "src\\features_v2.py": "5b0e71b649c488138ed69e16b2e0281275707e1964f075d6860b1b61b0d7deb6",
+  "src\\score_v2.py": "9881fba4c7212584428e735fafb7be6cc75ef47623e08f52fd685047017d46e3",
+  "src\\stats_v2.py": "4b62fced41c8d6c9f180a718189db2b1b8cda408e61dc61af4cc9eceaceca8c3",
+  "src\\evaluate_v2.py": "a9d35cbbaef7b7e24d5b9e552c4e284892f177614296ce2934d21482d2f0d2c5",
+  "src\\diagnostics_v2.py": "02c6fd331cbb7855c83a5a0d109da426c47b32321785de02541391f479e9615d",
+  "src\\agent_common.py": "f4cfa3b08c47d5fe5ea4dfae6d6ae0c01b90053d5cb85f1ef0ff0227aeabd00c",
+  "src\\track1_v2.py": "3f3c445be9a3499d50e0c3aea3ec3d95016988020296351433414728415b4a39",
+  "src\\track2_v2.py": "5ad6e6d456c5e702a89845ca7f59042dff9ef3fd529093db5cee69076fd971dd",
+  "src\\track3_v2.py": "d37f29bf5f5546f20fea4cf49e656c3e8dd13bef25c0871630601cbd6cea93c9",
+  "src\\lock.py": "281272f59f56835958a2ea733afc3e1fbd7d56c1599480f7db5b84a6e428faef",
+  "prereg\\RETEST_DECLARATIONS_STAGE2.md": "1b9aaecef64e793ad9069d3b3dd2a57ddcb18f155487f0a879998925a1280122",
+  "prereg\\DEVIATIONS.md": "a0c5ca36378e9529a20c9a8a3bc242ac2f2a636bcc3f742dcb935f9a5f036910",
+  "tests\\test_features_v2.py": "75e2d703aeb09afb1aae5ab2755387b06dafc67a62b11a918b89b2e5047ff9f4",
+  "tests\\test_stats_v2.py": "040e256bbe33b474312e3326055ee154fdd32e6f7705d653f1f081bf30b4d02f",
+  "tests\\test_controller_v2.py": "0d2daebdd385261dded901583c032627825d4d13d20c676c1862d1808a7bdcb7",
+  "tests\\test_review_fixes.py": "a2306a59b5c79cda3a88e2a7125b5850d4747292080eb9d7d386224cf1d62c22"
+ }
+}
